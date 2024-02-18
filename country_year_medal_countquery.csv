@@ -1,0 +1,3807 @@
+year,season,noc,region,total_athlete,gold,totalmedals,silver,bronze,gold_m,silver_m,bronze_m,gold_f,silver_f,bronze_f
+1984,Winter,URS,Russia,143,29,56,15,12,28,12,6,1,3,6
+1984,Summer,FRA,France,354,20,67,16,31,20,16,24,0,0,7
+1984,Summer,MTN,Mauritania,2,0,0,0,0,0,0,0,0,0,0
+1984,Summer,SUI,Switzerland,245,0,13,9,4,0,7,3,0,2,1
+1984,Summer,ALG,Algeria,33,0,2,0,2,0,0,2,0,0,0
+1984,Summer,AUT,Austria,130,1,3,1,1,1,1,1,0,0,0
+1984,Summer,BAR,Barbados,25,0,0,0,0,0,0,0,0,0,0
+1984,Summer,LIB,Lebanon,30,0,0,0,0,0,0,0,0,0,0
+1984,Winter,CYP,Cyprus,10,0,0,0,0,0,0,0,0,0,0
+1984,Summer,TOG,Togo,6,0,0,0,0,0,0,0,0,0,0
+1984,Summer,ZIM,Zimbabwe,20,0,0,0,0,0,0,0,0,0,0
+1984,Summer,MAR,Morocco,35,2,2,0,0,1,0,0,1,0,0
+1984,Winter,PUR,Puerto Rico,1,0,0,0,0,0,0,0,0,0,0
+1988,Winter,GDR,Germany,253,14,46,22,10,10,15,4,4,7,6
+1988,Summer,ESP,Spain,317,1,5,2,2,1,2,2,0,0,0
+1988,Winter,PRK,North Korea,15,0,0,0,0,0,0,0,0,0,0
+1988,Winter,POR,Portugal,8,0,0,0,0,0,0,0,0,0,0
+1988,Summer,JAM,Jamaica,49,0,7,7,0,0,6,0,0,1,0
+1988,Summer,NED,Netherlands,202,3,45,6,36,2,1,18,1,5,18
+1988,Summer,PHI,Philippines,42,0,1,0,1,0,0,1,0,0,0
+1988,Summer,MLT,Malta,6,0,0,0,0,0,0,0,0,0,0
+1988,Summer,GDR,Germany,918,111,296,91,94,49,69,66,62,22,28
+1988,Summer,MAR,Morocco,29,1,3,0,2,1,0,2,0,0,0
+1988,Summer,ALG,Algeria,45,0,0,0,0,0,0,0,0,0,0
+1988,Summer,BAR,Barbados,26,0,0,0,0,0,0,0,0,0,0
+1988,Summer,IRQ,Iraq,28,0,0,0,0,0,0,0,0,0,0
+1988,Summer,GHA,Ghana,21,0,0,0,0,0,0,0,0,0,0
+1988,Summer,LES,Lesotho,6,0,0,0,0,0,0,0,0,0,0
+1992,Summer,IRL,Ireland,77,1,2,1,0,1,1,0,0,0,0
+1992,Summer,MON,Monaco,4,0,0,0,0,0,0,0,0,0,0
+1992,Summer,RWA,Rwanda,10,0,0,0,0,0,0,0,0,0,0
+1992,Winter,EST,Estonia,51,0,0,0,0,0,0,0,0,0,0
+1992,Winter,KOR,South Korea,57,5,7,1,1,5,1,1,0,0,0
+1992,Winter,BOL,Boliva,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,CRO,Croatia,46,0,15,12,3,0,12,3,0,0,0
+1992,Winter,PHI,Philippines,2,0,0,0,0,0,0,0,0,0,0
+1992,Summer,TOG,Togo,9,0,0,0,0,0,0,0,0,0,0
+1994,Winter,PUR,Puerto Rico,6,0,0,0,0,0,0,0,0,0,0
+1994,Winter,FIJ,Fiji,1,0,0,0,0,0,0,0,0,0,0
+1994,Winter,BUL,Bulgaria,38,0,0,0,0,0,0,0,0,0,0
+1994,Winter,NOR,Norway,159,8,30,17,5,7,12,4,1,5,1
+1996,Summer,PRK,North Korea,36,2,5,1,2,1,1,2,1,0,0
+1996,Summer,ZIM,Zimbabwe,21,0,0,0,0,0,0,0,0,0,0
+1996,Summer,AND,Andorra,8,0,0,0,0,0,0,0,0,0,0
+1996,Summer,CRC,Costa Rica,13,1,1,0,0,0,0,0,1,0,0
+1996,Summer,CHN,China,470,20,107,70,17,8,16,6,12,54,11
+1996,Summer,TGA,Tonga,5,0,1,1,0,0,1,0,0,0,0
+1996,Summer,GAB,Gabon,9,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GHA,Ghana,40,0,0,0,0,0,0,0,0,0,0
+1996,Summer,NAM,Namibia,10,0,2,2,0,0,2,0,0,0,0
+1996,Summer,CAM,Cambodia,5,0,0,0,0,0,0,0,0,0,0
+1996,Summer,TUN,Tunisia,52,0,1,0,1,0,0,1,0,0,0
+1996,Summer,CUB,Cuba,178,37,55,8,10,26,6,7,11,2,3
+1996,Summer,ESA,El Salvador,10,0,0,0,0,0,0,0,0,0,0
+1998,Winter,CHN,China,88,0,14,9,5,0,2,4,0,7,1
+1998,Winter,NZL,New Zealand,9,0,0,0,0,0,0,0,0,0,0
+2000,Summer,TKM,Turkmenistan,8,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ECU,Ecuador,11,0,0,0,0,0,0,0,0,0,0
+2000,Summer,DMA,Dominica,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,AUS,Australia,788,60,183,69,54,24,37,33,36,32,21
+2000,Summer,CAN,Canada,422,4,31,4,23,4,1,3,0,3,20
+2000,Summer,GAB,Gabon,6,0,0,0,0,0,0,0,0,0,0
+2000,Summer,BEL,Belgium,94,0,7,3,4,0,3,0,0,0,4
+2000,Summer,CHN,China,460,39,79,23,17,19,11,5,20,12,12
+2000,Summer,NEP,Nepal,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,SYR,Syria,8,0,0,0,0,0,0,0,0,0,0
+2000,Summer,LIE,Liechtenstein,2,0,0,0,0,0,0,0,0,0,0
+2002,Winter,GEO,Georgia,6,0,0,0,0,0,0,0,0,0,0
+2002,Winter,SWE,Sweden,159,0,26,2,24,0,1,1,0,1,23
+2002,Winter,BUL,Bulgaria,54,0,3,1,2,0,0,0,0,1,2
+2002,Winter,BIH,Bosnia and Herzegovina,4,0,0,0,0,0,0,0,0,0,0
+2002,Winter,CMR,Cameroon,2,0,0,0,0,0,0,0,0,0,0
+2002,Winter,CYP,Cyprus,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CGO,Republic of Congo,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,MEX,Mexico,137,0,4,3,1,0,1,0,0,2,1
+2004,Summer,BOT,Botswana,12,0,0,0,0,0,0,0,0,0,0
+2004,Summer,LBA,Libya,8,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SCG,Serbia,96,0,13,13,0,0,12,0,0,1,0
+2004,Summer,IRL,Ireland,55,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SAM,Samoa,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,VAN,Vanuatu,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,NCA,Nicaragua,6,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SUR,Suriname,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,TJK,Tajikistan,9,0,0,0,0,0,0,0,0,0,0
+2006,Winter,USA,USA,325,9,52,11,32,7,5,11,2,6,21
+2006,Winter,BRA,Brazil,12,0,0,0,0,0,0,0,0,0,0
+2006,Winter,IND,India,5,0,0,0,0,0,0,0,0,0,0
+2006,Winter,KEN,Kenya,1,0,0,0,0,0,0,0,0,0,0
+1900,Summer,COL,Colombia,1,0,1,1,0,0,1,0,0,0,0
+1900,Summer,FRA,France,1071,52,235,101,82,52,99,82,0,2,0
+1900,Summer,NZL,New Zealand,1,1,1,0,0,1,0,0,0,0,0
+1904,Summer,USA,USA,1109,128,394,141,125,122,139,123,6,2,2
+1904,Summer,HUN,Hungary,9,2,4,1,1,2,1,1,0,0,0
+1908,Summer,SWE,Sweden,276,48,84,18,18,48,18,17,0,0,1
+1908,Summer,ISL,Iceland,1,0,0,0,0,0,0,0,0,0,0
+1912,Summer,ITA,Italy,96,22,25,1,2,22,1,2,0,0,0
+1924,Summer,NOR,Norway,105,14,22,5,3,14,5,3,0,0,0
+1924,Summer,MEX,Mexico,28,0,0,0,0,0,0,0,0,0,0
+1924,Summer,IRL,Ireland,60,0,2,1,1,0,1,1,0,0,0
+1924,Summer,EGY,Egypt,30,0,0,0,0,0,0,0,0,0,0
+1924,Summer,LTU,Lithuania,13,0,0,0,0,0,0,0,0,0,0
+1924,Summer,BRA,Brazil,18,0,0,0,0,0,0,0,0,0,0
+1928,Winter,SWE,Sweden,30,2,16,13,1,2,13,1,0,0,0
+1928,Summer,BEL,Belgium,260,0,5,1,4,0,1,4,0,0,0
+1928,Summer,EST,Estonia,23,2,9,1,6,2,1,6,0,0,0
+1932,Summer,ITA,Italy,154,21,77,38,18,21,38,18,0,0,0
+1932,Winter,GER,Germany,23,0,14,0,14,0,0,14,0,0,0
+1936,Winter,TCH,Czech Republic,61,0,0,0,0,0,0,0,0,0,0
+1936,Summer,NOR,Norway,84,1,28,12,15,1,12,15,0,0,0
+1936,Summer,EGY,Egypt,66,2,5,1,2,2,1,2,0,0,0
+1936,Summer,POL,Poland,177,0,12,6,6,0,4,5,0,2,1
+1936,Summer,POR,Portugal,26,0,3,0,3,0,0,3,0,0,0
+1948,Winter,DEN,Denmark,2,0,0,0,0,0,0,0,0,0,0
+1948,Summer,GUY,Guyana,7,0,0,0,0,0,0,0,0,0,0
+1948,Winter,LIB,Lebanon,3,0,0,0,0,0,0,0,0,0,0
+1948,Summer,CUB,Cuba,112,0,2,2,0,0,2,0,0,0,0
+1952,Summer,ESP,Spain,42,0,1,1,0,0,1,0,0,0,0
+1952,Summer,NOR,Norway,190,5,13,8,0,5,7,0,0,1,0
+1952,Summer,PAK,Pakistan,51,0,0,0,0,0,0,0,0,0,0
+1952,Winter,LIB,Lebanon,3,0,0,0,0,0,0,0,0,0,0
+1952,Summer,NGR,Nigeria,15,0,0,0,0,0,0,0,0,0,0
+1952,Winter,ROU,Romania,25,0,0,0,0,0,0,0,0,0,0
+1952,Summer,GHA,Ghana,9,0,0,0,0,0,0,0,0,0,0
+1956,Summer,AUT,Austria,57,0,4,0,4,0,0,4,0,0,0
+1956,Summer,INA,Indonesia,24,0,0,0,0,0,0,0,0,0,0
+1956,Summer,UGA,Uganda,5,0,0,0,0,0,0,0,0,0,0
+1956,Winter,KOR,South Korea,10,0,0,0,0,0,0,0,0,0,0
+1956,Winter,GER,Germany,90,1,2,0,1,0,0,1,1,0,0
+1956,Summer,AUS,Australia,412,28,67,13,26,13,11,22,15,2,4
+1956,Summer,GRE,Greece,16,0,1,0,1,0,0,1,0,0,0
+1956,Summer,NED,Netherlands,1,0,0,0,0,0,0,0,0,0,0
+1960,Summer,PHI,Philippines,49,0,0,0,0,0,0,0,0,0,0
+1960,Summer,TUR,Turkey,58,7,9,2,0,7,2,0,0,0,0
+1960,Summer,INA,Indonesia,27,0,0,0,0,0,0,0,0,0,0
+1960,Summer,YUG,Serbia,185,16,17,1,0,16,1,0,0,0,0
+1960,Winter,POL,Poland,28,0,2,1,1,0,0,0,0,1,1
+1960,Summer,AFG,Afghanistan,16,0,0,0,0,0,0,0,0,0,0
+1960,Summer,TPE,Taiwan,31,0,1,1,0,0,1,0,0,0,0
+1964,Summer,URS,Russia,463,60,174,63,51,47,42,36,13,21,15
+1964,Summer,BAH,Bahamas,12,2,2,0,0,2,0,0,0,0,0
+1964,Summer,ITA,Italy,256,14,51,28,9,14,28,8,0,0,1
+1964,Summer,TCH,Czech Republic,187,5,54,37,12,2,31,12,3,6,0
+1964,Summer,KOR,South Korea,240,0,3,2,1,0,2,1,0,0,0
+1964,Summer,EGY,Egypt,83,0,0,0,0,0,0,0,0,0,0
+1964,Winter,DEN,Denmark,5,0,0,0,0,0,0,0,0,0,0
+1964,Summer,SEN,Senegal,14,0,0,0,0,0,0,0,0,0,0
+1968,Summer,ARG,Argentina,132,0,2,0,2,0,0,2,0,0,0
+1968,Summer,MEX,Mexico,446,3,9,3,3,3,2,2,0,1,1
+1968,Summer,IND,India,27,0,16,0,16,0,0,16,0,0,0
+1968,Summer,NIG,Niger,2,0,0,0,0,0,0,0,0,0,0
+1968,Summer,PAN,Panama,16,0,0,0,0,0,0,0,0,0,0
+1968,Summer,INA,Indonesia,6,0,0,0,0,0,0,0,0,0,0
+1972,Summer,ALB,Albania,5,0,0,0,0,0,0,0,0,0,0
+1972,Summer,PAK,Pakistan,26,0,15,15,0,0,15,0,0,0,0
+1972,Summer,AFG,Afghanistan,8,0,0,0,0,0,0,0,0,0,0
+1972,Summer,BIZ,Belize,2,0,0,0,0,0,0,0,0,0,0
+1972,Summer,MYA,Myanmar,19,0,0,0,0,0,0,0,0,0,0
+1972,Summer,ARG,Argentina,123,0,1,1,0,0,1,0,0,0,0
+1972,Summer,SOM,Somalia,4,0,0,0,0,0,0,0,0,0,0
+1972,Winter,HUN,Hungary,1,0,0,0,0,0,0,0,0,0,0
+1972,Summer,CGO,Republic of Congo,8,0,0,0,0,0,0,0,0,0,0
+1972,Summer,PAN,Panama,8,0,0,0,0,0,0,0,0,0,0
+1972,Winter,GRE,Greece,6,0,0,0,0,0,0,0,0,0,0
+1976,Winter,LIE,Liechtenstein,20,0,2,0,2,0,0,1,0,0,1
+1976,Summer,ARG,Argentina,106,0,0,0,0,0,0,0,0,0,0
+1976,Summer,KSA,Saudi Arabia,19,0,0,0,0,0,0,0,0,0,0
+1976,Summer,DEN,Denmark,81,3,8,0,5,3,0,5,0,0,0
+1976,Summer,TCH,Czech Republic,251,2,15,4,9,2,4,8,0,0,1
+1976,Winter,HUN,Hungary,3,0,0,0,0,0,0,0,0,0,0
+1976,Summer,CHI,Chile,9,0,0,0,0,0,0,0,0,0,0
+1976,Summer,PNG,Papua New Guinea,9,0,0,0,0,0,0,0,0,0,0
+1976,Summer,AHO,Curacao,4,0,0,0,0,0,0,0,0,0,0
+1976,Winter,ARG,Argentina,16,0,0,0,0,0,0,0,0,0,0
+1980,Summer,ZIM,Zimbabwe,52,15,15,0,0,0,0,0,15,0,0
+1980,Summer,CUB,Cuba,288,8,20,7,5,7,7,5,1,0,0
+1980,Summer,PRK,North Korea,121,0,5,3,2,0,3,2,0,0,0
+1980,Summer,SWE,Sweden,201,3,20,8,9,3,2,9,0,6,0
+1980,Winter,GBR,UK,76,1,1,0,0,1,0,0,0,0,0
+1980,Summer,MAD,Madagascar,18,0,0,0,0,0,0,0,0,0,0
+1980,Summer,ECU,Ecuador,16,0,0,0,0,0,0,0,0,0,0
+1980,Winter,BEL,Belgium,6,0,0,0,0,0,0,0,0,0,0
+1980,Summer,SEY,Seychelles,21,0,0,0,0,0,0,0,0,0,0
+1980,Summer,CMR,Cameroon,29,0,0,0,0,0,0,0,0,0,0
+1980,Winter,POL,Poland,39,0,0,0,0,0,0,0,0,0,0
+1980,Summer,COL,Colombia,28,0,0,0,0,0,0,0,0,0,0
+1980,Summer,TTO,Trinidad,15,0,0,0,0,0,0,0,0,0,0
+1980,Winter,CRC,Costa Rica,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,BAH,Bahamas,33,0,7,6,1,0,6,1,0,0,0
+2008,Summer,PAN,Panama,5,1,1,0,0,1,0,0,0,0,0
+2008,Summer,VAN,Vanuatu,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,LIB,Lebanon,6,0,0,0,0,0,0,0,0,0,0
+2008,Summer,SUD,Sudan,9,0,1,1,0,0,1,0,0,0,0
+2008,Summer,TKM,Turkmenistan,10,0,0,0,0,0,0,0,0,0,0
+2008,Summer,RWA,Rwanda,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,TOG,Togo,4,0,1,0,1,0,0,1,0,0,0
+2008,Summer,ANT,Antigua,5,0,0,0,0,0,0,0,0,0,0
+2010,Winter,SRB,Serbia,15,0,0,0,0,0,0,0,0,0,0
+2010,Winter,BRA,Brazil,7,0,0,0,0,0,0,0,0,0,0
+2012,Summer,LTU,Lithuania,72,2,5,1,2,0,1,2,2,0,0
+2012,Summer,CAM,Cambodia,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,BER,Bermuda,8,0,0,0,0,0,0,0,0,0,0
+2012,Summer,IND,India,95,0,6,2,4,0,2,2,0,0,2
+2012,Summer,ISV,"Virgin Islands, US",9,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MYA,Myanmar,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,DEN,Denmark,149,3,16,5,8,3,4,7,0,1,1
+2012,Summer,UZB,Uzbekistan,56,1,3,0,2,1,0,2,0,0,0
+2012,Summer,UGA,Uganda,16,1,1,0,0,1,0,0,0,0,0
+2012,Summer,ARU,Aruba,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MLT,Malta,5,0,0,0,0,0,0,0,0,0,0
+2012,Summer,PUR,Puerto Rico,28,0,2,1,1,0,1,1,0,0,0
+2012,Summer,JAM,Jamaica,62,8,25,9,8,7,2,2,1,7,6
+2012,Summer,,,36,0,4,0,4,0,0,0,0,0,4
+2012,Summer,AND,Andorra,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,BDI,Burundi,6,0,0,0,0,0,0,0,0,0,0
+2014,Winter,RUS,Russia,353,33,68,22,13,26,14,5,7,8,8
+2014,Winter,KAZ,Kazakhstan,115,0,1,0,1,0,0,1,0,0,0
+2014,Winter,UKR,Ukraine,101,4,5,0,1,0,0,0,4,0,1
+2014,Winter,PAR,Paraguay,1,0,0,0,0,0,0,0,0,0,0
+2014,Winter,LAT,Latvia,82,0,11,5,6,0,5,5,0,0,1
+2014,Winter,HUN,Hungary,37,0,0,0,0,0,0,0,0,0,0
+2014,Winter,MAR,Morocco,4,0,0,0,0,0,0,0,0,0,0
+2014,Winter,BER,Bermuda,1,0,0,0,0,0,0,0,0,0,0
+2014,Winter,TOG,Togo,3,0,0,0,0,0,0,0,0,0,0
+2014,Winter,TPE,Taiwan,5,0,0,0,0,0,0,0,0,0,0
+2014,Winter,BUL,Bulgaria,47,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ESP,Spain,363,9,45,19,17,5,1,15,4,18,2
+2016,Summer,SMR,San Marino,4,0,0,0,0,0,0,0,0,0,0
+2016,Summer,JPN,Japan,436,17,64,13,34,9,12,14,8,1,20
+2016,Summer,THA,Thailand,58,2,6,2,2,0,1,1,2,1,1
+2016,Summer,SKN,Saint Kitts,9,0,0,0,0,0,0,0,0,0,0
+2016,Summer,UZB,Uzbekistan,80,4,13,2,7,4,2,7,0,0,0
+2016,Summer,KSA,Saudi Arabia,11,0,0,0,0,0,0,0,0,0,0
+2016,Summer,LBA,Libya,7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,VEN,Venezuela,105,0,3,1,2,0,0,1,0,1,1
+2016,Summer,EST,Estonia,49,0,4,0,4,0,0,4,0,0,0
+2016,Summer,,,32,1,1,0,0,1,0,0,0,0,0
+2016,Summer,MON,Monaco,8,0,0,0,0,0,0,0,0,0,0
+1896,Summer,AUT,Austria,8,2,5,1,2,2,1,2,0,0,0
+1900,Summer,HAI,Haiti,4,1,1,0,0,1,0,0,0,0,0
+1904,Summer,GER,Germany,55,4,16,5,7,4,5,7,0,0,0
+1904,Summer,SUI,Switzerland,7,1,3,0,2,1,0,2,0,0,0
+1906,Summer,CAN,Canada,4,1,2,1,0,1,1,0,0,0,0
+1908,Summer,FIN,Finland,94,1,30,1,28,1,1,28,0,0,0
+1908,Summer,ITA,Italy,97,2,8,6,0,2,6,0,0,0,0
+1912,Summer,FIN,Finland,233,9,71,40,22,9,40,22,0,0,0
+1920,Summer,JPN,Japan,26,0,3,3,0,0,3,0,0,0,0
+1920,Summer,GRE,Greece,98,0,5,5,0,0,5,0,0,0,0
+1920,Summer,RSA,South Africa,97,3,21,12,6,3,12,6,0,0,0
+1924,Winter,FIN,Finland,33,4,15,8,3,4,7,3,0,1,0
+1924,Summer,FRA,France,636,37,110,51,22,37,50,22,0,1,0
+1924,Winter,USA,USA,41,1,12,10,1,1,9,1,0,1,0
+1924,Summer,JPN,Japan,37,0,1,0,1,0,0,1,0,0,0
+1928,Summer,GER,Germany,399,21,77,15,41,18,15,34,3,0,7
+1928,Winter,FRA,France,47,2,2,0,0,1,0,0,1,0,0
+1928,Winter,AUT,Austria,49,0,6,4,2,0,2,1,0,2,1
+1928,Summer,SUI,Switzerland,236,16,30,10,4,16,10,4,0,0,0
+1928,Winter,BEL,Belgium,26,0,1,0,1,0,0,1,0,0,0
+1928,Summer,JPN,Japan,56,2,9,6,1,2,5,1,0,1,0
+1928,Summer,POR,Portugal,39,0,6,0,6,0,0,6,0,0,0
+1928,Summer,NOR,Norway,79,4,9,4,1,4,4,1,0,0,0
+1932,Summer,GBR,UK,170,9,35,12,14,9,11,5,0,1,9
+1932,Summer,TCH,Czech Republic,44,1,6,3,2,1,3,2,0,0,0
+1932,Winter,BEL,Belgium,5,0,0,0,0,0,0,0,0,0,0
+1932,Summer,FRA,France,159,26,40,8,6,26,8,6,0,0,0
+1932,Summer,VEN,Venezuela,1,0,0,0,0,0,0,0,0,0,0
+1936,Winter,FIN,Finland,36,4,9,2,3,4,2,3,0,0,0
+1936,Winter,BUL,Bulgaria,11,0,0,0,0,0,0,0,0,0,0
+1936,Summer,AUT,Austria,363,6,55,42,7,6,42,6,0,0,1
+1948,Summer,TTO,Trinidad,9,0,1,1,0,0,1,0,0,0,0
+1948,Summer,ESP,Spain,84,0,3,3,0,0,3,0,0,0,0
+1948,Summer,NED,Netherlands,187,8,42,2,32,0,1,27,8,1,5
+1948,Winter,GBR,UK,78,0,2,0,2,0,0,1,0,0,1
+1948,Summer,HUN,Hungary,222,15,62,25,22,13,17,20,2,8,2
+1948,Summer,NZL,New Zealand,8,0,0,0,0,0,0,0,0,0,0
+1948,Summer,NOR,Norway,97,3,18,4,11,3,4,11,0,0,0
+1948,Winter,GRE,Greece,2,0,0,0,0,0,0,0,0,0,0
+1952,Summer,HUN,Hungary,345,53,102,17,32,43,6,19,10,11,13
+1952,Summer,CAN,Canada,154,1,4,3,0,1,3,0,0,0,0
+1952,Winter,CHI,Chile,7,0,0,0,0,0,0,0,0,0,0
+1952,Summer,GUY,Guyana,1,0,0,0,0,0,0,0,0,0,0
+1952,Winter,FRA,France,45,0,1,0,1,0,0,0,0,0,1
+1952,Summer,BRA,Brazil,119,1,3,0,2,1,0,2,0,0,0
+1952,Summer,MYA,Myanmar,5,0,0,0,0,0,0,0,0,0,0
+1952,Summer,TTO,Trinidad,2,0,2,0,2,0,0,2,0,0,0
+1956,Summer,IRL,Ireland,25,1,5,1,3,1,1,3,0,0,0
+1956,Summer,PUR,Puerto Rico,14,0,0,0,0,0,0,0,0,0,0
+1956,Winter,USA,USA,92,2,26,19,5,1,18,5,1,1,0
+1956,Summer,POL,Poland,118,1,19,9,9,0,9,3,1,0,6
+1956,Winter,GBR,UK,69,0,0,0,0,0,0,0,0,0,0
+1956,Winter,HUN,Hungary,2,0,2,0,2,0,0,1,0,0,1
+1956,Summer,SRI,Sri Lanka,3,0,0,0,0,0,0,0,0,0,0
+1956,Summer,PHI,Philippines,48,0,0,0,0,0,0,0,0,0,0
+1960,Winter,USA,USA,105,19,27,4,4,18,1,1,1,3,3
+1960,Winter,SUI,Switzerland,40,2,2,0,0,1,0,0,1,0,0
+1960,Winter,JPN,Japan,73,0,0,0,0,0,0,0,0,0,0
+1960,Summer,KOR,South Korea,49,0,0,0,0,0,0,0,0,0,0
+1960,Summer,FRA,France,363,0,12,6,6,0,6,6,0,0,0
+1960,Summer,MAL,Malaysia,11,0,0,0,0,0,0,0,0,0,0
+1964,Winter,GER,Germany,144,3,10,4,3,2,2,3,1,2,0
+1964,Winter,NOR,Norway,90,3,15,6,6,3,6,6,0,0,0
+1964,Summer,MGL,Mongolia,40,0,0,0,0,0,0,0,0,0,0
+1964,Summer,PAK,Pakistan,47,0,16,16,0,0,16,0,0,0,0
+1964,Summer,MEX,Mexico,128,0,1,0,1,0,0,1,0,0,0
+1964,Summer,CHI,Chile,16,0,0,0,0,0,0,0,0,0,0
+1964,Summer,MAR,Morocco,21,0,0,0,0,0,0,0,0,0,0
+1964,Summer,PUR,Puerto Rico,45,0,0,0,0,0,0,0,0,0,0
+1968,Winter,FIN,Finland,95,1,8,2,5,0,1,5,1,1,0
+1968,Summer,DOM,Dominican Republic,24,0,0,0,0,0,0,0,0,0,0
+1968,Winter,LIB,Lebanon,6,0,0,0,0,0,0,0,0,0,0
+1968,Summer,CIV,Ivory Coast,11,0,0,0,0,0,0,0,0,0,0
+1972,Summer,URS,Russia,531,107,214,47,60,74,41,54,33,6,6
+1972,Summer,FRA,France,356,2,22,5,15,2,5,15,0,0,0
+1972,Winter,KOR,South Korea,11,0,0,0,0,0,0,0,0,0,0
+1972,Winter,ESP,Spain,7,1,1,0,0,1,0,0,0,0,0
+1972,Summer,TUR,Turkey,50,0,1,1,0,0,1,0,0,0,0
+1972,Winter,JPN,Japan,134,1,3,1,1,1,1,1,0,0,0
+1976,Winter,FRA,France,59,0,1,0,1,0,0,0,0,0,1
+1976,Summer,INA,Indonesia,11,0,0,0,0,0,0,0,0,0,0
+1976,Summer,DOM,Dominican Republic,11,0,0,0,0,0,0,0,0,0,0
+1976,Summer,BAH,Bahamas,19,0,0,0,0,0,0,0,0,0,0
+1980,Summer,MLI,Mali,7,0,0,0,0,0,0,0,0,0,0
+1980,Summer,ITA,Italy,203,8,37,21,8,7,19,8,1,2,0
+1980,Winter,NED,Netherlands,47,1,4,2,1,0,1,1,1,1,0
+1980,Summer,NZL,New Zealand,7,0,0,0,0,0,0,0,0,0,0
+1980,Winter,BUL,Bulgaria,16,0,1,0,1,0,0,1,0,0,0
+1980,Summer,LAO,Laos,19,0,0,0,0,0,0,0,0,0,0
+1980,Summer,JOR,Jordan,6,0,0,0,0,0,0,0,0,0,0
+1980,Summer,AFG,Afghanistan,11,0,0,0,0,0,0,0,0,0,0
+1984,Winter,BOL,Boliva,5,0,0,0,0,0,0,0,0,0,0
+1984,Summer,FIJ,Fiji,26,0,0,0,0,0,0,0,0,0,0
+1984,Summer,MEX,Mexico,155,2,6,3,1,2,3,1,0,0,0
+1984,Summer,RWA,Rwanda,6,0,0,0,0,0,0,0,0,0,0
+1984,Winter,MGL,Mongolia,12,0,0,0,0,0,0,0,0,0,0
+1984,Winter,TCH,Czech Republic,79,0,28,24,4,0,20,2,0,4,2
+1984,Winter,YUG,Serbia,115,0,1,1,0,0,1,0,0,0,0
+1984,Summer,IND,India,53,0,0,0,0,0,0,0,0,0,0
+1984,Summer,LIE,Liechtenstein,8,0,0,0,0,0,0,0,0,0,0
+1984,Summer,BAN,Bangladesh,2,0,0,0,0,0,0,0,0,0,0
+1988,Winter,GBR,UK,95,0,0,0,0,0,0,0,0,0,0
+1988,Summer,GRE,Greece,72,0,1,0,1,0,0,1,0,0,0
+1988,Summer,GUY,Guyana,8,0,0,0,0,0,0,0,0,0,0
+1988,Summer,CHA,Chad,6,0,0,0,0,0,0,0,0,0,0
+1988,Summer,TPE,Taiwan,123,0,0,0,0,0,0,0,0,0,0
+1988,Winter,GUA,Guatemala,15,0,0,0,0,0,0,0,0,0,0
+1992,Summer,MAR,Morocco,45,1,3,1,1,1,1,1,0,0,0
+1992,Summer,EGY,Egypt,83,0,0,0,0,0,0,0,0,0,0
+1992,Summer,FIN,Finland,130,1,7,4,2,1,4,2,0,0,0
+1992,Summer,SLE,Sierra Leone,15,0,0,0,0,0,0,0,0,0,0
+1992,Summer,GEQ,Equatorial Guinea,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,IRI,Iran,44,0,3,1,2,0,1,2,0,0,0
+1992,Summer,MAW,Malawi,4,0,0,0,0,0,0,0,0,0,0
+1992,Summer,AHO,Curacao,4,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BUR,Burkina Faso,4,0,0,0,0,0,0,0,0,0,0
+1992,Summer,MLI,Mali,6,0,0,0,0,0,0,0,0,0,0
+1992,Summer,LBA,Libya,5,0,0,0,0,0,0,0,0,0,0
+1992,Summer,NEP,Nepal,2,0,0,0,0,0,0,0,0,0,0
+1992,Summer,COK,Cook Islands,2,0,0,0,0,0,0,0,0,0,0
+1994,Winter,RSA,South Africa,3,0,0,0,0,0,0,0,0,0,0
+1994,Winter,MGL,Mongolia,2,0,0,0,0,0,0,0,0,0,0
+1994,Winter,SLO,Slovenia,59,0,3,0,3,0,0,1,0,0,2
+1994,Winter,CZE,Czech Republic,117,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GBR,UK,391,2,26,15,9,2,15,8,0,0,1
+1996,Summer,SLO,Slovenia,47,0,2,2,0,0,1,0,0,1,0
+1996,Summer,PHI,Philippines,18,0,1,1,0,0,1,0,0,0,0
+1996,Summer,KEN,Kenya,54,1,8,4,3,1,3,3,0,1,0
+1996,Summer,GUM,Guam,9,0,0,0,0,0,0,0,0,0,0
+1996,Summer,ZAM,Zambia,8,0,1,1,0,0,1,0,0,0,0
+1996,Summer,TJK,Tajikistan,8,0,0,0,0,0,0,0,0,0,0
+1996,Summer,LTU,Lithuania,81,0,11,0,11,0,0,11,0,0,0
+1996,Summer,VAN,Vanuatu,4,0,0,0,0,0,0,0,0,0,0
+1996,Summer,LBA,Libya,5,0,0,0,0,0,0,0,0,0,0
+1996,Summer,SAM,Samoa,5,0,0,0,0,0,0,0,0,0,0
+1996,Summer,CGO,Republic of Congo,5,0,0,0,0,0,0,0,0,0,0
+1998,Winter,POR,Portugal,2,0,0,0,0,0,0,0,0,0,0
+1998,Winter,KAZ,Kazakhstan,114,0,2,0,2,0,0,1,0,0,1
+2000,Summer,SVK,Slovakia,132,2,6,3,1,2,1,1,0,2,0
+2000,Summer,PLE,Palestine,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,CHI,Chile,58,0,17,0,17,0,0,17,0,0,0
+2000,Summer,OMA,Oman,8,0,0,0,0,0,0,0,0,0,0
+2000,Summer,PRK,North Korea,47,0,4,1,3,0,0,2,0,1,1
+2000,Summer,BRA,Brazil,236,0,48,12,36,0,10,10,0,2,26
+2000,Summer,BEN,Benin,4,0,0,0,0,0,0,0,0,0,0
+2002,Winter,AZE,Azerbaijan,4,0,0,0,0,0,0,0,0,0,0
+2002,Winter,CZE,Czech Republic,163,1,3,2,0,1,0,0,0,2,0
+2002,Winter,UKR,Ukraine,111,0,0,0,0,0,0,0,0,0,0
+2004,Summer,AZE,Azerbaijan,37,1,5,0,4,1,0,2,0,0,2
+2004,Summer,SUI,Switzerland,138,1,7,2,4,1,2,3,0,0,1
+2004,Summer,JAM,Jamaica,62,6,13,1,6,0,1,0,6,0,6
+2004,Summer,TAN,Tanzania,9,0,0,0,0,0,0,0,0,0,0
+2004,Summer,VIN,Saint Vincent,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,KOR,South Korea,344,14,52,28,10,9,8,5,5,20,5
+2004,Summer,TGA,Tonga,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,ISL,Iceland,34,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CAF,Central African Republic,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,RUS,Russia,593,48,189,46,95,19,11,68,29,35,27
+2004,Summer,LAO,Laos,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,EST,Estonia,45,0,3,1,2,0,1,2,0,0,0
+2004,Summer,MAD,Madagascar,8,0,0,0,0,0,0,0,0,0,0
+2004,Summer,POR,Portugal,93,0,3,2,1,0,2,1,0,0,0
+2004,Summer,ALG,Algeria,71,0,0,0,0,0,0,0,0,0,0
+2004,Summer,NRU,Nauru,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BRN,Bahrain,10,0,0,0,0,0,0,0,0,0,0
+2006,Winter,HUN,Hungary,32,0,0,0,0,0,0,0,0,0,0
+2006,Winter,RSA,South Africa,9,0,0,0,0,0,0,0,0,0,0
+2008,Summer,KOR,South Korea,329,41,78,11,26,34,6,7,7,5,19
+2008,Summer,,,36,0,3,3,0,0,0,0,0,3,0
+2008,Summer,GAB,Gabon,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ARG,Argentina,145,20,51,0,31,20,0,14,0,0,17
+2008,Summer,CRO,Croatia,125,0,5,2,3,0,1,0,0,1,3
+2008,Summer,DEN,Denmark,108,6,19,7,6,6,7,3,0,0,3
+2008,Summer,BLR,Belarus,237,8,29,5,16,7,3,5,1,2,11
+2008,Summer,CMR,Cameroon,32,1,1,0,0,0,0,0,1,0,0
+2008,Summer,KGZ,Kyrgyzstan,22,0,2,1,1,0,1,1,0,0,0
+2008,Summer,PLW,Palau,5,0,0,0,0,0,0,0,0,0,0
+2008,Summer,GUY,Guyana,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,PAR,Paraguay,7,0,0,0,0,0,0,0,0,0,0
+2010,Winter,BLR,Belarus,95,1,3,1,1,1,1,0,0,0,1
+2010,Winter,SWE,Sweden,172,11,18,3,4,6,0,3,5,3,1
+2010,Winter,TJK,Tajikistan,4,0,0,0,0,0,0,0,0,0,0
+2010,Winter,PER,Peru,5,0,0,0,0,0,0,0,0,0,0
+2012,Summer,GER,Germany,510,45,94,27,22,39,10,18,6,17,4
+2012,Summer,VIE,Vietnam,24,0,0,0,0,0,0,0,0,0,0
+2012,Summer,ETH,Ethiopia,34,3,7,1,3,0,1,1,3,0,2
+2012,Summer,URU,Uruguay,27,0,0,0,0,0,0,0,0,0,0
+2012,Summer,PLW,Palau,5,0,0,0,0,0,0,0,0,0,0
+2012,Summer,LCA,Saint Lucia,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,PER,Peru,16,0,0,0,0,0,0,0,0,0,0
+2012,Summer,NAM,Namibia,9,0,0,0,0,0,0,0,0,0,0
+2012,Summer,CAY,Cayman Islands,7,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MLI,Mali,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,ERI,Eritrea,12,0,0,0,0,0,0,0,0,0,0
+2012,Summer,FIJ,Fiji,9,0,0,0,0,0,0,0,0,0,0
+2012,Summer,SYR,Syria,10,0,0,0,0,0,0,0,0,0,0
+2012,Summer,BEL,Belgium,142,0,3,1,2,0,1,0,0,0,2
+2012,Summer,LBA,Libya,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,ALG,Algeria,39,1,1,0,0,1,0,0,0,0,0
+2014,Winter,PAK,Pakistan,1,0,0,0,0,0,0,0,0,0,0
+2014,Winter,ITA,Italy,227,0,14,2,12,0,1,4,0,1,8
+2014,Winter,SVK,Slovakia,115,1,1,0,0,0,0,0,1,0,0
+2014,Winter,POR,Portugal,4,0,0,0,0,0,0,0,0,0,0
+2014,Winter,ISL,Iceland,11,0,0,0,0,0,0,0,0,0,0
+2014,Winter,BRA,Brazil,17,0,0,0,0,0,0,0,0,0,0
+2014,Winter,NZL,New Zealand,18,0,0,0,0,0,0,0,0,0,0
+2014,Winter,MLT,Malta,2,0,0,0,0,0,0,0,0,0,0
+2016,Summer,EGY,Egypt,137,0,3,0,3,0,0,1,0,0,2
+2016,Summer,BRA,Brazil,583,36,50,8,6,33,6,4,3,2,2
+2016,Summer,CHI,Chile,47,0,0,0,0,0,0,0,0,0,0
+2016,Summer,BUR,Burkina Faso,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MNE,Montenegro,35,0,0,0,0,0,0,0,0,0,0
+2016,Summer,CGO,Republic of Congo,10,0,0,0,0,0,0,0,0,0,0
+2016,Summer,GAB,Gabon,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,TPE,Taiwan,67,1,5,0,4,0,0,0,1,0,4
+2016,Summer,IRI,Iran,67,3,8,1,4,3,1,3,0,0,1
+2016,Summer,NAM,Namibia,11,0,0,0,0,0,0,0,0,0,0
+2016,Summer,BRN,Bahrain,33,1,2,1,0,0,0,0,1,1,0
+2016,Summer,NOR,Norway,77,0,19,0,19,0,0,5,0,0,14
+2016,Summer,LBR,Liberia,3,0,0,0,0,0,0,0,0,0,0
+2016,Summer,CHA,Chad,2,0,0,0,0,0,0,0,0,0,0
+2016,Summer,AND,Andorra,4,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MAD,Madagascar,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ISR,Israel,59,0,2,0,2,0,0,1,0,0,1
+2016,Summer,BER,Bermuda,8,0,0,0,0,0,0,0,0,0,0
+2016,Summer,PLE,Palestine,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,SEY,Seychelles,10,0,0,0,0,0,0,0,0,0,0
+2016,Summer,CAF,Central African Republic,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,DMA,Dominica,2,0,0,0,0,0,0,0,0,0,0
+1896,Summer,FRA,France,26,5,11,4,2,5,4,2,0,0,0
+1900,Summer,DEN,Denmark,36,4,9,3,2,4,3,2,0,0,0
+1900,Summer,SWE,Sweden,27,3,4,0,1,3,0,1,0,0,0
+1900,Summer,MEX,Mexico,3,0,3,0,3,0,0,3,0,0,0
+1906,Summer,AUS,Australia,10,0,3,0,3,0,0,3,0,0,0
+1912,Summer,GBR,UK,461,47,170,64,59,41,63,56,6,1,3
+1912,Summer,POR,Portugal,8,0,0,0,0,0,0,0,0,0,0
+1920,Summer,GBR,UK,345,52,111,42,17,49,33,15,3,9,2
+1920,Summer,NOR,Norway,267,58,137,52,27,58,51,27,0,1,0
+1924,Summer,NED,Netherlands,246,8,27,1,18,8,1,17,0,0,1
+1924,Summer,BEL,Belgium,234,3,39,30,6,3,30,6,0,0,0
+1924,Summer,DEN,Denmark,158,2,14,9,3,1,9,2,1,0,1
+1924,Winter,GBR,UK,50,16,31,4,11,16,4,10,0,0,1
+1924,Winter,NEP,Nepal,1,1,1,0,0,1,0,0,0,0,0
+1924,Winter,ITA,Italy,24,0,0,0,0,0,0,0,0,0,0
+1928,Summer,ARG,Argentina,98,3,26,18,5,3,18,5,0,0,0
+1928,Summer,PHI,Philippines,6,0,1,0,1,0,0,1,0,0,0
+1928,Winter,HUN,Hungary,16,0,0,0,0,0,0,0,0,0,0
+1932,Summer,NZL,New Zealand,29,0,2,2,0,0,2,0,0,0,0
+1932,Summer,HAI,Haiti,3,0,0,0,0,0,0,0,0,0,0
+1932,Summer,TUR,Turkey,2,0,0,0,0,0,0,0,0,0,0
+1932,Winter,POL,Poland,22,0,0,0,0,0,0,0,0,0,0
+1932,Winter,JPN,Japan,33,0,0,0,0,0,0,0,0,0,0
+1932,Summer,CUB,Cuba,3,0,0,0,0,0,0,0,0,0,0
+1936,Summer,YUG,Serbia,173,0,1,1,0,0,1,0,0,0,0
+1936,Summer,COL,Colombia,6,0,0,0,0,0,0,0,0,0,0
+1948,Summer,CAN,Canada,188,0,7,2,5,0,2,1,0,0,4
+1948,Summer,USA,USA,424,87,152,30,35,79,26,25,8,4,10
+1948,Summer,BEL,Belgium,182,5,15,2,8,5,2,8,0,0,0
+1948,Winter,FRA,France,60,2,5,1,2,2,1,2,0,0,0
+1948,Winter,NED,Netherlands,15,0,0,0,0,0,0,0,0,0,0
+1948,Winter,HUN,Hungary,43,0,2,2,0,0,1,0,0,1,0
+1948,Summer,COL,Colombia,11,0,0,0,0,0,0,0,0,0,0
+1948,Winter,YUG,Serbia,30,0,0,0,0,0,0,0,0,0,0
+1948,Winter,ESP,Spain,12,0,0,0,0,0,0,0,0,0,0
+1952,Summer,FIN,Finland,412,8,40,3,29,7,3,29,1,0,0
+1952,Summer,ISR,Israel,31,0,0,0,0,0,0,0,0,0,0
+1952,Winter,CAN,Canada,60,16,17,0,1,16,0,1,0,0,0
+1952,Summer,LUX,Luxembourg,101,1,1,0,0,1,0,0,0,0,0
+1952,Summer,FRA,France,408,14,40,9,17,14,8,17,0,1,0
+1952,Winter,BUL,Bulgaria,19,0,0,0,0,0,0,0,0,0,0
+1952,Summer,ISL,Iceland,18,0,0,0,0,0,0,0,0,0,0
+1952,Summer,SRI,Sri Lanka,7,0,0,0,0,0,0,0,0,0,0
+1956,Summer,ARG,Argentina,44,0,2,1,1,0,1,1,0,0,0
+1956,Summer,KEN,Kenya,31,0,0,0,0,0,0,0,0,0,0
+1956,Summer,FIJ,Fiji,5,0,0,0,0,0,0,0,0,0,0
+1956,Summer,BAH,Bahamas,5,0,2,0,2,0,0,2,0,0,0
+1956,Winter,SWE,Sweden,93,2,15,4,9,2,4,5,0,0,4
+1956,Summer,CHI,Chile,43,0,4,2,2,0,1,2,0,1,0
+1956,Winter,ROU,Romania,35,0,0,0,0,0,0,0,0,0,0
+1956,Winter,ESP,Spain,18,0,0,0,0,0,0,0,0,0,0
+1960,Winter,SWE,Sweden,72,5,9,2,2,2,2,2,3,0,0
+1960,Summer,NZL,New Zealand,47,2,3,0,1,2,0,1,0,0,0
+1960,Summer,URS,Russia,414,61,169,63,45,36,56,38,25,7,7
+1960,Summer,CHI,Chile,9,0,0,0,0,0,0,0,0,0,0
+1960,Summer,IRQ,Iraq,28,0,1,0,1,0,0,1,0,0,0
+1960,Summer,POR,Portugal,109,0,2,2,0,0,2,0,0,0,0
+1960,Winter,LIB,Lebanon,5,0,0,0,0,0,0,0,0,0,0
+1960,Summer,THA,Thailand,24,0,0,0,0,0,0,0,0,0,0
+1960,Summer,BAH,Bahamas,14,0,0,0,0,0,0,0,0,0,0
+1960,Summer,KEN,Kenya,30,0,0,0,0,0,0,0,0,0,0
+1964,Summer,LUX,Luxembourg,27,0,0,0,0,0,0,0,0,0,0
+1964,Winter,BUL,Bulgaria,19,0,0,0,0,0,0,0,0,0,0
+1964,Summer,MAS,Malaysia,81,0,0,0,0,0,0,0,0,0,0
+1964,Winter,YUG,Serbia,54,0,0,0,0,0,0,0,0,0,0
+1964,Summer,MON,Monaco,1,0,0,0,0,0,0,0,0,0,0
+1964,Summer,LIB,Lebanon,8,0,0,0,0,0,0,0,0,0,0
+1968,Winter,NOR,Norway,107,11,22,9,2,8,8,1,3,1,1
+1968,Summer,HUN,Hungary,303,32,81,20,29,31,13,26,1,7,3
+1968,Summer,GBR,UK,328,9,19,5,5,8,2,5,1,3,0
+1968,Summer,MGL,Mongolia,38,0,4,1,3,0,1,3,0,0,0
+1968,Summer,VNM,Vietnam,9,0,0,0,0,0,0,0,0,0,0
+1968,Summer,FIJ,Fiji,1,0,0,0,0,0,0,0,0,0,0
+1972,Summer,DOM,Dominican Republic,5,0,0,0,0,0,0,0,0,0,0
+1972,Summer,CHI,Chile,13,0,0,0,0,0,0,0,0,0,0
+1972,Summer,YUG,Serbia,212,15,18,1,2,15,1,2,0,0,0
+1972,Winter,NED,Netherlands,26,4,9,3,2,3,1,0,1,2,2
+1972,Summer,MGL,Mongolia,44,0,1,1,0,0,1,0,0,0,0
+1972,Summer,GBR,UK,433,8,29,9,12,5,8,12,3,1,0
+1972,Summer,BER,Bermuda,9,0,0,0,0,0,0,0,0,0,0
+1972,Summer,ISV,"Virgin Islands, US",16,0,0,0,0,0,0,0,0,0,0
+1976,Summer,TUR,Turkey,28,0,0,0,0,0,0,0,0,0,0
+1976,Summer,IRL,Ireland,59,0,0,0,0,0,0,0,0,0,0
+1976,Summer,POL,Poland,286,18,73,29,26,17,29,26,1,0,0
+1976,Winter,CAN,Canada,109,1,3,1,1,0,0,1,1,1,0
+1976,Summer,SEN,Senegal,33,0,0,0,0,0,0,0,0,0,0
+1976,Summer,SUI,Switzerland,101,1,10,3,6,0,1,6,1,2,0
+1976,Winter,ISL,Iceland,16,0,0,0,0,0,0,0,0,0,0
+1976,Summer,CRC,Costa Rica,10,0,0,0,0,0,0,0,0,0,0
+1976,Summer,NCA,Nicaragua,25,0,0,0,0,0,0,0,0,0,0
+1980,Summer,UGA,Uganda,16,0,1,1,0,0,1,0,0,0,0
+1980,Winter,USA,USA,155,24,30,4,2,24,1,1,0,3,1
+1980,Winter,GDR,Germany,205,16,47,13,18,9,9,14,7,4,4
+1980,Summer,FIN,Finland,125,3,9,1,5,3,1,4,0,0,1
+1984,Summer,CAY,Cayman Islands,14,0,0,0,0,0,0,0,0,0,0
+1984,Summer,FRG,Germany,571,30,158,75,53,23,52,32,7,23,21
+1984,Summer,GUA,Guatemala,53,0,0,0,0,0,0,0,0,0,0
+1984,Winter,ITA,Italy,117,2,2,0,0,1,0,0,1,0,0
+1984,Summer,THA,Thailand,40,0,1,1,0,0,1,0,0,0,0
+1984,Summer,AHO,Curacao,13,0,0,0,0,0,0,0,0,0,0
+1984,Summer,JAM,Jamaica,75,0,7,5,2,0,5,0,0,0,2
+1984,Summer,SYR,Syria,9,0,1,1,0,0,1,0,0,0,0
+1984,Summer,BHU,Bhutan,6,0,0,0,0,0,0,0,0,0,0
+1984,Summer,COD,Democratic Republic of the Congo,9,0,0,0,0,0,0,0,0,0,0
+1984,Summer,HAI,Haiti,3,0,0,0,0,0,0,0,0,0,0
+1984,Summer,COL,Colombia,48,0,1,1,0,0,1,0,0,0,0
+1984,Winter,ISL,Iceland,10,0,0,0,0,0,0,0,0,0,0
+1984,Summer,SOL,Solomon Islands,3,0,0,0,0,0,0,0,0,0,0
+1984,Summer,BIZ,Belize,13,0,0,0,0,0,0,0,0,0,0
+1984,Summer,BEN,Benin,3,0,0,0,0,0,0,0,0,0,0
+1984,Summer,DJI,Djibouti,3,0,0,0,0,0,0,0,0,0,0
+1988,Summer,BUL,Bulgaria,281,10,41,14,17,7,6,6,3,8,11
+1988,Summer,JPN,Japan,412,4,20,3,13,4,2,10,0,1,3
+1988,Summer,SUI,Switzerland,151,0,8,6,2,0,5,1,0,1,1
+1988,Summer,MEX,Mexico,144,0,2,0,2,0,0,2,0,0,0
+1988,Summer,GRN,Grenada,7,0,0,0,0,0,0,0,0,0,0
+1988,Summer,CHN,China,518,6,52,16,30,3,4,7,3,12,23
+1988,Summer,YUG,Serbia,183,15,63,27,21,14,15,18,1,12,3
+1988,Summer,ANT,Antigua,25,0,0,0,0,0,0,0,0,0,0
+1988,Winter,URS,Russia,152,40,66,14,12,32,9,10,8,5,2
+1988,Winter,LIB,Lebanon,9,0,0,0,0,0,0,0,0,0,0
+1988,Winter,AND,Andorra,9,0,0,0,0,0,0,0,0,0,0
+1988,Winter,CYP,Cyprus,8,0,0,0,0,0,0,0,0,0,0
+1988,Winter,USA,USA,197,2,7,1,4,1,1,1,1,0,3
+1988,Summer,JOR,Jordan,9,0,0,0,0,0,0,0,0,0,0
+1988,Winter,GUM,Guam,1,0,0,0,0,0,0,0,0,0,0
+1988,Summer,GAM,Gambia,6,0,0,0,0,0,0,0,0,0,0
+1988,Winter,LUX,Luxembourg,3,0,0,0,0,0,0,0,0,0,0
+1988,Summer,MAW,Malawi,22,0,0,0,0,0,0,0,0,0,0
+1988,Winter,CHN,China,15,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ITA,Italy,431,21,45,10,14,15,9,14,6,1,0
+1992,Summer,EUN,Russia,650,92,220,61,67,59,38,33,33,23,34
+1992,Winter,ISL,Iceland,15,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BHU,Bhutan,12,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ALG,Algeria,36,1,2,0,1,0,0,1,1,0,0
+1992,Summer,COL,Colombia,61,0,1,0,1,0,0,0,0,0,1
+1992,Summer,SEN,Senegal,25,0,0,0,0,0,0,0,0,0,0
+1992,Summer,MAD,Madagascar,17,0,0,0,0,0,0,0,0,0,0
+1992,Winter,JPN,Japan,136,3,12,2,7,3,1,6,0,1,1
+1992,Summer,ESA,El Salvador,6,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ALB,Albania,9,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ISR,Israel,44,0,2,1,1,0,0,1,0,1,0
+1992,Summer,LAO,Laos,7,0,0,0,0,0,0,0,0,0,0
+1992,Winter,LTU,Lithuania,13,0,0,0,0,0,0,0,0,0,0
+1992,Winter,JAM,Jamaica,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,VIE,Vietnam,10,0,0,0,0,0,0,0,0,0,0
+1994,Winter,AUT,Austria,130,2,12,3,7,1,1,6,1,2,1
+1994,Winter,ITA,Italy,193,14,32,6,12,10,4,5,4,2,7
+1994,Winter,SUI,Switzerland,106,4,16,8,4,3,7,3,1,1,1
+1994,Winter,CRO,Croatia,11,0,0,0,0,0,0,0,0,0,0
+1994,Winter,ISR,Israel,1,0,0,0,0,0,0,0,0,0,0
+1996,Summer,AUS,Australia,550,32,132,16,84,11,6,43,21,10,41
+1996,Summer,JPN,Japan,448,3,42,26,13,2,22,2,1,4,11
+1996,Summer,SWE,Sweden,233,3,31,23,5,0,23,1,3,0,4
+1996,Summer,SOL,Solomon Islands,4,0,0,0,0,0,0,0,0,0,0
+1996,Summer,EST,Estonia,52,0,0,0,0,0,0,0,0,0,0
+1996,Summer,IND,India,54,0,1,0,1,0,0,1,0,0,0
+1996,Summer,NIG,Niger,3,0,0,0,0,0,0,0,0,0,0
+1996,Summer,PER,Peru,33,0,0,0,0,0,0,0,0,0,0
+1996,Summer,CHI,Chile,24,0,0,0,0,0,0,0,0,0,0
+1996,Summer,MYA,Myanmar,3,0,0,0,0,0,0,0,0,0,0
+1996,Summer,ECU,Ecuador,28,1,1,0,0,1,0,0,0,0,0
+1996,Summer,OMA,Oman,5,0,0,0,0,0,0,0,0,0,0
+1998,Winter,NED,Netherlands,48,5,11,4,2,3,4,2,2,0,0
+1998,Winter,ESP,Spain,24,0,0,0,0,0,0,0,0,0,0
+1998,Winter,KGZ,Kyrgyzstan,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,GER,Germany,567,31,118,23,64,14,17,29,17,6,35
+2000,Summer,NZL,New Zealand,177,1,4,0,3,1,0,2,0,0,1
+2000,Summer,ITA,Italy,457,22,65,14,29,14,12,26,8,2,3
+2000,Summer,ASA,American Samoa,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,NED,Netherlands,285,27,79,29,23,20,6,7,7,23,16
+2000,Summer,BUL,Bulgaria,150,5,13,6,2,3,5,2,2,1,0
+2000,Summer,KOR,South Korea,359,12,73,26,35,6,24,29,6,2,6
+2000,Summer,MDA,Moldova,35,0,2,1,1,0,1,1,0,0,0
+2000,Summer,BHU,Bhutan,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,EGY,Egypt,103,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ESP,Spain,431,3,42,19,20,2,19,17,1,0,3
+2000,Summer,GBS,Guinea-Bissau,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ARU,Aruba,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,PAN,Panama,7,0,0,0,0,0,0,0,0,0,0
+2000,Summer,SEY,Seychelles,9,0,0,0,0,0,0,0,0,0,0
+2000,Summer,FIJ,Fiji,9,0,0,0,0,0,0,0,0,0,0
+2000,Summer,HAI,Haiti,5,0,0,0,0,0,0,0,0,0,0
+2002,Winter,MKD,Macedonia,4,0,0,0,0,0,0,0,0,0,0
+2002,Winter,ESP,Spain,16,0,0,0,0,0,0,0,0,0,0
+2002,Winter,TJK,Tajikistan,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,PAN,Panama,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,PER,Peru,14,0,0,0,0,0,0,0,0,0,0
+2004,Summer,NZL,New Zealand,184,4,6,2,0,1,2,0,3,0,0
+2004,Summer,BIH,Bosnia and Herzegovina,11,0,0,0,0,0,0,0,0,0,0
+2004,Summer,KAZ,Kazakhstan,130,1,8,4,3,1,4,3,0,0,0
+2004,Summer,ARM,Armenia,19,0,0,0,0,0,0,0,0,0,0
+2004,Summer,MDA,Moldova,33,0,0,0,0,0,0,0,0,0,0
+2004,Summer,GBS,Guinea-Bissau,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,IRI,Iran,37,2,6,2,2,2,2,2,0,0,0
+2004,Summer,VIE,Vietnam,11,0,0,0,0,0,0,0,0,0,0
+2004,Summer,,,22,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CIV,Ivory Coast,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,YEM,Yemen,3,0,0,0,0,0,0,0,0,0,0
+2006,Winter,ITA,Italy,290,11,25,0,14,11,0,4,0,0,10
+2006,Winter,SWE,Sweden,168,35,64,21,8,27,0,5,8,21,3
+2006,Winter,JPN,Japan,190,1,1,0,0,0,0,0,1,0,0
+2006,Winter,SCG,Serbia,11,0,0,0,0,0,0,0,0,0,0
+2006,Winter,ALG,Algeria,3,0,0,0,0,0,0,0,0,0,0
+2006,Winter,DEN,Denmark,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,FRA,France,448,25,77,24,28,24,22,21,1,2,7
+2008,Summer,INA,Indonesia,26,2,7,2,3,2,1,2,0,1,1
+2008,Summer,CAY,Cayman Islands,6,0,0,0,0,0,0,0,0,0,0
+2008,Summer,GER,Germany,558,42,99,16,41,29,12,14,13,4,27
+2008,Summer,RUS,Russia,600,43,142,46,53,12,14,34,31,32,19
+2008,Summer,HUN,Hungary,216,16,27,8,3,14,4,2,2,4,1
+2008,Summer,BIH,Bosnia and Herzegovina,7,0,0,0,0,0,0,0,0,0,0
+2008,Summer,IRI,Iran,55,1,2,0,1,1,0,1,0,0,0
+2008,Summer,LBR,Liberia,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ISV,"Virgin Islands, US",8,0,0,0,0,0,0,0,0,0,0
+2008,Summer,KEN,Kenya,47,6,15,4,5,4,1,4,2,3,1
+2008,Summer,MDA,Moldova,30,0,1,0,1,0,0,1,0,0,0
+2008,Summer,COL,Colombia,90,0,2,1,1,0,1,0,0,0,1
+2008,Summer,COD,Democratic Republic of the Congo,5,0,0,0,0,0,0,0,0,0,0
+2008,Summer,PUR,Puerto Rico,31,0,0,0,0,0,0,0,0,0,0
+2008,Summer,BEN,Benin,5,0,0,0,0,0,0,0,0,0,0
+2008,Summer,CAM,Cambodia,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,NCA,Nicaragua,7,0,0,0,0,0,0,0,0,0,0
+2008,Summer,SYR,Syria,7,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MON,Monaco,5,0,0,0,0,0,0,0,0,0,0
+2008,Summer,KUW,Kuwait,8,0,0,0,0,0,0,0,0,0,0
+2010,Winter,BIH,Bosnia and Herzegovina,10,0,0,0,0,0,0,0,0,0,0
+2010,Winter,POR,Portugal,1,0,0,0,0,0,0,0,0,0,0
+2010,Winter,ITA,Italy,208,1,5,1,3,1,1,2,0,0,1
+2010,Winter,JPN,Japan,153,0,7,5,2,0,1,2,0,4,0
+2010,Winter,MKD,Macedonia,4,0,0,0,0,0,0,0,0,0,0
+2010,Winter,BEL,Belgium,10,0,0,0,0,0,0,0,0,0,0
+2010,Winter,GEO,Georgia,9,0,0,0,0,0,0,0,0,0,0
+2010,Winter,ROU,Romania,49,0,0,0,0,0,0,0,0,0,0
+2010,Winter,RSA,South Africa,2,0,0,0,0,0,0,0,0,0,0
+2010,Winter,AZE,Azerbaijan,4,0,0,0,0,0,0,0,0,0,0
+2010,Winter,SMR,San Marino,1,0,0,0,0,0,0,0,0,0,0
+2012,Summer,SVK,Slovakia,65,0,5,1,4,0,0,3,0,1,1
+2012,Summer,FIN,Finland,69,0,5,1,4,0,0,1,0,1,3
+2012,Summer,MDA,Moldova,20,0,2,0,2,0,0,1,0,0,1
+2012,Summer,VIN,Saint Vincent,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,PLE,Palestine,5,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MRI,Mauritius,11,0,0,0,0,0,0,0,0,0,0
+2012,Summer,LIB,Lebanon,10,0,0,0,0,0,0,0,0,0,0
+2014,Winter,LIE,Liechtenstein,5,0,0,0,0,0,0,0,0,0,0
+2014,Winter,SUI,Switzerland,219,6,30,4,20,4,3,0,2,1,20
+2014,Winter,VEN,Venezuela,1,0,0,0,0,0,0,0,0,0,0
+2014,Winter,ARM,Armenia,6,0,0,0,0,0,0,0,0,0,0
+2014,Winter,TLS,Timor-Leste,1,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ALG,Algeria,74,0,2,2,0,0,2,0,0,0,0
+2016,Summer,JOR,Jordan,8,1,1,0,0,1,0,0,0,0,0
+2016,Summer,UGA,Uganda,23,0,0,0,0,0,0,0,0,0,0
+2016,Summer,PAN,Panama,14,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ASA,American Samoa,4,0,0,0,0,0,0,0,0,0,0
+2016,Summer,BOT,Botswana,14,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ERI,Eritrea,12,0,0,0,0,0,0,0,0,0,0
+2016,Summer,PLW,Palau,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,CMR,Cameroon,22,0,0,0,0,0,0,0,0,0,0
+2016,Summer,GUM,Guam,5,0,0,0,0,0,0,0,0,0,0
+1896,Summer,AUS,Australia,5,2,3,0,1,2,0,1,0,0,0
+1900,Summer,RUS,Russia,5,0,0,0,0,0,0,0,0,0,0
+1904,Summer,NOR,Norway,6,2,2,0,0,2,0,0,0,0,0
+1904,Summer,CAN,Canada,62,27,48,9,12,27,9,12,0,0,0
+1904,Summer,FRA,France,2,0,2,2,0,0,2,0,0,0,0
+1906,Summer,BOH,Czech Republic,29,0,3,0,3,0,0,3,0,0,0
+1906,Summer,ITA,Italy,103,21,56,8,27,21,8,27,0,0,0
+1912,Summer,NED,Netherlands,45,0,26,0,26,0,0,26,0,0,0
+1912,Summer,USA,USA,364,46,107,25,36,46,25,36,0,0,0
+1920,Summer,USA,USA,473,111,194,45,38,104,42,34,7,3,4
+1920,Summer,CHI,Chile,2,0,0,0,0,0,0,0,0,0,0
+1924,Summer,POR,Portugal,47,0,4,0,4,0,0,4,0,0,0
+1924,Winter,LAT,Latvia,7,0,0,0,0,0,0,0,0,0,0
+1924,Winter,CAN,Canada,17,9,9,0,0,9,0,0,0,0,0
+1924,Winter,AUS,Australia,1,1,1,0,0,1,0,0,0,0,0
+1924,Summer,ECU,Ecuador,4,0,0,0,0,0,0,0,0,0,0
+1924,Summer,BUL,Bulgaria,31,0,0,0,0,0,0,0,0,0,0
+1928,Summer,AUS,Australia,29,1,4,2,1,1,2,1,0,0,0
+1928,Summer,TCH,Czech Republic,147,2,16,12,2,2,12,2,0,0,0
+1928,Winter,MEX,Mexico,5,0,0,0,0,0,0,0,0,0,0
+1932,Winter,HUN,Hungary,4,0,2,0,2,0,0,1,0,0,1
+1932,Winter,USA,USA,70,10,34,21,3,10,20,2,0,1,1
+1932,Summer,PHI,Philippines,8,0,3,0,3,0,0,3,0,0,0
+1932,Summer,LUX,Luxembourg,11,0,0,0,0,0,0,0,0,0,0
+1932,Summer,NOR,Norway,8,0,0,0,0,0,0,0,0,0,0
+1936,Winter,GBR,UK,40,12,17,1,4,12,0,4,0,1,0
+1936,Summer,BUL,Bulgaria,85,0,0,0,0,0,0,0,0,0,0
+1936,Winter,POL,Poland,32,0,0,0,0,0,0,0,0,0,0
+1936,Summer,MON,Monaco,11,0,0,0,0,0,0,0,0,0,0
+1936,Winter,EST,Estonia,9,0,0,0,0,0,0,0,0,0,0
+1936,Summer,NZL,New Zealand,9,1,1,0,0,1,0,0,0,0,0
+1948,Summer,JAM,Jamaica,26,1,3,2,0,1,2,0,0,0,0
+1948,Summer,CHN,China,33,0,0,0,0,0,0,0,0,0,0
+1948,Summer,DEN,Denmark,253,7,51,17,27,4,10,25,3,7,2
+1948,Summer,LUX,Luxembourg,115,0,0,0,0,0,0,0,0,0,0
+1948,Summer,MON,Monaco,4,0,0,0,0,0,0,0,0,0,0
+1948,Summer,LIB,Lebanon,9,0,0,0,0,0,0,0,0,0,0
+1952,Summer,TCH,Czech Republic,218,11,25,4,10,10,4,2,1,0,8
+1952,Summer,URU,Uruguay,42,0,14,0,14,0,0,14,0,0,0
+1952,Summer,AUT,Austria,238,0,3,1,2,0,0,2,0,1,0
+1956,Summer,EGY,Egypt,6,0,0,0,0,0,0,0,0,0,0
+1956,Winter,GRE,Greece,6,0,0,0,0,0,0,0,0,0,0
+1956,Summer,BER,Bermuda,3,0,0,0,0,0,0,0,0,0,0
+1956,Summer,ISR,Israel,3,0,0,0,0,0,0,0,0,0,0
+1956,Summer,VNM,Vietnam,10,0,0,0,0,0,0,0,0,0,0
+1960,Winter,CAN,Canada,75,3,21,17,1,1,17,1,2,0,0
+1960,Summer,HKG,China,4,0,0,0,0,0,0,0,0,0,0
+1960,Winter,DEN,Denmark,3,0,0,0,0,0,0,0,0,0,0
+1960,Winter,ESP,Spain,12,0,0,0,0,0,0,0,0,0,0
+1960,Summer,SUI,Switzerland,221,0,12,6,6,0,6,6,0,0,0
+1960,Summer,TCH,Czech Republic,202,4,22,7,11,3,0,11,1,7,0
+1960,Winter,NZL,New Zealand,12,0,0,0,0,0,0,0,0,0,0
+1960,Winter,ISL,Iceland,10,0,0,0,0,0,0,0,0,0,0
+1960,Summer,IRI,Iran,24,0,4,1,3,0,1,3,0,0,0
+1960,Winter,CHI,Chile,12,0,0,0,0,0,0,0,0,0,0
+1960,Summer,COL,Colombia,23,0,0,0,0,0,0,0,0,0,0
+1960,Summer,ZIM,Zimbabwe,22,0,0,0,0,0,0,0,0,0,0
+1960,Summer,LBR,Liberia,6,0,0,0,0,0,0,0,0,0,0
+1964,Summer,GER,Germany,478,22,116,44,50,18,39,46,4,5,4
+1964,Summer,TPE,Taiwan,96,0,0,0,0,0,0,0,0,0,0
+1964,Summer,NEP,Nepal,6,0,0,0,0,0,0,0,0,0,0
+1964,Summer,TUN,Tunisia,12,0,2,1,1,0,1,1,0,0,0
+1964,Summer,AUS,Australia,392,8,44,6,30,6,0,27,2,6,3
+1964,Summer,MAD,Madagascar,4,0,0,0,0,0,0,0,0,0,0
+1964,Summer,SUI,Switzerland,129,1,6,4,1,1,3,1,0,1,0
+1968,Summer,JPN,Japan,289,16,63,25,22,16,16,22,0,9,0
+1968,Winter,SUI,Switzerland,62,0,9,2,7,0,2,6,0,0,1
+1968,Summer,ECU,Ecuador,41,0,0,0,0,0,0,0,0,0,0
+1968,Summer,PER,Peru,33,0,0,0,0,0,0,0,0,0,0
+1968,Summer,ETH,Ethiopia,26,1,2,1,0,1,1,0,0,0,0
+1968,Summer,COD,Democratic Republic of the Congo,8,0,0,0,0,0,0,0,0,0,0
+1972,Summer,BEL,Belgium,106,0,2,2,0,0,2,0,0,0,0
+1972,Winter,LIE,Liechtenstein,10,0,0,0,0,0,0,0,0,0,0
+1972,Summer,ITA,Italy,345,9,25,3,13,8,2,10,1,1,3
+1972,Winter,FIN,Finland,83,0,10,9,1,0,5,0,0,4,1
+1972,Summer,MEX,Mexico,281,0,1,1,0,0,1,0,0,0,0
+1972,Winter,PRK,North Korea,10,0,0,0,0,0,0,0,0,0,0
+1972,Summer,SWZ,Swaziland,4,0,0,0,0,0,0,0,0,0,0
+1972,Summer,BOL,Boliva,14,0,0,0,0,0,0,0,0,0,0
+1972,Summer,BAR,Barbados,20,0,0,0,0,0,0,0,0,0,0
+1972,Summer,TTO,Trinidad,36,0,0,0,0,0,0,0,0,0,0
+1976,Summer,GBR,UK,353,6,32,15,11,6,15,11,0,0,0
+1976,Summer,FRA,France,302,5,20,7,8,5,2,8,0,5,0
+1976,Summer,PRK,North Korea,40,1,2,1,0,1,1,0,0,0,0
+1976,Summer,POR,Portugal,36,0,2,2,0,0,2,0,0,0,0
+1976,Winter,NZL,New Zealand,13,0,0,0,0,0,0,0,0,0,0
+1976,Winter,GDR,Germany,202,14,64,13,37,11,9,30,3,4,7
+1980,Summer,MGL,Mongolia,57,0,4,2,2,0,2,2,0,0,0
+1980,Winter,LIE,Liechtenstein,17,2,4,2,0,0,1,0,2,1,0
+1980,Summer,JAM,Jamaica,32,0,3,0,3,0,0,2,0,0,1
+1980,Summer,GUI,Guinea,10,0,0,0,0,0,0,0,0,0,0
+1980,Summer,SRI,Sri Lanka,4,0,0,0,0,0,0,0,0,0,0
+1980,Summer,PER,Peru,38,0,0,0,0,0,0,0,0,0,0
+1980,Summer,CYP,Cyprus,15,0,0,0,0,0,0,0,0,0,0
+1980,Winter,FRA,France,44,0,1,0,1,0,0,0,0,0,1
+1980,Summer,NGR,Nigeria,56,0,0,0,0,0,0,0,0,0,0
+1984,Summer,KOR,South Korea,240,6,41,28,7,5,4,6,1,24,1
+1984,Summer,KEN,Kenya,67,1,3,0,2,1,0,2,0,0,0
+1984,Winter,SWE,Sweden,98,7,30,2,21,7,2,21,0,0,0
+1984,Summer,KSA,Saudi Arabia,42,0,0,0,0,0,0,0,0,0,0
+1984,Winter,GDR,Germany,225,16,41,14,11,10,9,9,6,5,2
+1984,Summer,PHI,Philippines,32,0,0,0,0,0,0,0,0,0,0
+1984,Summer,IVB,"Virgin Islands, British",13,0,0,0,0,0,0,0,0,0,0
+1984,Summer,LUX,Luxembourg,5,0,0,0,0,0,0,0,0,0,0
+1984,Summer,TTO,Trinidad,23,0,0,0,0,0,0,0,0,0,0
+1984,Summer,NCA,Nicaragua,5,0,0,0,0,0,0,0,0,0,0
+1984,Summer,CYP,Cyprus,12,0,0,0,0,0,0,0,0,0,0
+1984,Winter,TPE,Taiwan,20,0,0,0,0,0,0,0,0,0,0
+1984,Summer,GEQ,Equatorial Guinea,5,0,0,0,0,0,0,0,0,0,0
+1984,Summer,PAR,Paraguay,18,0,0,0,0,0,0,0,0,0,0
+1988,Summer,NOR,Norway,79,2,22,20,0,2,6,0,0,14,0
+1988,Summer,EGY,Egypt,59,0,0,0,0,0,0,0,0,0,0
+1988,Summer,NZL,New Zealand,112,4,24,4,16,4,4,12,0,0,4
+1988,Summer,DJI,Djibouti,6,0,1,0,1,0,0,1,0,0,0
+1988,Summer,AFG,Afghanistan,5,0,0,0,0,0,0,0,0,0,0
+1988,Summer,ARU,Aruba,12,0,0,0,0,0,0,0,0,0,0
+1988,Summer,,,27,0,0,0,0,0,0,0,0,0,0
+1988,Summer,SAM,Samoa,11,0,0,0,0,0,0,0,0,0,0
+1988,Winter,BOL,Boliva,8,0,0,0,0,0,0,0,0,0,0
+1988,Summer,HAI,Haiti,5,0,0,0,0,0,0,0,0,0,0
+1988,Summer,AHO,Curacao,4,0,1,1,0,0,1,0,0,0,0
+1988,Summer,TUN,Tunisia,45,0,0,0,0,0,0,0,0,0,0
+1988,Winter,POL,Poland,43,0,0,0,0,0,0,0,0,0,0
+1988,Summer,SOL,Solomon Islands,5,0,0,0,0,0,0,0,0,0,0
+1988,Winter,MON,Monaco,4,0,0,0,0,0,0,0,0,0,0
+1988,Summer,CAF,Central African Republic,15,0,0,0,0,0,0,0,0,0,0
+1992,Winter,DEN,Denmark,13,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ETH,Ethiopia,24,1,3,0,2,0,0,2,1,0,0
+1992,Summer,KOR,South Korea,322,28,49,5,16,7,3,11,21,2,5
+1992,Summer,CUB,Cuba,196,42,69,13,14,30,12,10,12,1,4
+1992,Summer,MLT,Malta,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ISL,Iceland,31,0,0,0,0,0,0,0,0,0,0
+1992,Summer,CHI,Chile,15,0,0,0,0,0,0,0,0,0,0
+1992,Winter,NZL,New Zealand,10,0,1,1,0,0,0,0,0,1,0
+1992,Winter,SEN,Senegal,10,0,0,0,0,0,0,0,0,0,0
+1992,Summer,AUT,Austria,127,0,6,6,0,0,6,0,0,0,0
+1992,Summer,SOL,Solomon Islands,1,0,0,0,0,0,0,0,0,0,0
+1994,Winter,RUS,Russia,208,19,36,13,4,6,8,2,13,5,2
+1994,Winter,ROU,Romania,48,0,0,0,0,0,0,0,0,0,0
+1994,Winter,CYP,Cyprus,1,0,0,0,0,0,0,0,0,0,0
+1994,Winter,LTU,Lithuania,13,0,0,0,0,0,0,0,0,0,0
+1994,Winter,UZB,Uzbekistan,7,1,1,0,0,0,0,0,1,0,0
+1994,Winter,ASA,American Samoa,2,0,0,0,0,0,0,0,0,0,0
+1996,Summer,BEL,Belgium,81,2,6,2,2,1,1,1,1,1,1
+1996,Summer,MGL,Mongolia,18,0,1,0,1,0,0,1,0,0,0
+1996,Summer,ANT,Antigua,19,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GUI,Guinea,5,0,0,0,0,0,0,0,0,0,0
+1996,Summer,CZE,Czech Republic,169,4,13,5,4,3,3,2,1,2,2
+1996,Summer,MON,Monaco,4,0,0,0,0,0,0,0,0,0,0
+1996,Summer,COM,Comoros,4,0,0,0,0,0,0,0,0,0,0
+1996,Summer,SLE,Sierra Leone,19,0,0,0,0,0,0,0,0,0,0
+1996,Summer,NOR,Norway,116,2,23,3,18,2,3,1,0,0,17
+1996,Summer,KAZ,Kazakhstan,142,3,11,4,4,3,4,4,0,0,0
+1996,Summer,CAF,Central African Republic,5,0,0,0,0,0,0,0,0,0,0
+1996,Summer,NZL,New Zealand,129,3,9,2,4,3,0,3,0,2,1
+1996,Summer,BOT,Botswana,7,0,0,0,0,0,0,0,0,0,0
+1998,Winter,CAN,Canada,208,14,49,28,7,7,7,2,7,21,5
+1998,Winter,SUI,Switzerland,118,6,14,5,3,6,5,2,0,0,1
+1998,Winter,UKR,Ukraine,104,0,1,1,0,0,0,0,0,1,0
+1998,Winter,BRA,Brazil,1,0,0,0,0,0,0,0,0,0,0
+1998,Winter,ISR,Israel,3,0,0,0,0,0,0,0,0,0,0
+1998,Winter,SLO,Slovenia,69,0,0,0,0,0,0,0,0,0,0
+2000,Summer,HUN,Hungary,238,25,53,24,4,23,2,3,2,22,1
+2000,Summer,CUB,Cuba,271,18,65,35,12,8,32,11,10,3,1
+2000,Summer,,,23,0,0,0,0,0,0,0,0,0,0
+2000,Summer,SUI,Switzerland,138,1,14,11,2,0,5,1,1,6,1
+2000,Summer,RSA,South Africa,161,0,5,2,3,0,1,2,0,1,1
+2000,Summer,ISR,Israel,58,0,1,0,1,0,0,1,0,0,0
+2000,Summer,SUD,Sudan,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,BOT,Botswana,9,0,0,0,0,0,0,0,0,0,0
+2000,Summer,LCA,Saint Lucia,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,JAM,Jamaica,65,0,23,20,3,0,6,1,0,14,2
+2000,Summer,MAS,Malaysia,55,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ANT,Antigua,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,SCG,Serbia,125,11,25,1,13,11,0,13,0,1,0
+2000,Summer,CAM,Cambodia,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,BUR,Burkina Faso,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,CIV,Ivory Coast,18,0,0,0,0,0,0,0,0,0,0
+2000,Summer,TJK,Tajikistan,4,0,0,0,0,0,0,0,0,0,0
+2002,Winter,AUT,Austria,148,3,20,4,13,3,3,12,0,1,1
+2002,Winter,LTU,Lithuania,21,0,0,0,0,0,0,0,0,0,0
+2002,Winter,JPN,Japan,203,0,2,1,1,0,1,0,0,0,1
+2002,Winter,KAZ,Kazakhstan,101,0,0,0,0,0,0,0,0,0,0
+2002,Winter,AND,Andorra,5,0,0,0,0,0,0,0,0,0,0
+2002,Winter,ARG,Argentina,26,0,0,0,0,0,0,0,0,0,0
+2002,Winter,MDA,Moldova,9,0,0,0,0,0,0,0,0,0,0
+2004,Summer,TLS,Timor-Leste,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CAN,Canada,391,3,17,10,4,2,7,1,1,3,3
+2004,Summer,BIZ,Belize,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,GER,Germany,592,41,149,45,63,12,32,31,29,13,32
+2004,Summer,HAI,Haiti,8,0,0,0,0,0,0,0,0,0,0
+2004,Summer,AHO,Curacao,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,HON,Honduras,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,KIR,Kiribati,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,ISV,"Virgin Islands, US",9,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BLR,Belarus,192,2,15,5,8,1,3,4,1,2,4
+2004,Summer,UGA,Uganda,11,0,0,0,0,0,0,0,0,0,0
+2004,Summer,TUR,Turkey,74,3,11,3,5,2,3,5,1,0,0
+2004,Summer,GHA,Ghana,29,0,0,0,0,0,0,0,0,0,0
+2004,Summer,DEN,Denmark,115,19,29,1,9,4,1,4,15,0,5
+2004,Summer,COM,Comoros,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SRI,Sri Lanka,8,0,0,0,0,0,0,0,0,0,0
+2006,Winter,SUI,Switzerland,181,5,21,7,9,1,2,9,4,5,0
+2006,Winter,GER,Germany,263,23,54,25,6,14,10,3,9,15,3
+2008,Summer,AUT,Austria,93,0,3,1,2,0,1,0,0,0,2
+2008,Summer,TUV,NA,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,SVK,Slovakia,67,4,10,5,1,3,4,1,1,1,0
+2008,Summer,MKD,Macedonia,7,0,0,0,0,0,0,0,0,0,0
+2008,Summer,UZB,Uzbekistan,69,1,6,2,3,1,2,2,0,0,1
+2008,Summer,SUI,Switzerland,116,3,11,1,7,3,1,5,0,0,2
+2008,Summer,YEM,Yemen,8,0,0,0,0,0,0,0,0,0,0
+2008,Summer,BEL,Belgium,112,1,5,4,0,0,0,0,1,4,0
+2008,Summer,BOL,Boliva,7,0,0,0,0,0,0,0,0,0,0
+2008,Summer,EST,Estonia,53,1,3,2,0,1,2,0,0,0,0
+2008,Summer,BRN,Bahrain,15,0,0,0,0,0,0,0,0,0,0
+2008,Summer,TAN,Tanzania,9,0,0,0,0,0,0,0,0,0,0
+2010,Winter,CRO,Croatia,37,0,3,2,1,0,2,1,0,0,0
+2010,Winter,ALG,Algeria,1,0,0,0,0,0,0,0,0,0,0
+2010,Winter,AUT,Austria,132,11,26,9,6,10,7,3,1,2,3
+2012,Summer,SRB,Serbia,134,1,16,1,14,0,0,14,1,1,0
+2012,Summer,COD,Democratic Republic of the Congo,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,POL,Poland,256,2,12,2,8,2,0,3,0,2,5
+2012,Summer,BRU,Brunei,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,DMA,Dominica,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,ISL,Iceland,36,0,0,0,0,0,0,0,0,0,0
+2012,Summer,AUT,Austria,90,0,0,0,0,0,0,0,0,0,0
+2012,Summer,AZE,Azerbaijan,59,2,10,2,6,2,1,5,0,1,1
+2012,Summer,UKR,Ukraine,304,9,26,5,12,4,3,3,5,2,9
+2012,Summer,FSM,Micronesia,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,GBS,Guinea-Bissau,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,HAI,Haiti,5,0,0,0,0,0,0,0,0,0,0
+2014,Winter,AUT,Austria,213,4,27,12,11,2,8,9,2,4,2
+2014,Winter,IRL,Ireland,8,0,0,0,0,0,0,0,0,0,0
+2014,Winter,MDA,Moldova,5,0,0,0,0,0,0,0,0,0,0
+2014,Winter,PHI,Philippines,1,0,0,0,0,0,0,0,0,0,0
+2016,Summer,JAM,Jamaica,77,11,30,17,2,9,5,0,2,12,2
+2016,Summer,FIN,Finland,67,0,1,0,1,0,0,0,0,0,1
+2016,Summer,GUI,Guinea,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,AUT,Austria,85,0,2,0,2,0,0,1,0,0,1
+2016,Summer,NRU,Nauru,2,0,0,0,0,0,0,0,0,0,0
+2016,Summer,USA,USA,719,139,264,54,71,54,25,36,85,29,35
+2016,Summer,MOZ,Mozambique,8,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ROT,NA,13,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ETH,Ethiopia,38,1,8,2,5,0,1,2,1,1,3
+2016,Summer,ALB,Albania,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,SSD,South Sudan,3,0,0,0,0,0,0,0,0,0,0
+2016,Summer,PER,Peru,34,0,0,0,0,0,0,0,0,0,0
+2016,Summer,VAN,Vanuatu,4,0,0,0,0,0,0,0,0,0,0
+1900,Summer,ROU,Romania,1,0,0,0,0,0,0,0,0,0,0
+1900,Summer,BOH,Czech Republic,9,0,3,1,2,0,1,0,0,0,2
+1900,Summer,CUB,Cuba,2,1,2,1,0,1,1,0,0,0,0
+1900,Summer,NED,Netherlands,73,3,27,8,16,3,8,16,0,0,0
+1900,Summer,GRE,Greece,4,0,0,0,0,0,0,0,0,0,0
+1904,Summer,CUB,Cuba,6,5,5,0,0,5,0,0,0,0,0
+1906,Summer,GRE,Greece,495,24,102,48,30,23,46,28,1,2,2
+1906,Summer,HUN,Hungary,99,5,13,5,3,5,5,3,0,0,0
+1906,Summer,EGY,Egypt,5,0,0,0,0,0,0,0,0,0,0
+1908,Summer,NOR,Norway,103,7,42,32,3,7,32,3,0,0,0
+1908,Summer,RSA,South Africa,33,1,2,1,0,1,1,0,0,0,0
+1908,Summer,RUS,Russia,7,1,3,2,0,1,2,0,0,0,0
+1912,Summer,ISL,Iceland,2,0,0,0,0,0,0,0,0,0,0
+1912,Summer,TUR,Turkey,7,0,0,0,0,0,0,0,0,0,0
+1912,Summer,CHI,Chile,28,0,0,0,0,0,0,0,0,0,0
+1920,Summer,ITA,Italy,291,67,84,9,8,67,9,8,0,0,0
+1920,Summer,BEL,Belgium,518,57,188,65,66,57,65,66,0,0,0
+1924,Summer,USA,USA,459,97,182,36,49,84,30,45,13,6,4
+1924,Winter,IND,India,7,7,7,0,0,7,0,0,0,0,0
+1924,Winter,BEL,Belgium,32,0,5,0,5,0,0,5,0,0,0
+1924,Winter,FRA,France,68,0,10,0,10,0,0,9,0,0,1
+1928,Summer,MEX,Mexico,55,0,0,0,0,0,0,0,0,0,0
+1928,Winter,YUG,Serbia,8,0,0,0,0,0,0,0,0,0,0
+1928,Summer,CUB,Cuba,1,0,0,0,0,0,0,0,0,0,0
+1932,Summer,ESP,Spain,8,0,1,0,1,0,0,1,0,0,0
+1932,Summer,CAN,Canada,191,2,39,13,24,2,8,23,0,5,1
+1932,Summer,JPN,Japan,203,10,31,17,4,10,16,4,0,1,0
+1932,Summer,POR,Portugal,8,0,0,0,0,0,0,0,0,0,0
+1932,Summer,SWE,Sweden,128,13,32,7,12,13,7,12,0,0,0
+1932,Summer,RSA,South Africa,20,2,5,0,3,2,0,1,0,0,2
+1932,Summer,SUI,Switzerland,9,0,1,1,0,0,1,0,0,0,0
+1936,Winter,LIE,Liechtenstein,4,0,0,0,0,0,0,0,0,0,0
+1936,Winter,FRA,France,34,0,1,0,1,0,0,1,0,0,0
+1936,Summer,DEN,Denmark,173,0,6,3,3,0,2,2,0,1,1
+1948,Summer,PUR,Puerto Rico,9,0,1,0,1,0,0,1,0,0,0
+1948,Winter,SWE,Sweden,70,7,13,3,3,7,3,3,0,0,0
+1948,Summer,PER,Peru,49,1,1,0,0,1,0,0,0,0,0
+1948,Summer,ITA,Italy,310,21,67,32,14,21,30,14,0,2,0
+1952,Summer,NZL,New Zealand,20,1,3,0,2,0,0,1,1,0,1
+1952,Summer,ITA,Italy,376,17,54,22,15,16,22,15,1,0,0
+1952,Summer,ARG,Argentina,174,2,6,2,2,2,2,2,0,0,0
+1952,Winter,AUT,Austria,74,2,8,4,2,1,3,2,1,1,0
+1952,Summer,PAN,Panama,1,0,0,0,0,0,0,0,0,0,0
+1952,Summer,PUR,Puerto Rico,23,0,0,0,0,0,0,0,0,0,0
+1956,Summer,KOR,South Korea,36,0,2,1,1,0,1,1,0,0,0
+1956,Winter,CAN,Canada,52,0,20,2,18,0,1,17,0,1,1
+1956,Summer,MYA,Myanmar,12,0,0,0,0,0,0,0,0,0,0
+1956,Summer,CUB,Cuba,24,0,0,0,0,0,0,0,0,0,0
+1956,Summer,TTO,Trinidad,10,0,0,0,0,0,0,0,0,0,0
+1960,Winter,NOR,Norway,55,3,9,6,0,3,6,0,0,0,0
+1960,Summer,ARG,Argentina,116,0,4,3,1,0,3,1,0,0,0
+1960,Summer,AUT,Austria,198,1,3,2,0,1,2,0,0,0,0
+1960,Summer,ITA,Italy,402,36,88,18,34,36,18,28,0,0,6
+1960,Summer,HUN,Hungary,312,13,66,16,37,13,11,35,0,5,2
+1960,Summer,VNM,Vietnam,5,0,0,0,0,0,0,0,0,0,0
+1960,Summer,CUB,Cuba,21,0,0,0,0,0,0,0,0,0,0
+1960,Summer,WIF,Trinidad,20,0,5,0,5,0,0,5,0,0,0
+1960,Summer,,,5,0,1,1,0,0,1,0,0,0,0
+1960,Summer,GRE,Greece,59,3,3,0,0,3,0,0,0,0,0
+1964,Winter,JPN,Japan,85,0,0,0,0,0,0,0,0,0,0
+1964,Summer,IRI,Iran,96,0,2,0,2,0,0,2,0,0,0
+1964,Summer,DEN,Denmark,71,7,12,1,4,7,1,4,0,0,0
+1964,Summer,ISL,Iceland,5,0,0,0,0,0,0,0,0,0,0
+1964,Summer,GRE,Greece,19,0,0,0,0,0,0,0,0,0,0
+1964,Summer,GUY,Guyana,1,0,0,0,0,0,0,0,0,0,0
+1964,Summer,CUB,Cuba,76,0,1,1,0,0,1,0,0,0,0
+1964,Summer,KEN,Kenya,41,0,1,0,1,0,0,1,0,0,0
+1964,Summer,CRC,Costa Rica,2,0,0,0,0,0,0,0,0,0,0
+1964,Summer,JAM,Jamaica,32,0,0,0,0,0,0,0,0,0,0
+1964,Summer,AHO,Curacao,4,0,0,0,0,0,0,0,0,0,0
+1964,Summer,SRI,Sri Lanka,7,0,0,0,0,0,0,0,0,0,0
+1968,Winter,BUL,Bulgaria,16,0,0,0,0,0,0,0,0,0,0
+1968,Summer,DEN,Denmark,93,5,17,6,6,5,6,6,0,0,0
+1968,Winter,ITA,Italy,79,8,8,0,0,7,0,0,1,0,0
+1968,Summer,NED,Netherlands,140,6,14,7,1,5,7,0,1,0,1
+1968,Winter,CAN,Canada,111,1,20,1,18,0,0,18,1,1,0
+1968,Summer,FIN,Finland,126,1,4,2,1,1,2,1,0,0,0
+1968,Winter,MGL,Mongolia,10,0,0,0,0,0,0,0,0,0,0
+1968,Summer,TUN,Tunisia,8,1,2,0,1,1,0,1,0,0,0
+1968,Summer,FRA,France,311,12,27,5,10,11,4,10,1,1,0
+1968,Summer,BAH,Bahamas,22,0,0,0,0,0,0,0,0,0,0
+1968,Summer,GUY,Guyana,6,0,0,0,0,0,0,0,0,0,0
+1968,Summer,BIZ,Belize,7,0,0,0,0,0,0,0,0,0,0
+1968,Winter,MAR,Morocco,8,0,0,0,0,0,0,0,0,0,0
+1972,Winter,FRA,France,69,0,3,1,2,0,0,1,0,1,1
+1972,Summer,AUT,Austria,143,0,3,1,2,0,1,1,0,0,1
+1972,Summer,LUX,Luxembourg,15,0,0,0,0,0,0,0,0,0,0
+1972,Winter,TPE,Taiwan,9,0,0,0,0,0,0,0,0,0,0
+1972,Summer,BAH,Bahamas,25,0,0,0,0,0,0,0,0,0,0
+1972,Summer,CIV,Ivory Coast,13,0,0,0,0,0,0,0,0,0,0
+1972,Summer,PUR,Puerto Rico,60,0,0,0,0,0,0,0,0,0,0
+1972,Winter,YUG,Serbia,31,0,0,0,0,0,0,0,0,0,0
+1972,Summer,LES,Lesotho,2,0,0,0,0,0,0,0,0,0,0
+1972,Summer,MAD,Madagascar,13,0,0,0,0,0,0,0,0,0,0
+1972,Summer,MAS,Malaysia,57,0,0,0,0,0,0,0,0,0,0
+1976,Summer,THA,Thailand,62,0,1,0,1,0,0,1,0,0,0
+1976,Summer,NED,Netherlands,175,0,14,2,12,0,2,10,0,0,2
+1976,Summer,JAM,Jamaica,36,1,2,1,0,1,1,0,0,0,0
+1976,Summer,PAN,Panama,13,0,0,0,0,0,0,0,0,0,0
+1976,Summer,MEX,Mexico,137,1,2,0,1,1,0,1,0,0,0
+1976,Summer,CIV,Ivory Coast,11,0,0,0,0,0,0,0,0,0,0
+1976,Summer,ISL,Iceland,22,0,0,0,0,0,0,0,0,0,0
+1976,Summer,JPN,Japan,328,25,41,6,10,13,6,10,12,0,0
+1976,Summer,AUT,Austria,73,0,1,0,1,0,0,1,0,0,0
+1976,Winter,AND,Andorra,11,0,0,0,0,0,0,0,0,0,0
+1980,Winter,URS,Russia,129,18,54,29,7,13,24,4,5,5,3
+1980,Winter,FIN,Finland,85,1,12,5,6,1,3,5,0,2,1
+1980,Winter,CHN,China,38,0,0,0,0,0,0,0,0,0,0
+1980,Summer,TAN,Tanzania,48,0,2,2,0,0,2,0,0,0,0
+1980,Summer,VIE,Vietnam,38,0,0,0,0,0,0,0,0,0,0
+1980,Summer,BEL,Belgium,84,1,1,0,0,1,0,0,0,0,0
+1980,Winter,SWE,Sweden,109,3,23,0,20,3,0,20,0,0,0
+1980,Summer,CRC,Costa Rica,37,0,0,0,0,0,0,0,0,0,0
+1984,Summer,BOT,Botswana,8,0,0,0,0,0,0,0,0,0,0
+1984,Summer,TPE,Taiwan,52,0,1,0,1,0,0,1,0,0,0
+1984,Summer,CRC,Costa Rica,32,0,0,0,0,0,0,0,0,0,0
+1984,Summer,ISL,Iceland,35,0,1,0,1,0,0,1,0,0,0
+1984,Summer,DOM,Dominican Republic,24,0,1,0,1,0,0,1,0,0,0
+1984,Summer,GUY,Guyana,12,0,0,0,0,0,0,0,0,0,0
+1984,Winter,NED,Netherlands,29,0,0,0,0,0,0,0,0,0,0
+1984,Winter,USA,USA,156,4,9,5,0,3,2,0,1,3,0
+1984,Summer,SOM,Somalia,9,0,0,0,0,0,0,0,0,0,0
+1984,Winter,SEN,Senegal,2,0,0,0,0,0,0,0,0,0,0
+1988,Winter,SUI,Switzerland,126,8,20,7,5,6,4,3,2,3,2
+1988,Summer,BEL,Belgium,85,0,2,0,2,0,0,2,0,0,0
+1988,Winter,ISL,Iceland,6,0,0,0,0,0,0,0,0,0,0
+1988,Winter,FIN,Finland,92,7,34,22,5,6,22,0,1,0,5
+1988,Winter,FIJ,Fiji,1,0,0,0,0,0,0,0,0,0,0
+1988,Winter,JAM,Jamaica,6,0,0,0,0,0,0,0,0,0,0
+1988,Summer,SLE,Sierra Leone,20,0,0,0,0,0,0,0,0,0,0
+1988,Summer,BAN,Bangladesh,11,0,0,0,0,0,0,0,0,0,0
+1988,Winter,DEN,Denmark,1,0,0,0,0,0,0,0,0,0,0
+1988,Summer,POR,Portugal,91,1,1,0,0,0,0,0,1,0,0
+1988,Summer,IVB,"Virgin Islands, British",4,0,0,0,0,0,0,0,0,0,0
+1988,Summer,IRL,Ireland,78,0,0,0,0,0,0,0,0,0,0
+1988,Summer,PAR,Paraguay,13,0,0,0,0,0,0,0,0,0,0
+1992,Summer,DOM,Dominican Republic,32,0,0,0,0,0,0,0,0,0,0
+1992,Winter,CYP,Cyprus,11,0,0,0,0,0,0,0,0,0,0
+1992,Summer,MDV,Maldives,10,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BOT,Botswana,6,0,0,0,0,0,0,0,0,0,0
+1992,Summer,FIJ,Fiji,36,0,0,0,0,0,0,0,0,0,0
+1992,Summer,TUR,Turkey,54,2,6,2,2,2,2,1,0,0,1
+1992,Winter,GBR,UK,90,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BOL,Boliva,21,0,0,0,0,0,0,0,0,0,0
+1992,Summer,DJI,Djibouti,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,NIG,Niger,3,0,0,0,0,0,0,0,0,0,0
+1994,Winter,SMR,San Marino,3,0,0,0,0,0,0,0,0,0,0
+1994,Winter,GRE,Greece,15,0,0,0,0,0,0,0,0,0,0
+1996,Summer,LCA,Saint Lucia,8,0,0,0,0,0,0,0,0,0,0
+1996,Summer,RUS,Russia,552,36,115,45,34,30,31,23,6,14,11
+1996,Summer,TAN,Tanzania,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,NRU,Nauru,3,0,0,0,0,0,0,0,0,0,0
+1996,Summer,INA,Indonesia,45,2,6,1,3,2,0,2,0,1,1
+1996,Summer,AUT,Austria,92,0,3,1,2,0,1,1,0,0,1
+1996,Summer,BUR,Burkina Faso,5,0,0,0,0,0,0,0,0,0,0
+1996,Summer,UAE,United Arab Emirates,4,0,0,0,0,0,0,0,0,0,0
+1996,Summer,FIN,Finland,105,1,4,2,1,0,2,1,1,0,0
+1996,Summer,ARG,Argentina,221,0,20,19,1,0,19,1,0,0,0
+1996,Summer,MAW,Malawi,2,0,0,0,0,0,0,0,0,0,0
+1996,Summer,CMR,Cameroon,19,0,0,0,0,0,0,0,0,0,0
+1996,Summer,PLE,Palestine,1,0,0,0,0,0,0,0,0,0,0
+1998,Winter,RUS,Russia,197,14,52,32,6,3,24,5,11,8,1
+1998,Winter,CYP,Cyprus,1,0,0,0,0,0,0,0,0,0,0
+2000,Summer,IND,India,70,0,1,0,1,0,0,0,0,0,1
+2000,Summer,SRI,Sri Lanka,24,0,1,1,0,0,0,0,0,1,0
+2000,Summer,IRI,Iran,34,3,4,0,1,3,0,1,0,0,0
+2000,Summer,FSM,Micronesia,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,SWE,Sweden,198,4,32,20,8,3,18,1,1,2,7
+2000,Summer,MLI,Mali,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,CYP,Cyprus,24,0,0,0,0,0,0,0,0,0,0
+2000,Summer,KAZ,Kazakhstan,158,3,7,4,0,2,4,0,1,0,0
+2000,Summer,BIH,Bosnia and Herzegovina,11,0,0,0,0,0,0,0,0,0,0
+2000,Summer,DJI,Djibouti,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,BAR,Barbados,28,0,1,0,1,0,0,1,0,0,0
+2000,Summer,MAW,Malawi,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,MON,Monaco,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ISV,"Virgin Islands, US",12,0,0,0,0,0,0,0,0,0,0
+2000,Summer,MYA,Myanmar,7,0,0,0,0,0,0,0,0,0,0
+2000,Summer,PAR,Paraguay,5,0,0,0,0,0,0,0,0,0,0
+2002,Winter,IRI,Iran,2,0,0,0,0,0,0,0,0,0,0
+2002,Winter,VEN,Venezuela,4,0,0,0,0,0,0,0,0,0,0
+2002,Winter,USA,USA,313,11,84,58,15,5,36,12,6,22,3
+2002,Winter,KOR,South Korea,87,5,7,2,0,0,0,0,5,2,0
+2002,Winter,SLO,Slovenia,96,0,4,0,4,0,0,4,0,0,0
+2002,Winter,CRC,Costa Rica,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,TTO,Trinidad,26,0,1,0,1,0,0,1,0,0,0
+2004,Summer,NIG,Niger,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,GEQ,Equatorial Guinea,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,ROU,Romania,193,23,39,5,11,0,3,9,23,2,2
+2004,Summer,BUL,Bulgaria,119,2,17,1,14,1,1,6,1,0,8
+2004,Summer,COD,Democratic Republic of the Congo,6,0,0,0,0,0,0,0,0,0,0
+2004,Summer,PAK,Pakistan,26,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CPV,Cape Verde,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BUR,Burkina Faso,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,QAT,Qatar,15,0,0,0,0,0,0,0,0,0,0
+2006,Winter,BEL,Belgium,8,0,0,0,0,0,0,0,0,0,0
+2006,Winter,MDA,Moldova,10,0,0,0,0,0,0,0,0,0,0
+2006,Winter,IRI,Iran,3,0,0,0,0,0,0,0,0,0,0
+2006,Winter,KGZ,Kyrgyzstan,2,0,0,0,0,0,0,0,0,0,0
+2006,Winter,FIN,Finland,140,0,41,34,7,0,33,5,0,1,2
+2006,Winter,GBR,UK,54,0,1,1,0,0,0,0,0,1,0
+2006,Winter,BER,Bermuda,1,0,0,0,0,0,0,0,0,0,0
+2006,Winter,SMR,San Marino,1,0,0,0,0,0,0,0,0,0,0
+2008,Summer,UGA,Uganda,11,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ROU,Romania,172,5,22,1,16,0,0,1,5,1,15
+2008,Summer,BRA,Brazil,338,14,78,34,30,1,16,26,13,18,4
+2008,Summer,BUR,Burkina Faso,6,0,0,0,0,0,0,0,0,0,0
+2008,Summer,SLO,Slovenia,73,1,5,2,2,1,1,1,0,1,1
+2008,Summer,AND,Andorra,5,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MOZ,Mozambique,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,TJK,Tajikistan,16,0,2,1,1,0,1,1,0,0,0
+2008,Summer,ZIM,Zimbabwe,16,1,4,3,0,0,0,0,1,3,0
+2008,Summer,AHO,Curacao,4,0,0,0,0,0,0,0,0,0,0
+2010,Winter,ESP,Spain,35,0,0,0,0,0,0,0,0,0,0
+2010,Winter,MON,Monaco,6,0,0,0,0,0,0,0,0,0,0
+2010,Winter,TUR,Turkey,9,0,0,0,0,0,0,0,0,0,0
+2010,Winter,CHI,Chile,10,0,0,0,0,0,0,0,0,0,0
+2010,Winter,GHA,Ghana,1,0,0,0,0,0,0,0,0,0,0
+2012,Summer,KSA,Saudi Arabia,23,0,4,0,4,0,0,4,0,0,0
+2012,Summer,TGA,Tonga,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MHL,Marshall Islands,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,CRO,Croatia,118,15,35,4,16,14,4,15,1,0,1
+2012,Summer,RSA,South Africa,145,6,9,2,1,6,1,0,0,1,1
+2012,Summer,BAR,Barbados,8,0,0,0,0,0,0,0,0,0,0
+2012,Summer,LUX,Luxembourg,11,0,0,0,0,0,0,0,0,0,0
+2012,Summer,BUR,Burkina Faso,5,0,0,0,0,0,0,0,0,0,0
+2012,Summer,KIR,Kiribati,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,GAM,Gambia,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,DOM,Dominican Republic,36,1,2,1,0,1,1,0,0,0,0
+2012,Summer,BAN,Bangladesh,7,0,0,0,0,0,0,0,0,0,0
+2012,Summer,NRU,Nauru,2,0,0,0,0,0,0,0,0,0,0
+2014,Winter,SRB,Serbia,17,0,0,0,0,0,0,0,0,0,0
+2014,Winter,UZB,Uzbekistan,5,0,0,0,0,0,0,0,0,0,0
+2014,Winter,DEN,Denmark,15,0,0,0,0,0,0,0,0,0,0
+2016,Summer,UAE,United Arab Emirates,12,0,1,0,1,0,0,1,0,0,0
+2016,Summer,KAZ,Kazakhstan,123,3,18,5,10,3,3,4,0,2,6
+2016,Summer,SLO,Slovenia,70,1,4,2,1,0,2,0,1,0,1
+2016,Summer,GEO,Georgia,45,2,7,1,4,2,1,4,0,0,0
+2016,Summer,MYA,Myanmar,8,0,0,0,0,0,0,0,0,0,0
+2016,Summer,NGR,Nigeria,77,0,18,0,18,0,0,18,0,0,0
+2016,Summer,NZL,New Zealand,232,6,36,25,5,5,3,3,1,22,2
+2016,Summer,KIR,Kiribati,3,0,0,0,0,0,0,0,0,0,0
+2016,Summer,QAT,Qatar,42,0,1,1,0,0,1,0,0,0,0
+2016,Summer,CAY,Cayman Islands,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,NEP,Nepal,7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,GRN,Grenada,6,0,1,1,0,0,1,0,0,0,0
+2016,Summer,INA,Indonesia,31,2,4,2,0,1,1,0,1,1,0
+2016,Summer,BDI,Burundi,10,0,1,1,0,0,0,0,0,1,0
+2016,Summer,GEQ,Equatorial Guinea,1,0,0,0,0,0,0,0,0,0,0
+2016,Summer,LAT,Latvia,33,0,0,0,0,0,0,0,0,0,0
+1900,Summer,CAN,Canada,7,1,2,0,1,1,0,1,0,0,0
+1900,Summer,GBR,UK,146,59,108,34,15,57,34,15,2,0,0
+1906,Summer,GBR,UK,113,9,39,22,8,9,22,8,0,0,0
+1920,Summer,SWE,Sweden,404,52,154,38,64,51,37,59,1,1,5
+1920,Summer,EST,Estonia,20,1,3,2,0,1,2,0,0,0,0
+1920,Summer,DEN,Denmark,246,26,71,44,1,25,44,1,1,0,0
+1920,Summer,LUX,Luxembourg,35,0,1,1,0,0,1,0,0,0,0
+1924,Winter,SWE,Sweden,41,1,9,8,0,1,8,0,0,0,0
+1924,Winter,SUI,Switzerland,39,8,9,0,1,8,0,1,0,0,0
+1928,Winter,NOR,Norway,34,6,15,4,5,5,4,5,1,0,0
+1928,Summer,TUR,Turkey,40,0,0,0,0,0,0,0,0,0,0
+1932,Winter,GBR,UK,4,0,0,0,0,0,0,0,0,0,0
+1932,Summer,MEX,Mexico,100,0,2,2,0,0,2,0,0,0,0
+1932,Summer,EST,Estonia,3,0,0,0,0,0,0,0,0,0,0
+1932,Summer,MON,Monaco,1,0,0,0,0,0,0,0,0,0,0
+1936,Summer,ISL,Iceland,13,0,0,0,0,0,0,0,0,0,0
+1936,Winter,JPN,Japan,49,0,0,0,0,0,0,0,0,0,0
+1936,Summer,GBR,UK,250,12,36,16,8,12,11,8,0,5,0
+1936,Summer,ITA,Italy,349,37,76,34,5,36,34,5,1,0,0
+1936,Summer,SUI,Switzerland,328,5,52,23,24,4,23,24,1,0,0
+1936,Winter,GER,Germany,67,4,7,3,0,2,2,0,2,1,0
+1948,Winter,USA,USA,97,6,16,4,6,5,3,6,1,1,0
+1948,Summer,EGY,Egypt,166,2,5,2,1,2,2,1,0,0,0
+1948,Summer,POL,Poland,52,1,2,0,1,1,0,1,0,0,0
+1948,Summer,MLT,Malta,1,0,0,0,0,0,0,0,0,0,0
+1948,Summer,PHI,Philippines,31,0,0,0,0,0,0,0,0,0,0
+1948,Summer,PAN,Panama,2,0,2,0,2,0,0,2,0,0,0
+1952,Winter,ARG,Argentina,21,0,0,0,0,0,0,0,0,0,0
+1952,Summer,URS,Russia,451,36,117,62,19,23,45,12,13,17,7
+1952,Summer,ROU,Romania,241,1,4,1,2,1,1,2,0,0,0
+1952,Winter,YUG,Serbia,9,0,0,0,0,0,0,0,0,0,0
+1952,Winter,JPN,Japan,25,0,0,0,0,0,0,0,0,0,0
+1956,Summer,GER,Germany,261,9,52,20,23,8,13,20,1,7,3
+1956,Winter,POL,Poland,74,0,1,0,1,0,0,1,0,0,0
+1956,Summer,MEX,Mexico,36,1,2,0,1,1,0,1,0,0,0
+1956,Summer,CAM,Cambodia,2,0,0,0,0,0,0,0,0,0,0
+1956,Winter,TUR,Turkey,10,0,0,0,0,0,0,0,0,0,0
+1960,Summer,PAN,Panama,8,0,0,0,0,0,0,0,0,0,0
+1960,Summer,BRA,Brazil,86,0,13,0,13,0,0,13,0,0,0
+1960,Summer,SMR,San Marino,13,0,0,0,0,0,0,0,0,0,0
+1960,Summer,GER,Germany,425,34,89,33,22,31,23,10,3,10,12
+1960,Summer,IND,India,49,0,13,13,0,0,13,0,0,0,0
+1964,Summer,GBR,UK,301,4,28,19,5,2,17,1,2,2,4
+1964,Summer,PAN,Panama,15,0,0,0,0,0,0,0,0,0,0
+1964,Winter,KOR,South Korea,16,0,0,0,0,0,0,0,0,0,0
+1964,Summer,PHI,Philippines,70,0,1,1,0,0,1,0,0,0,0
+1964,Summer,JPN,Japan,456,32,62,5,25,20,5,19,12,0,6
+1964,Summer,ZIM,Zimbabwe,33,0,0,0,0,0,0,0,0,0,0
+1968,Winter,JPN,Japan,95,0,0,0,0,0,0,0,0,0,0
+1968,Summer,MAR,Morocco,25,0,0,0,0,0,0,0,0,0,0
+1968,Summer,EGY,Egypt,35,0,0,0,0,0,0,0,0,0,0
+1968,Summer,PUR,Puerto Rico,99,0,0,0,0,0,0,0,0,0,0
+1968,Summer,THA,Thailand,46,0,0,0,0,0,0,0,0,0,0
+1968,Summer,NOR,Norway,86,4,6,2,0,4,2,0,0,0,0
+1968,Summer,MYA,Myanmar,4,0,0,0,0,0,0,0,0,0,0
+1968,Summer,BAR,Barbados,13,0,0,0,0,0,0,0,0,0,0
+1968,Summer,ESP,Spain,137,0,0,0,0,0,0,0,0,0,0
+1968,Summer,,,6,0,0,0,0,0,0,0,0,0,0
+1968,Summer,AFG,Afghanistan,5,0,0,0,0,0,0,0,0,0,0
+1972,Summer,BUL,Bulgaria,226,6,22,10,6,6,8,4,0,2,2
+1972,Summer,FIN,Finland,133,3,10,1,6,3,1,6,0,0,0
+1972,Winter,ITA,Italy,69,3,9,5,1,3,5,1,0,0,0
+1972,Summer,USA,USA,578,69,171,59,43,46,49,37,23,10,6
+1972,Summer,UGA,Uganda,35,1,2,1,0,1,1,0,0,0,0
+1972,Winter,URS,Russia,118,36,45,6,3,30,3,2,6,3,1
+1972,Summer,SEN,Senegal,40,0,0,0,0,0,0,0,0,0,0
+1972,Summer,SUI,Switzerland,265,0,8,8,0,0,8,0,0,0,0
+1972,Winter,BEL,Belgium,3,0,0,0,0,0,0,0,0,0,0
+1972,Summer,PER,Peru,31,0,0,0,0,0,0,0,0,0,0
+1972,Winter,PHI,Philippines,4,0,0,0,0,0,0,0,0,0,0
+1976,Summer,IRI,Iran,104,0,2,1,1,0,1,1,0,0,0
+1976,Summer,SWE,Sweden,163,9,10,1,0,9,0,0,0,1,0
+1976,Summer,MGL,Mongolia,33,0,1,1,0,0,1,0,0,0,0
+1976,Summer,PAK,Pakistan,24,0,16,0,16,0,0,16,0,0,0
+1976,Winter,NOR,Norway,81,3,10,6,1,3,6,0,0,0,1
+1976,Summer,KUW,Kuwait,21,0,0,0,0,0,0,0,0,0,0
+1976,Summer,BUL,Bulgaria,254,8,39,13,18,3,6,5,5,7,13
+1976,Summer,HON,Honduras,3,0,0,0,0,0,0,0,0,0,0
+1976,Winter,GRE,Greece,10,0,0,0,0,0,0,0,0,0,0
+1976,Summer,KOR,South Korea,51,1,17,1,15,1,1,3,0,0,12
+1980,Summer,AUT,Austria,92,1,5,3,1,0,3,1,1,0,0
+1980,Winter,GRE,Greece,6,0,0,0,0,0,0,0,0,0,0
+1980,Summer,BRA,Brazil,149,4,9,0,5,4,0,5,0,0,0
+1980,Summer,ALG,Algeria,63,0,0,0,0,0,0,0,0,0,0
+1984,Summer,CMR,Cameroon,56,0,1,0,1,0,0,1,0,0,0
+1984,Summer,FIN,Finland,107,4,12,2,6,4,1,6,0,1,0
+1984,Summer,URU,Uruguay,23,0,0,0,0,0,0,0,0,0,0
+1984,Summer,TAN,Tanzania,21,0,0,0,0,0,0,0,0,0,0
+1984,Winter,KOR,South Korea,38,0,0,0,0,0,0,0,0,0,0
+1984,Winter,ESP,Spain,25,0,0,0,0,0,0,0,0,0,0
+1984,Summer,HON,Honduras,26,0,0,0,0,0,0,0,0,0,0
+1984,Summer,CIV,Ivory Coast,18,0,1,1,0,0,1,0,0,0,0
+1984,Winter,AUS,Australia,20,0,0,0,0,0,0,0,0,0,0
+1984,Summer,VEN,Venezuela,44,0,3,0,3,0,0,3,0,0,0
+1984,Summer,ESA,El Salvador,15,0,0,0,0,0,0,0,0,0,0
+1984,Summer,MYA,Myanmar,1,0,0,0,0,0,0,0,0,0,0
+1988,Winter,YUG,Serbia,49,0,6,5,1,0,4,1,0,1,0
+1988,Summer,AUT,Austria,96,1,1,0,0,1,0,0,0,0,0
+1988,Summer,HON,Honduras,18,0,0,0,0,0,0,0,0,0,0
+1988,Summer,ITA,Italy,374,11,29,10,8,11,5,8,0,5,0
+1988,Summer,TUR,Turkey,51,1,2,1,0,1,1,0,0,0,0
+1988,Summer,POL,Poland,192,2,21,9,10,2,9,9,0,0,1
+1988,Summer,BEN,Benin,10,0,0,0,0,0,0,0,0,0,0
+1988,Summer,GBR,UK,472,22,54,17,15,22,13,13,0,4,2
+1988,Summer,DEN,Denmark,130,3,7,1,3,3,1,3,0,0,0
+1988,Summer,CMR,Cameroon,21,0,0,0,0,0,0,0,0,0,0
+1988,Summer,BIZ,Belize,13,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ROU,Romania,306,8,53,31,14,5,9,7,3,22,7
+1992,Summer,CAN,Canada,445,27,44,5,12,11,3,10,16,2,2
+1992,Summer,SWE,Sweden,252,1,35,27,7,1,25,3,0,2,4
+1992,Summer,MYA,Myanmar,5,0,0,0,0,0,0,0,0,0,0
+1992,Summer,INA,Indonesia,51,2,6,3,1,1,3,1,1,0,0
+1992,Winter,BER,Bermuda,1,0,0,0,0,0,0,0,0,0,0
+1992,Summer,GER,Germany,653,81,198,57,60,62,18,33,19,39,27
+1992,Summer,THA,Thailand,64,0,1,0,1,0,0,1,0,0,0
+1992,Summer,LTU,Lithuania,54,1,13,0,12,1,0,12,0,0,0
+1992,Summer,VEN,Venezuela,27,0,0,0,0,0,0,0,0,0,0
+1992,Summer,HON,Honduras,27,0,0,0,0,0,0,0,0,0,0
+1992,Summer,EST,Estonia,46,1,3,0,2,0,0,2,1,0,0
+1992,Summer,TGA,Tonga,5,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BRA,Brazil,233,13,14,1,0,13,1,0,0,0,0
+1992,Summer,ANG,Angola,33,0,0,0,0,0,0,0,0,0,0
+1992,Winter,SWE,Sweden,136,1,7,0,6,0,0,6,1,0,0
+1992,Summer,ZIM,Zimbabwe,28,0,0,0,0,0,0,0,0,0,0
+1992,Summer,QAT,Qatar,30,0,1,0,1,0,0,1,0,0,0
+1992,Winter,SWZ,Swaziland,3,0,0,0,0,0,0,0,0,0,0
+1992,Winter,SLO,Slovenia,61,0,0,0,0,0,0,0,0,0,0
+1992,Winter,LUX,Luxembourg,5,0,2,2,0,0,2,0,0,0,0
+1992,Summer,PER,Peru,21,0,1,1,0,0,1,0,0,0,0
+1992,Summer,BIZ,Belize,18,0,0,0,0,0,0,0,0,0,0
+1992,Summer,CAY,Cayman Islands,13,0,0,0,0,0,0,0,0,0,0
+1992,Winter,SMR,San Marino,8,0,0,0,0,0,0,0,0,0,0
+1994,Winter,AND,Andorra,13,0,0,0,0,0,0,0,0,0,0
+1994,Winter,TTO,Trinidad,2,0,0,0,0,0,0,0,0,0,0
+1994,Winter,ISV,"Virgin Islands, US",10,0,0,0,0,0,0,0,0,0,0
+1994,Winter,HUN,Hungary,28,0,0,0,0,0,0,0,0,0,0
+1996,Summer,ALB,Albania,9,0,0,0,0,0,0,0,0,0,0
+1996,Summer,IRI,Iran,18,1,3,1,1,1,1,1,0,0,0
+1996,Summer,ESP,Spain,384,23,66,21,22,15,20,18,8,1,4
+1996,Summer,,,35,0,0,0,0,0,0,0,0,0,0
+1996,Summer,MKD,Macedonia,16,0,0,0,0,0,0,0,0,0,0
+1996,Summer,MRI,Mauritius,36,0,0,0,0,0,0,0,0,0,0
+1996,Summer,BRN,Bahrain,5,0,0,0,0,0,0,0,0,0,0
+1996,Summer,ASA,American Samoa,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,AHO,Curacao,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,NEP,Nepal,6,0,0,0,0,0,0,0,0,0,0
+1996,Summer,VEN,Venezuela,53,0,0,0,0,0,0,0,0,0,0
+1996,Summer,BIZ,Belize,5,0,0,0,0,0,0,0,0,0,0
+1996,Summer,YEM,Yemen,4,0,0,0,0,0,0,0,0,0,0
+1996,Summer,KGZ,Kyrgyzstan,53,0,0,0,0,0,0,0,0,0,0
+1998,Winter,JPN,Japan,245,8,13,1,4,7,1,3,1,0,1
+1998,Winter,USA,USA,284,25,34,4,5,2,2,3,23,2,2
+1998,Winter,AUT,Austria,154,3,20,5,12,3,3,9,0,2,3
+1998,Winter,BIH,Bosnia and Herzegovina,12,0,0,0,0,0,0,0,0,0,0
+1998,Winter,TUR,Turkey,1,0,0,0,0,0,0,0,0,0,0
+1998,Winter,IND,India,1,0,0,0,0,0,0,0,0,0,0
+2000,Summer,NRU,Nauru,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,NIG,Niger,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,CRC,Costa Rica,9,0,2,0,2,0,0,0,0,0,2
+2000,Summer,CAF,Central African Republic,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,IOA,Individual Olympic Athletes,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,NCA,Nicaragua,6,0,0,0,0,0,0,0,0,0,0
+2000,Summer,BDI,Burundi,6,0,0,0,0,0,0,0,0,0,0
+2000,Summer,SWZ,Swaziland,6,0,0,0,0,0,0,0,0,0,0
+2000,Summer,BRU,Brunei,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,TUN,Tunisia,47,0,0,0,0,0,0,0,0,0,0
+2000,Summer,HON,Honduras,20,0,0,0,0,0,0,0,0,0,0
+2000,Summer,QAT,Qatar,19,0,1,0,1,0,0,1,0,0,0
+2000,Summer,POR,Portugal,64,0,2,0,2,0,0,1,0,0,1
+2000,Summer,KUW,Kuwait,30,0,1,0,1,0,0,1,0,0,0
+2000,Summer,UAE,United Arab Emirates,5,0,0,0,0,0,0,0,0,0,0
+2002,Winter,KGZ,Kyrgyzstan,4,0,0,0,0,0,0,0,0,0,0
+2002,Winter,BRA,Brazil,10,0,0,0,0,0,0,0,0,0,0
+2002,Winter,LIB,Lebanon,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,GUI,Guinea,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,LTU,Lithuania,70,1,3,2,0,1,1,0,0,1,0
+2004,Summer,ASA,American Samoa,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CZE,Czech Republic,171,1,13,6,6,1,4,4,0,2,2
+2004,Summer,MGL,Mongolia,21,0,1,0,1,0,0,1,0,0,0
+2004,Summer,PNG,Papua New Guinea,6,0,0,0,0,0,0,0,0,0,0
+2004,Summer,UZB,Uzbekistan,79,2,5,1,2,2,1,2,0,0,0
+2004,Summer,ISR,Israel,46,1,2,0,1,1,0,1,0,0,0
+2004,Summer,TUN,Tunisia,64,0,0,0,0,0,0,0,0,0,0
+2004,Summer,TKM,Turkmenistan,10,0,0,0,0,0,0,0,0,0,0
+2006,Winter,ESP,Spain,28,0,0,0,0,0,0,0,0,0,0
+2006,Winter,UZB,Uzbekistan,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,PER,Peru,13,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MTN,Mauritania,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,NZL,New Zealand,201,4,15,2,9,1,2,9,3,0,0
+2008,Summer,TPE,Taiwan,92,0,4,0,4,0,0,2,0,0,2
+2008,Summer,GHA,Ghana,9,0,0,0,0,0,0,0,0,0,0
+2008,Summer,AFG,Afghanistan,4,0,1,0,1,0,0,1,0,0,0
+2008,Summer,TGA,Tonga,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,KAZ,Kazakhstan,146,2,13,4,7,2,2,5,0,2,2
+2008,Summer,ASA,American Samoa,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MAS,Malaysia,42,0,1,1,0,0,1,0,0,0,0
+2008,Summer,CGO,Republic of Congo,5,0,0,0,0,0,0,0,0,0,0
+2008,Summer,SWZ,Swaziland,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,DJI,Djibouti,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,LCA,Saint Lucia,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,BER,Bermuda,6,0,0,0,0,0,0,0,0,0,0
+2008,Summer,CHA,Chad,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,QAT,Qatar,20,0,0,0,0,0,0,0,0,0,0
+2008,Summer,CRC,Costa Rica,8,0,0,0,0,0,0,0,0,0,0
+2008,Summer,IRQ,Iraq,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,KIR,Kiribati,2,0,0,0,0,0,0,0,0,0,0
+2010,Winter,CHN,China,130,9,19,3,7,1,1,1,8,2,6
+2010,Winter,FRA,France,196,2,14,6,6,2,1,3,0,5,3
+2010,Winter,AUS,Australia,49,2,3,1,0,0,1,0,2,0,0
+2010,Winter,POL,Poland,106,1,8,3,4,0,2,0,1,1,4
+2010,Winter,COL,Colombia,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,PRK,North Korea,57,4,6,0,2,2,0,1,2,0,1
+2012,Summer,ROU,Romania,155,2,16,8,6,1,4,1,1,4,5
+2012,Summer,QAT,Qatar,14,0,2,0,2,0,0,2,0,0,0
+2012,Summer,CAF,Central African Republic,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MNE,Montenegro,34,0,14,14,0,0,0,0,0,14,0
+2012,Summer,GUY,Guyana,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,UAE,United Arab Emirates,26,0,0,0,0,0,0,0,0,0,0
+2012,Summer,PHI,Philippines,11,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MKD,Macedonia,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,DJI,Djibouti,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,SUR,Suriname,5,0,0,0,0,0,0,0,0,0,0
+2014,Winter,PER,Peru,5,0,0,0,0,0,0,0,0,0,0
+2014,Winter,AZE,Azerbaijan,4,0,0,0,0,0,0,0,0,0,0
+2016,Summer,GHA,Ghana,15,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MDA,Moldova,23,0,0,0,0,0,0,0,0,0,0
+2016,Summer,COD,Democratic Republic of the Congo,4,0,0,0,0,0,0,0,0,0,0
+2016,Summer,IRL,Ireland,93,0,3,3,0,0,2,0,0,1,0
+2016,Summer,POR,Portugal,106,0,1,0,1,0,0,0,0,0,1
+2016,Summer,SAM,Samoa,9,0,0,0,0,0,0,0,0,0,0
+1900,Summer,BEL,Belgium,100,6,43,24,13,6,24,13,0,0,0
+1904,Summer,AUS,Australia,6,0,4,3,1,0,3,1,0,0,0
+1906,Summer,NOR,Norway,55,20,25,5,0,20,5,0,0,0,0
+1908,Summer,NED,Netherlands,218,0,16,0,16,0,0,16,0,0,0
+1912,Summer,SUI,Switzerland,7,2,2,0,0,2,0,0,0,0,0
+1912,Summer,JPN,Japan,4,0,0,0,0,0,0,0,0,0,0
+1912,Summer,POL,Poland,1,0,0,0,0,0,0,0,0,0,0
+1920,Summer,NED,Netherlands,213,15,50,10,25,15,10,25,0,0,0
+1924,Summer,HUN,Hungary,140,2,22,12,8,2,12,8,0,0,0
+1924,Summer,SUI,Switzerland,262,14,60,25,21,14,25,21,0,0,0
+1924,Summer,GRE,Greece,79,1,1,0,0,1,0,0,0,0,0
+1924,Summer,TUR,Turkey,23,0,0,0,0,0,0,0,0,0,0
+1928,Winter,LTU,Lithuania,4,0,0,0,0,0,0,0,0,0,0
+1928,Summer,FIN,Finland,132,8,25,8,9,8,8,9,0,0,0
+1928,Summer,GBR,UK,354,7,58,27,24,7,20,10,0,7,14
+1928,Winter,CAN,Canada,31,12,12,0,0,12,0,0,0,0,0
+1928,Summer,BUL,Bulgaria,10,0,0,0,0,0,0,0,0,0,0
+1928,Summer,HAI,Haiti,3,0,1,1,0,0,1,0,0,0,0
+1928,Winter,EST,Estonia,6,0,0,0,0,0,0,0,0,0,0
+1928,Summer,MON,Monaco,12,0,0,0,0,0,0,0,0,0,0
+1932,Winter,NOR,Norway,33,3,10,4,3,2,4,3,1,0,0
+1936,Summer,BEL,Belgium,205,0,14,0,14,0,0,14,0,0,0
+1936,Winter,SWE,Sweden,38,2,10,2,6,2,2,5,0,0,1
+1936,Winter,ITA,Italy,48,0,0,0,0,0,0,0,0,0,0
+1936,Winter,CAN,Canada,41,0,13,13,0,0,13,0,0,0,0
+1936,Winter,USA,USA,74,2,16,0,14,2,0,14,0,0,0
+1936,Summer,LUX,Luxembourg,129,0,0,0,0,0,0,0,0,0,0
+1936,Summer,LIE,Liechtenstein,8,0,0,0,0,0,0,0,0,0,0
+1936,Summer,MLT,Malta,11,0,0,0,0,0,0,0,0,0,0
+1948,Summer,GBR,UK,590,7,61,42,12,7,38,10,0,4,2
+1948,Winter,BEL,Belgium,19,2,6,4,0,1,4,0,1,0,0
+1948,Summer,SRI,Sri Lanka,10,0,1,1,0,0,1,0,0,0,0
+1948,Summer,TCH,Czech Republic,153,14,20,3,3,6,3,3,8,0,0
+1948,Winter,ARG,Argentina,20,0,0,0,0,0,0,0,0,0,0
+1948,Summer,VEN,Venezuela,2,0,0,0,0,0,0,0,0,0,0
+1948,Winter,KOR,South Korea,7,0,0,0,0,0,0,0,0,0,0
+1952,Winter,TCH,Czech Republic,27,0,0,0,0,0,0,0,0,0,0
+1952,Winter,FIN,Finland,73,6,12,4,2,5,3,1,1,1,1
+1952,Summer,IND,India,94,14,15,0,1,14,0,1,0,0,0
+1952,Winter,NOR,Norway,101,7,19,6,6,7,6,6,0,0,0
+1952,Summer,IRI,Iran,23,0,7,3,4,0,3,4,0,0,0
+1956,Summer,USA,USA,443,61,123,42,20,57,30,13,4,12,7
+1956,Winter,JPN,Japan,26,0,1,1,0,0,1,0,0,0,0
+1956,Summer,ITA,Italy,207,26,47,11,10,26,11,10,0,0,0
+1956,Winter,FIN,Finland,52,5,12,6,1,2,6,1,3,0,0
+1956,Summer,BEL,Belgium,82,0,2,2,0,0,2,0,0,0,0
+1960,Summer,USA,USA,428,81,125,23,21,57,20,20,24,3,1
+1960,Winter,BUL,Bulgaria,15,0,0,0,0,0,0,0,0,0,0
+1960,Summer,LUX,Luxembourg,117,0,0,0,0,0,0,0,0,0,0
+1960,Summer,MYA,Myanmar,10,0,0,0,0,0,0,0,0,0,0
+1964,Summer,PER,Peru,40,0,0,0,0,0,0,0,0,0,0
+1964,Summer,CHA,Chad,2,0,0,0,0,0,0,0,0,0,0
+1964,Summer,FRA,France,214,1,31,13,17,1,10,17,0,3,0
+1964,Winter,CHI,Chile,11,0,0,0,0,0,0,0,0,0,0
+1964,Summer,ARG,Argentina,148,0,1,1,0,0,1,0,0,0,0
+1964,Summer,BER,Bermuda,4,0,0,0,0,0,0,0,0,0,0
+1964,Summer,MLI,Mali,2,0,0,0,0,0,0,0,0,0,0
+1968,Winter,SWE,Sweden,112,3,16,7,6,1,4,6,2,3,0
+1968,Summer,ISR,Israel,39,0,0,0,0,0,0,0,0,0,0
+1968,Summer,KOR,South Korea,66,0,2,1,1,0,1,1,0,0,0
+1968,Summer,KEN,Kenya,50,3,12,7,2,3,7,2,0,0,0
+1968,Summer,NZL,New Zealand,65,5,7,0,2,5,0,2,0,0,0
+1968,Summer,URU,Uruguay,50,0,0,0,0,0,0,0,0,0,0
+1968,Summer,CUB,Cuba,227,0,10,10,0,0,6,0,0,4,0
+1968,Summer,UGA,Uganda,14,0,2,1,1,0,1,1,0,0,0
+1968,Summer,BER,Bermuda,6,0,0,0,0,0,0,0,0,0,0
+1968,Summer,MAD,Madagascar,6,0,0,0,0,0,0,0,0,0,0
+1968,Summer,ISV,"Virgin Islands, US",6,0,0,0,0,0,0,0,0,0,0
+1972,Winter,GDR,Germany,191,9,30,5,16,7,4,14,2,1,2
+1972,Summer,VNM,Vietnam,2,0,0,0,0,0,0,0,0,0,0
+1972,Winter,LIB,Lebanon,2,0,0,0,0,0,0,0,0,0,0
+1972,Winter,ARG,Argentina,6,0,0,0,0,0,0,0,0,0,0
+1972,Winter,IRI,Iran,12,0,0,0,0,0,0,0,0,0,0
+1976,Winter,URS,Russia,121,38,56,7,11,28,5,7,10,2,4
+1976,Summer,NZL,New Zealand,98,15,25,1,9,15,1,9,0,0,0
+1976,Summer,YUG,Serbia,95,2,19,14,3,2,14,3,0,0,0
+1976,Winter,SWE,Sweden,78,0,2,0,2,0,0,2,0,0,0
+1976,Summer,BOL,Boliva,5,0,0,0,0,0,0,0,0,0,0
+1976,Summer,PAR,Paraguay,6,0,0,0,0,0,0,0,0,0,0
+1976,Summer,VEN,Venezuela,56,0,1,1,0,0,1,0,0,0,0
+1976,Summer,SMR,San Marino,10,0,0,0,0,0,0,0,0,0,0
+1980,Winter,AUT,Austria,66,3,8,2,3,2,2,3,1,0,0
+1980,Summer,NED,Netherlands,112,0,6,1,5,0,1,1,0,0,4
+1980,Winter,AUS,Australia,19,0,0,0,0,0,0,0,0,0,0
+1980,Summer,HUN,Hungary,392,8,61,13,40,8,12,33,0,1,7
+1980,Summer,URS,Russia,660,187,442,129,126,124,92,87,63,37,39
+1980,Summer,CGO,Republic of Congo,25,0,0,0,0,0,0,0,0,0,0
+1980,Summer,SLE,Sierra Leone,32,0,0,0,0,0,0,0,0,0,0
+1980,Summer,MYA,Myanmar,2,0,0,0,0,0,0,0,0,0,0
+1980,Summer,BOT,Botswana,8,0,0,0,0,0,0,0,0,0,0
+1984,Winter,FIN,Finland,80,4,19,3,12,1,3,8,3,0,4
+1984,Winter,ROU,Romania,35,0,0,0,0,0,0,0,0,0,0
+1984,Winter,BUL,Bulgaria,33,0,0,0,0,0,0,0,0,0,0
+1984,Summer,TGA,Tonga,7,0,0,0,0,0,0,0,0,0,0
+1984,Summer,ANT,Antigua,27,0,0,0,0,0,0,0,0,0,0
+1984,Winter,BEL,Belgium,9,0,0,0,0,0,0,0,0,0,0
+1984,Summer,SRI,Sri Lanka,6,0,0,0,0,0,0,0,0,0,0
+1984,Summer,ISR,Israel,65,0,0,0,0,0,0,0,0,0,0
+1984,Winter,GRE,Greece,13,0,0,0,0,0,0,0,0,0,0
+1984,Summer,AND,Andorra,2,0,0,0,0,0,0,0,0,0,0
+1984,Summer,SLE,Sierra Leone,10,0,0,0,0,0,0,0,0,0,0
+1984,Winter,NZL,New Zealand,9,0,0,0,0,0,0,0,0,0,0
+1984,Winter,AND,Andorra,6,0,0,0,0,0,0,0,0,0,0
+1984,Summer,MAD,Madagascar,5,0,0,0,0,0,0,0,0,0,0
+1988,Summer,MOZ,Mozambique,12,0,0,0,0,0,0,0,0,0,0
+1988,Summer,GUI,Guinea,7,0,0,0,0,0,0,0,0,0,0
+1988,Summer,KEN,Kenya,88,5,9,2,2,5,2,2,0,0,0
+1988,Summer,KUW,Kuwait,34,0,0,0,0,0,0,0,0,0,0
+1988,Summer,CAY,Cayman Islands,12,0,0,0,0,0,0,0,0,0,0
+1988,Summer,ISV,"Virgin Islands, US",46,0,1,1,0,0,1,0,0,0,0
+1988,Summer,TCH,Czech Republic,226,3,10,4,3,3,2,3,0,2,0
+1988,Summer,INA,Indonesia,43,0,3,3,0,0,0,0,0,3,0
+1988,Summer,OMA,Oman,13,0,0,0,0,0,0,0,0,0,0
+1988,Winter,SMR,San Marino,12,0,0,0,0,0,0,0,0,0,0
+1988,Winter,TCH,Czech Republic,119,0,6,1,5,0,1,5,0,0,0
+1988,Summer,PAN,Panama,9,0,0,0,0,0,0,0,0,0,0
+1988,Summer,SWE,Sweden,251,0,16,5,11,0,3,11,0,2,0
+1988,Winter,PHI,Philippines,1,0,0,0,0,0,0,0,0,0,0
+1988,Summer,PAK,Pakistan,33,0,1,0,1,0,0,1,0,0,0
+1988,Summer,MYA,Myanmar,3,0,0,0,0,0,0,0,0,0,0
+1992,Winter,GRE,Greece,26,0,0,0,0,0,0,0,0,0,0
+1992,Summer,GAB,Gabon,5,0,0,0,0,0,0,0,0,0,0
+1992,Summer,LIE,Liechtenstein,8,0,0,0,0,0,0,0,0,0,0
+1992,Winter,HUN,Hungary,62,0,0,0,0,0,0,0,0,0,0
+1992,Winter,IND,India,4,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ASA,American Samoa,3,0,0,0,0,0,0,0,0,0,0
+1992,Summer,IOA,Individual Olympic Athletes,76,0,3,1,2,0,0,1,0,1,1
+1992,Summer,LIB,Lebanon,18,0,0,0,0,0,0,0,0,0,0
+1992,Summer,,,37,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BAH,Bahamas,18,0,1,0,1,0,0,1,0,0,0
+1992,Summer,IVB,"Virgin Islands, British",4,0,0,0,0,0,0,0,0,0,0
+1992,Summer,GAM,Gambia,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,IRQ,Iraq,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,TAN,Tanzania,9,0,0,0,0,0,0,0,0,0,0
+1992,Winter,ISV,"Virgin Islands, US",19,0,0,0,0,0,0,0,0,0,0
+1992,Winter,CRC,Costa Rica,6,0,0,0,0,0,0,0,0,0,0
+1994,Winter,FRA,France,169,0,11,1,10,0,0,6,0,1,4
+1994,Winter,ISL,Iceland,14,0,0,0,0,0,0,0,0,0,0
+1994,Winter,JAM,Jamaica,6,0,0,0,0,0,0,0,0,0,0
+1994,Winter,TUR,Turkey,1,0,0,0,0,0,0,0,0,0,0
+1996,Summer,BDI,Burundi,7,1,1,0,0,1,0,0,0,0,0
+1996,Summer,HON,Honduras,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,CHA,Chad,4,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GER,Germany,626,42,124,35,47,29,17,30,13,18,17
+1996,Summer,BRA,Brazil,251,5,63,15,43,3,1,31,2,14,12
+1996,Summer,VIE,Vietnam,6,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GEO,Georgia,42,0,2,0,2,0,0,2,0,0,0
+1996,Summer,BER,Bermuda,10,0,0,0,0,0,0,0,0,0,0
+1996,Summer,SOM,Somalia,4,0,0,0,0,0,0,0,0,0,0
+1996,Summer,ANG,Angola,30,0,0,0,0,0,0,0,0,0,0
+1998,Winter,NOR,Norway,149,13,40,15,12,13,10,5,0,5,7
+1998,Winter,CZE,Czech Republic,119,21,23,1,1,21,0,0,0,1,1
+1998,Winter,LAT,Latvia,49,0,0,0,0,0,0,0,0,0,0
+1998,Winter,GRE,Greece,16,0,0,0,0,0,0,0,0,0,0
+1998,Winter,ROU,Romania,29,0,0,0,0,0,0,0,0,0,0
+2000,Summer,KGZ,Kyrgyzstan,71,0,1,0,1,0,0,1,0,0,0
+2000,Summer,LAO,Laos,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,SLO,Slovenia,90,3,3,0,0,3,0,0,0,0,0
+2000,Summer,ZIM,Zimbabwe,26,0,0,0,0,0,0,0,0,0,0
+2000,Summer,EST,Estonia,41,1,3,0,2,1,0,2,0,0,0
+2000,Summer,IRQ,Iraq,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,FRA,France,470,22,66,30,14,19,25,9,3,5,5
+2000,Summer,GHA,Ghana,28,0,0,0,0,0,0,0,0,0,0
+2000,Summer,MEX,Mexico,98,1,6,2,3,0,2,3,1,0,0
+2000,Summer,COK,Cook Islands,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,LBR,Liberia,10,0,0,0,0,0,0,0,0,0,0
+2002,Winter,SCG,Serbia,8,0,0,0,0,0,0,0,0,0,0
+2002,Winter,KEN,Kenya,2,0,0,0,0,0,0,0,0,0,0
+2002,Winter,ITA,Italy,198,4,21,11,6,1,9,2,3,2,4
+2002,Winter,FIN,Finland,165,7,13,5,1,7,5,1,0,0,0
+2002,Winter,UZB,Uzbekistan,6,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BAN,Bangladesh,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,PAR,Paraguay,22,0,17,17,0,0,17,0,0,0,0
+2004,Summer,CAY,Cayman Islands,8,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SEN,Senegal,21,0,0,0,0,0,0,0,0,0,0
+2004,Summer,TPE,Taiwan,104,2,9,4,3,1,4,0,1,0,3
+2004,Summer,COK,Cook Islands,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,STP,Sao Tome and Principe,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SEY,Seychelles,10,0,0,0,0,0,0,0,0,0,0
+2004,Summer,AND,Andorra,6,0,0,0,0,0,0,0,0,0,0
+2004,Summer,MTN,Mauritania,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,MLT,Malta,7,0,0,0,0,0,0,0,0,0,0
+2004,Summer,GUM,Guam,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,VEN,Venezuela,53,0,2,0,2,0,0,1,0,0,1
+2004,Summer,ANG,Angola,30,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SUD,Sudan,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BHU,Bhutan,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,MOZ,Mozambique,4,0,0,0,0,0,0,0,0,0,0
+2006,Winter,FRA,France,159,3,15,2,10,2,2,5,1,0,5
+2006,Winter,NOR,Norway,161,2,23,9,12,2,7,10,0,2,2
+2006,Winter,CHN,China,149,2,13,5,6,1,1,2,1,4,4
+2006,Winter,ARM,Armenia,9,0,0,0,0,0,0,0,0,0,0
+2006,Winter,AZE,Azerbaijan,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,PHI,Philippines,17,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ECU,Ecuador,26,0,1,1,0,0,1,0,0,0,0
+2008,Summer,POL,Poland,316,6,20,13,1,6,10,0,0,3,1
+2008,Summer,STP,Sao Tome and Principe,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,UAE,United Arab Emirates,9,0,0,0,0,0,0,0,0,0,0
+2008,Summer,CIV,Ivory Coast,22,0,0,0,0,0,0,0,0,0,0
+2008,Summer,FSM,Micronesia,5,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MAD,Madagascar,6,0,0,0,0,0,0,0,0,0,0
+2008,Summer,NIG,Niger,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MLI,Mali,17,0,0,0,0,0,0,0,0,0,0
+2010,Winter,CZE,Czech Republic,172,2,9,0,7,0,0,5,2,0,2
+2010,Winter,UKR,Ukraine,95,0,0,0,0,0,0,0,0,0,0
+2010,Winter,HUN,Hungary,32,0,0,0,0,0,0,0,0,0,0
+2010,Winter,LIE,Liechtenstein,5,0,0,0,0,0,0,0,0,0,0
+2010,Winter,LIB,Lebanon,6,0,0,0,0,0,0,0,0,0,0
+2010,Winter,JAM,Jamaica,1,0,0,0,0,0,0,0,0,0,0
+2012,Summer,POR,Portugal,98,0,2,2,0,0,2,0,0,0,0
+2012,Summer,ANG,Angola,35,0,0,0,0,0,0,0,0,0,0
+2012,Summer,ESP,Spain,339,5,63,33,25,1,16,0,4,17,25
+2012,Summer,MAS,Malaysia,38,0,2,1,1,0,1,0,0,0,1
+2012,Summer,SEY,Seychelles,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,BAH,Bahamas,29,4,4,0,0,4,0,0,0,0,0
+2012,Summer,GUA,Guatemala,24,0,1,1,0,0,1,0,0,0,0
+2012,Summer,BOL,Boliva,5,0,0,0,0,0,0,0,0,0,0
+2012,Summer,SUI,Switzerland,126,2,4,2,0,1,2,0,1,0,0
+2012,Summer,CIV,Ivory Coast,10,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MDV,Maldives,5,0,0,0,0,0,0,0,0,0,0
+2012,Summer,VAN,Vanuatu,5,0,0,0,0,0,0,0,0,0,0
+2014,Winter,MGL,Mongolia,2,0,0,0,0,0,0,0,0,0,0
+2014,Winter,GBR,UK,78,1,10,4,5,0,4,0,1,0,5
+2014,Winter,NED,Netherlands,82,13,29,7,9,7,4,5,6,3,4
+2014,Winter,CRO,Croatia,25,0,1,1,0,0,1,0,0,0,0
+2014,Winter,CAN,Canada,359,59,86,22,5,30,10,4,29,12,1
+2016,Summer,GER,Germany,536,49,159,43,67,20,27,44,29,16,23
+2016,Summer,MEX,Mexico,139,0,5,3,2,0,1,2,0,2,0
+2016,Summer,FRA,France,512,20,96,55,21,16,33,19,4,22,2
+2016,Summer,LIB,Lebanon,9,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MLT,Malta,8,0,0,0,0,0,0,0,0,0,0
+2016,Summer,TAN,Tanzania,7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,IVB,"Virgin Islands, British",4,0,0,0,0,0,0,0,0,0,0
+2016,Summer,COM,Comoros,4,0,0,0,0,0,0,0,0,0,0
+2016,Summer,BOL,Boliva,12,0,0,0,0,0,0,0,0,0,0
+2016,Summer,BAR,Barbados,13,0,0,0,0,0,0,0,0,0,0
+2016,Summer,SLE,Sierra Leone,4,0,0,0,0,0,0,0,0,0,0
+1900,Summer,ESP,Spain,12,2,2,0,0,2,0,0,0,0,0
+1906,Summer,NED,Netherlands,49,0,6,1,5,0,1,5,0,0,0
+1906,Summer,FRA,France,174,20,64,16,28,19,16,28,1,0,0
+1908,Summer,CAN,Canada,148,14,52,8,30,14,8,30,0,0,0
+1908,Summer,ARG,Argentina,1,0,0,0,0,0,0,0,0,0,0
+1912,Summer,NOR,Norway,263,40,80,6,34,40,6,33,0,0,1
+1912,Summer,LUX,Luxembourg,44,0,0,0,0,0,0,0,0,0,0
+1912,Summer,AUT,Austria,132,0,14,9,5,0,9,1,0,0,4
+1912,Summer,CAN,Canada,60,3,8,2,3,3,2,3,0,0,0
+1920,Summer,SUI,Switzerland,126,6,29,2,21,6,2,21,0,0,0
+1920,Summer,CAN,Canada,85,10,16,3,3,10,3,3,0,0,0
+1920,Summer,AUS,Australia,29,0,7,6,1,0,6,1,0,0,0
+1920,Summer,FIN,Finland,136,21,52,14,17,20,14,17,1,0,0
+1924,Summer,AUT,Austria,56,0,4,3,1,0,3,1,0,0,0
+1924,Summer,YUG,Serbia,116,2,2,0,0,2,0,0,0,0,0
+1928,Summer,NED,Netherlands,384,20,57,29,8,9,26,7,11,3,1
+1928,Winter,LAT,Latvia,3,0,0,0,0,0,0,0,0,0,0
+1928,Summer,LTU,Lithuania,13,0,0,0,0,0,0,0,0,0,0
+1928,Summer,RSA,South Africa,40,1,6,0,5,1,0,1,0,0,4
+1928,Winter,ITA,Italy,16,0,0,0,0,0,0,0,0,0,0
+1928,Summer,ZIM,Zimbabwe,2,0,0,0,0,0,0,0,0,0,0
+1932,Summer,YUG,Serbia,1,0,0,0,0,0,0,0,0,0,0
+1932,Winter,SUI,Switzerland,12,0,2,2,0,0,2,0,0,0,0
+1932,Summer,ESA,El Salvador,4,0,0,0,0,0,0,0,0,0,0
+1936,Winter,ESP,Spain,6,0,0,0,0,0,0,0,0,0,0
+1936,Summer,HUN,Hungary,335,25,41,1,15,23,1,7,2,0,8
+1936,Winter,LAT,Latvia,36,0,0,0,0,0,0,0,0,0,0
+1936,Summer,CHN,China,65,0,0,0,0,0,0,0,0,0,0
+1936,Summer,JPN,Japan,325,9,23,4,10,8,4,10,1,0,0
+1936,Summer,FRA,France,303,13,44,13,18,13,13,18,0,0,0
+1948,Summer,AUT,Austria,239,2,8,2,4,1,2,1,1,0,3
+1948,Winter,TUR,Turkey,10,0,0,0,0,0,0,0,0,0,0
+1948,Summer,FIN,Finland,215,17,33,8,8,16,7,8,1,1,0
+1948,Winter,POL,Poland,44,0,0,0,0,0,0,0,0,0,0
+1948,Winter,BUL,Bulgaria,9,0,0,0,0,0,0,0,0,0,0
+1952,Summer,BER,Bermuda,12,0,0,0,0,0,0,0,0,0,0
+1952,Winter,POR,Portugal,1,0,0,0,0,0,0,0,0,0,0
+1952,Winter,GBR,UK,35,1,1,0,0,0,0,0,1,0,0
+1952,Summer,LIB,Lebanon,9,0,2,1,1,0,1,1,0,0,0
+1952,Summer,POR,Portugal,155,0,2,0,2,0,0,2,0,0,0
+1952,Summer,CHI,Chile,82,0,4,4,0,0,4,0,0,0,0
+1956,Summer,RSA,South Africa,90,0,7,0,7,0,0,3,0,0,4
+1956,Summer,PAK,Pakistan,79,0,14,14,0,0,14,0,0,0,0
+1956,Summer,,,52,0,0,0,0,0,0,0,0,0,0
+1956,Summer,TUR,Turkey,28,3,7,2,2,3,2,2,0,0,0
+1956,Winter,AUT,Austria,87,5,12,3,4,4,1,2,1,2,2
+1956,Summer,TPE,Taiwan,23,0,0,0,0,0,0,0,0,0,0
+1960,Winter,AUT,Austria,42,1,6,2,3,1,2,2,0,0,1
+1960,Winter,FRA,France,55,1,3,0,2,1,0,2,0,0,0
+1960,Summer,ISL,Iceland,11,0,0,0,0,0,0,0,0,0,0
+1960,Summer,PAK,Pakistan,53,13,14,0,1,13,0,1,0,0,0
+1960,Summer,IRL,Ireland,63,0,0,0,0,0,0,0,0,0,0
+1960,Summer,FIJ,Fiji,3,0,0,0,0,0,0,0,0,0,0
+1964,Winter,SWE,Sweden,103,6,28,21,1,6,18,1,0,3,0
+1964,Winter,ROU,Romania,31,0,0,0,0,0,0,0,0,0,0
+1964,Summer,NOR,Norway,43,0,0,0,0,0,0,0,0,0,0
+1964,Summer,CGO,Republic of Congo,2,0,0,0,0,0,0,0,0,0,0
+1964,Winter,ITA,Italy,93,0,10,2,8,0,2,8,0,0,0
+1964,Summer,AFG,Afghanistan,8,0,0,0,0,0,0,0,0,0,0
+1964,Winter,LIB,Lebanon,12,0,0,0,0,0,0,0,0,0,0
+1968,Summer,CHA,Chad,4,0,0,0,0,0,0,0,0,0,0
+1968,Summer,POR,Portugal,33,0,0,0,0,0,0,0,0,0,0
+1968,Winter,TUR,Turkey,20,0,0,0,0,0,0,0,0,0,0
+1968,Winter,IND,India,3,0,0,0,0,0,0,0,0,0,0
+1968,Summer,CHI,Chile,25,0,0,0,0,0,0,0,0,0,0
+1968,Summer,SUD,Sudan,7,0,0,0,0,0,0,0,0,0,0
+1968,Summer,CAF,Central African Republic,1,0,0,0,0,0,0,0,0,0,0
+1968,Summer,ZAM,Zambia,7,0,0,0,0,0,0,0,0,0,0
+1972,Summer,TPE,Taiwan,44,0,0,0,0,0,0,0,0,0,0
+1972,Summer,EGY,Egypt,26,0,0,0,0,0,0,0,0,0,0
+1972,Summer,NOR,Norway,161,2,8,2,4,2,2,4,0,0,0
+1972,Winter,AUT,Austria,68,1,5,2,2,0,0,1,1,2,1
+1972,Winter,TCH,Czech Republic,61,1,20,0,19,1,0,18,0,0,1
+1972,Summer,KEN,Kenya,69,5,12,3,4,5,3,4,0,0,0
+1972,Summer,LBR,Liberia,5,0,0,0,0,0,0,0,0,0,0
+1972,Summer,NEP,Nepal,2,0,0,0,0,0,0,0,0,0,0
+1976,Winter,GBR,UK,70,1,1,0,0,1,0,0,0,0,0
+1976,Summer,CUB,Cuba,194,6,24,4,14,6,4,14,0,0,0
+1976,Winter,SMR,San Marino,3,0,0,0,0,0,0,0,0,0,0
+1976,Summer,IND,India,26,0,0,0,0,0,0,0,0,0,0
+1976,Winter,ROU,Romania,43,0,0,0,0,0,0,0,0,0,0
+1976,Summer,MAS,Malaysia,25,0,0,0,0,0,0,0,0,0,0
+1980,Summer,AUS,Australia,190,6,13,2,5,5,2,4,1,0,1
+1980,Winter,CYP,Cyprus,6,0,0,0,0,0,0,0,0,0,0
+1980,Summer,GDR,Germany,495,115,264,88,61,61,55,25,54,33,36
+1980,Summer,PUR,Puerto Rico,3,0,0,0,0,0,0,0,0,0,0
+1980,Summer,KUW,Kuwait,67,0,0,0,0,0,0,0,0,0,0
+1980,Winter,ARG,Argentina,26,0,0,0,0,0,0,0,0,0,0
+1984,Summer,CAN,Canada,572,19,87,36,32,15,14,21,4,22,11
+1984,Summer,TUR,Turkey,62,0,3,0,3,0,0,3,0,0,0
+1984,Winter,ARG,Argentina,37,0,0,0,0,0,0,0,0,0,0
+1984,Winter,CHI,Chile,12,0,0,0,0,0,0,0,0,0,0
+1984,Summer,NIG,Niger,4,0,0,0,0,0,0,0,0,0,0
+1984,Summer,GAB,Gabon,4,0,0,0,0,0,0,0,0,0,0
+1984,Summer,SUR,Suriname,7,0,0,0,0,0,0,0,0,0,0
+1984,Summer,OMA,Oman,22,0,0,0,0,0,0,0,0,0,0
+1984,Winter,SMR,San Marino,6,0,0,0,0,0,0,0,0,0,0
+1984,Summer,SUD,Sudan,9,0,0,0,0,0,0,0,0,0,0
+1984,Winter,MON,Monaco,2,0,0,0,0,0,0,0,0,0,0
+1988,Summer,KOR,South Korea,551,28,77,37,12,10,20,11,18,17,1
+1988,Summer,VEN,Venezuela,17,0,0,0,0,0,0,0,0,0,0
+1988,Summer,ISR,Israel,29,0,0,0,0,0,0,0,0,0,0
+1988,Summer,ESA,El Salvador,7,0,0,0,0,0,0,0,0,0,0
+1988,Summer,FRA,France,413,12,29,4,13,12,3,12,0,1,1
+1988,Winter,ISV,"Virgin Islands, US",7,0,0,0,0,0,0,0,0,0,0
+1988,Winter,GRE,Greece,15,0,0,0,0,0,0,0,0,0,0
+1988,Summer,MTN,Mauritania,7,0,0,0,0,0,0,0,0,0,0
+1988,Summer,NEP,Nepal,20,0,0,0,0,0,0,0,0,0,0
+1988,Summer,COD,Democratic Republic of the Congo,21,0,0,0,0,0,0,0,0,0,0
+1988,Summer,TTO,Trinidad,10,0,0,0,0,0,0,0,0,0,0
+1988,Summer,SMR,San Marino,15,0,0,0,0,0,0,0,0,0,0
+1988,Summer,BOT,Botswana,11,0,0,0,0,0,0,0,0,0,0
+1988,Summer,LUX,Luxembourg,11,0,0,0,0,0,0,0,0,0,0
+1992,Winter,CHI,Chile,12,0,0,0,0,0,0,0,0,0,0
+1992,Winter,TUR,Turkey,17,0,0,0,0,0,0,0,0,0,0
+1992,Summer,USA,USA,734,89,224,50,85,57,31,35,32,19,50
+1992,Summer,BEN,Benin,7,0,0,0,0,0,0,0,0,0,0
+1992,Summer,FRA,France,486,9,57,5,43,6,4,40,3,1,3
+1992,Summer,CRC,Costa Rica,20,0,0,0,0,0,0,0,0,0,0
+1992,Summer,TCH,Czech Republic,269,4,8,3,1,4,3,1,0,0,0
+1992,Summer,GUA,Guatemala,41,0,0,0,0,0,0,0,0,0,0
+1992,Summer,GHA,Ghana,41,0,20,0,20,0,0,20,0,0,0
+1992,Summer,CMR,Cameroon,12,0,0,0,0,0,0,0,0,0,0
+1992,Summer,SRI,Sri Lanka,16,0,0,0,0,0,0,0,0,0,0
+1992,Winter,AUS,Australia,41,0,0,0,0,0,0,0,0,0,0
+1994,Winter,GER,Germany,184,18,40,10,12,16,2,8,2,8,4
+1994,Winter,BIH,Bosnia and Herzegovina,12,0,0,0,0,0,0,0,0,0,0
+1994,Winter,KOR,South Korea,45,7,9,1,1,2,1,0,5,0,1
+1996,Summer,BAN,Bangladesh,4,0,0,0,0,0,0,0,0,0,0
+1996,Summer,MOZ,Mozambique,3,0,1,0,1,0,0,0,0,0,1
+1996,Summer,SRI,Sri Lanka,11,0,0,0,0,0,0,0,0,0,0
+1996,Summer,ISR,Israel,38,0,1,0,1,0,0,1,0,0,0
+1996,Summer,PAR,Paraguay,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,SKN,Saint Kitts,14,0,0,0,0,0,0,0,0,0,0
+1996,Summer,SUI,Switzerland,172,5,11,6,0,5,2,0,0,4,0
+1996,Summer,PAK,Pakistan,24,0,0,0,0,0,0,0,0,0,0
+1996,Summer,SUR,Suriname,11,0,0,0,0,0,0,0,0,0,0
+1998,Winter,FIN,Finland,132,2,58,7,49,2,7,29,0,0,20
+1998,Winter,JAM,Jamaica,6,0,0,0,0,0,0,0,0,0,0
+1998,Winter,KEN,Kenya,1,0,0,0,0,0,0,0,0,0,0
+1998,Winter,URU,Uruguay,1,0,0,0,0,0,0,0,0,0,0
+2000,Summer,TGA,Tonga,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ROU,Romania,252,27,46,6,13,4,1,4,23,5,9
+2000,Summer,GEQ,Equatorial Guinea,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ARG,Argentina,165,0,20,17,3,0,1,2,0,16,1
+2000,Summer,TAN,Tanzania,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ALG,Algeria,51,1,5,1,3,0,1,3,1,0,0
+2000,Summer,PUR,Puerto Rico,38,0,0,0,0,0,0,0,0,0,0
+2000,Summer,COD,Democratic Republic of the Congo,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,CHA,Chad,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,TPE,Taiwan,75,0,5,1,4,0,0,1,0,1,3
+2000,Summer,SOM,Somalia,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ARM,Armenia,26,0,1,0,1,0,0,1,0,0,0
+2000,Summer,PNG,Papua New Guinea,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,SAM,Samoa,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ALB,Albania,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,NAM,Namibia,16,0,0,0,0,0,0,0,0,0,0
+2002,Winter,NEP,Nepal,2,0,0,0,0,0,0,0,0,0,0
+2002,Winter,NZL,New Zealand,16,0,0,0,0,0,0,0,0,0,0
+2002,Winter,SMR,San Marino,1,0,0,0,0,0,0,0,0,0,0
+2002,Winter,SVK,Slovakia,79,0,0,0,0,0,0,0,0,0,0
+2002,Winter,AUS,Australia,41,2,2,0,0,1,0,0,1,0,0
+2002,Winter,BEL,Belgium,13,0,0,0,0,0,0,0,0,0,0
+2004,Summer,LES,Lesotho,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,TOG,Togo,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SOL,Solomon Islands,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,PLE,Palestine,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,ESA,El Salvador,9,0,0,0,0,0,0,0,0,0,0
+2004,Summer,ALB,Albania,7,0,0,0,0,0,0,0,0,0,0
+2004,Summer,HUN,Hungary,258,24,40,12,4,18,7,4,6,5,0
+2004,Summer,FIN,Finland,67,0,2,2,0,0,2,0,0,0,0
+2006,Winter,RUS,Russia,283,16,41,12,13,4,11,3,12,1,10
+2006,Winter,CHI,Chile,15,0,0,0,0,0,0,0,0,0,0
+2006,Winter,THA,Thailand,1,0,0,0,0,0,0,0,0,0,0
+2006,Winter,TJK,Tajikistan,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,NED,Netherlands,283,39,61,18,4,1,1,2,38,17,2
+2008,Summer,SOM,Somalia,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MGL,Mongolia,31,2,4,2,0,2,1,0,0,1,0
+2008,Summer,NAM,Namibia,11,0,0,0,0,0,0,0,0,0,0
+2008,Summer,AZE,Azerbaijan,44,1,7,2,4,1,2,3,0,0,1
+2008,Summer,NOR,Norway,102,16,22,5,1,2,3,0,14,2,1
+2008,Summer,BIZ,Belize,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,LAT,Latvia,53,1,3,1,1,1,1,1,0,0,0
+2008,Summer,IVB,"Virgin Islands, British",2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,OMA,Oman,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,HON,Honduras,26,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ESA,El Salvador,14,0,0,0,0,0,0,0,0,0,0
+2008,Summer,GUM,Guam,7,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ANG,Angola,33,0,0,0,0,0,0,0,0,0,0
+2010,Winter,ETH,Ethiopia,1,0,0,0,0,0,0,0,0,0,0
+2010,Winter,ISL,Iceland,7,0,0,0,0,0,0,0,0,0,0
+2010,Winter,DEN,Denmark,23,0,0,0,0,0,0,0,0,0,0
+2012,Summer,BLR,Belarus,185,3,23,12,8,2,4,0,1,8,8
+2012,Summer,KEN,Kenya,51,2,11,4,5,2,1,4,0,3,1
+2012,Summer,LIE,Liechtenstein,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,NEP,Nepal,5,0,0,0,0,0,0,0,0,0,0
+2012,Summer,AFG,Afghanistan,6,0,1,0,1,0,0,1,0,0,0
+2012,Summer,TTO,Trinidad,38,1,10,4,5,1,4,5,0,0,0
+2012,Summer,KUW,Kuwait,12,0,1,0,1,0,0,1,0,0,0
+2012,Summer,TLS,Timor-Leste,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,SWE,Sweden,168,2,22,17,3,2,15,3,0,2,0
+2014,Winter,CZE,Czech Republic,179,2,11,7,2,0,3,2,2,4,0
+2014,Winter,CHI,Chile,14,0,0,0,0,0,0,0,0,0,0
+2014,Winter,MON,Monaco,11,0,0,0,0,0,0,0,0,0,0
+2014,Winter,ZIM,Zimbabwe,2,0,0,0,0,0,0,0,0,0,0
+2016,Summer,RUS,Russia,406,52,115,28,35,11,9,13,41,19,22
+2016,Summer,BRU,Brunei,3,0,0,0,0,0,0,0,0,0,0
+2016,Summer,TKM,Turkmenistan,9,0,0,0,0,0,0,0,0,0,0
+2016,Summer,BAH,Bahamas,38,1,6,0,5,0,0,5,1,0,0
+2016,Summer,GUY,Guyana,7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,CRC,Costa Rica,12,0,0,0,0,0,0,0,0,0,0
+2016,Summer,SWE,Sweden,186,2,28,23,3,0,3,0,2,20,3
+2016,Summer,OMA,Oman,4,0,0,0,0,0,0,0,0,0,0
+2016,Summer,LAO,Laos,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ZIM,Zimbabwe,31,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MDV,Maldives,4,0,0,0,0,0,0,0,0,0,0
+1896,Summer,HUN,Hungary,18,2,6,1,3,2,1,3,0,0,0
+1896,Summer,GRE,Greece,148,10,48,18,20,10,18,20,0,0,0
+1900,Summer,LUX,Luxembourg,1,1,1,0,0,1,0,0,0,0,0
+1900,Summer,AUT,Austria,26,0,6,3,3,0,3,3,0,0,0
+1900,Summer,BRA,Brazil,3,0,0,0,0,0,0,0,0,0,0
+1904,Summer,RSA,South Africa,8,0,0,0,0,0,0,0,0,0,0
+1912,Summer,HUN,Hungary,207,10,30,17,3,10,17,3,0,0,0
+1920,Summer,IND,India,7,0,0,0,0,0,0,0,0,0,0
+1924,Summer,EST,Estonia,47,1,6,1,4,1,1,4,0,0,0
+1924,Summer,SWE,Sweden,256,7,72,22,43,7,22,38,0,0,5
+1924,Winter,AUT,Austria,4,3,4,1,0,1,1,0,2,0,0
+1924,Summer,GBR,UK,428,15,64,30,19,14,21,15,1,9,4
+1924,Summer,RSA,South Africa,44,1,3,1,1,1,1,1,0,0,0
+1928,Winter,ARG,Argentina,10,0,0,0,0,0,0,0,0,0,0
+1928,Winter,NED,Netherlands,11,0,0,0,0,0,0,0,0,0,0
+1928,Winter,LUX,Luxembourg,5,0,0,0,0,0,0,0,0,0,0
+1932,Winter,FIN,Finland,12,1,3,1,1,1,1,1,0,0,0
+1932,Winter,TCH,Czech Republic,17,0,0,0,0,0,0,0,0,0,0
+1936,Summer,NED,Netherlands,227,9,37,7,21,2,6,21,7,1,0
+1936,Summer,IND,India,30,19,19,0,0,19,0,0,0,0,0
+1936,Summer,PHI,Philippines,40,0,1,0,1,0,0,1,0,0,0
+1936,Summer,BER,Bermuda,9,0,0,0,0,0,0,0,0,0,0
+1936,Summer,BRA,Brazil,94,0,0,0,0,0,0,0,0,0,0
+1948,Winter,CAN,Canada,47,13,15,0,2,12,0,1,1,0,1
+1948,Summer,SWE,Sweden,223,30,75,15,30,30,15,29,0,0,1
+1948,Summer,YUG,Serbia,162,0,16,16,0,0,16,0,0,0,0
+1952,Winter,SWE,Sweden,94,0,23,0,23,0,0,23,0,0,0
+1952,Summer,DEN,Denmark,201,3,9,1,5,3,0,4,0,1,1
+1952,Summer,AHO,Curacao,11,0,0,0,0,0,0,0,0,0,0
+1952,Summer,BUL,Bulgaria,179,0,1,0,1,0,0,1,0,0,0
+1952,Winter,HUN,Hungary,21,0,2,0,2,0,0,1,0,0,1
+1952,Summer,GRE,Greece,54,0,0,0,0,0,0,0,0,0,0
+1952,Winter,DEN,Denmark,1,0,0,0,0,0,0,0,0,0,0
+1956,Summer,TCH,Czech Republic,161,1,7,5,1,0,4,1,1,1,0
+1956,Summer,ROU,Romania,103,6,19,3,10,6,2,3,0,1,7
+1956,Summer,IND,India,79,17,17,0,0,17,0,0,0,0,0
+1956,Summer,ISL,Iceland,2,0,1,1,0,0,1,0,0,0,0
+1956,Summer,ESP,Spain,12,0,0,0,0,0,0,0,0,0,0
+1956,Summer,URU,Uruguay,29,0,12,0,12,0,0,12,0,0,0
+1960,Winter,URS,Russia,91,7,42,7,28,3,1,26,4,6,2
+1960,Summer,BUL,Bulgaria,183,1,7,3,3,1,3,3,0,0,0
+1960,Summer,ROU,Romania,156,3,15,1,11,2,1,3,1,0,8
+1960,Summer,RSA,South Africa,72,0,3,1,2,0,1,2,0,0,0
+1960,Summer,VEN,Venezuela,54,0,1,0,1,0,0,1,0,0,0
+1960,Summer,ESP,Spain,238,0,14,0,14,0,0,14,0,0,0
+1960,Summer,LIB,Lebanon,22,0,0,0,0,0,0,0,0,0,0
+1960,Summer,LIE,Liechtenstein,8,0,0,0,0,0,0,0,0,0,0
+1964,Summer,FIN,Finland,151,3,5,0,2,3,0,2,0,0,0
+1964,Summer,ROU,Romania,232,2,16,4,10,0,3,7,2,1,3
+1964,Summer,CAN,Canada,194,2,5,2,1,2,2,1,0,0,0
+1964,Summer,NED,Netherlands,158,5,31,10,16,5,4,12,0,6,4
+1968,Winter,CHI,Chile,11,0,0,0,0,0,0,0,0,0,0
+1968,Winter,USA,USA,135,1,7,5,1,0,2,0,1,3,1
+1968,Winter,ROU,Romania,41,0,2,0,2,0,0,2,0,0,0
+1968,Summer,CAN,Canada,291,3,10,3,4,3,1,0,0,2,4
+1968,Winter,TCH,Czech Republic,71,1,21,19,1,1,19,0,0,0,1
+1968,Summer,USA,USA,529,99,166,32,35,71,24,25,28,8,10
+1968,Summer,SRI,Sri Lanka,3,0,0,0,0,0,0,0,0,0,0
+1968,Winter,GBR,UK,64,0,0,0,0,0,0,0,0,0,0
+1968,Winter,NZL,New Zealand,15,0,0,0,0,0,0,0,0,0,0
+1968,Summer,VEN,Venezuela,30,1,1,0,0,1,0,0,0,0,0
+1968,Winter,LIE,Liechtenstein,17,0,0,0,0,0,0,0,0,0,0
+1968,Summer,MLT,Malta,1,0,0,0,0,0,0,0,0,0,0
+1968,Winter,ISL,Iceland,8,0,0,0,0,0,0,0,0,0,0
+1972,Summer,POL,Poland,418,27,46,8,11,27,7,10,0,1,1
+1972,Summer,NED,Netherlands,199,3,6,1,2,3,0,2,0,1,0
+1972,Summer,BRA,Brazil,104,0,2,0,2,0,0,2,0,0,0
+1972,Summer,SUR,Suriname,3,0,0,0,0,0,0,0,0,0,0
+1972,Summer,CMR,Cameroon,18,0,0,0,0,0,0,0,0,0,0
+1972,Summer,JAM,Jamaica,51,0,1,0,1,0,0,1,0,0,0
+1972,Summer,MON,Monaco,5,0,0,0,0,0,0,0,0,0,0
+1972,Summer,CAM,Cambodia,17,0,0,0,0,0,0,0,0,0,0
+1972,Summer,SUD,Sudan,31,0,0,0,0,0,0,0,0,0,0
+1972,Summer,TAN,Tanzania,22,0,0,0,0,0,0,0,0,0,0
+1972,Summer,GUY,Guyana,4,0,0,0,0,0,0,0,0,0,0
+1972,Summer,PAR,Paraguay,3,0,0,0,0,0,0,0,0,0,0
+1972,Summer,ALG,Algeria,7,0,0,0,0,0,0,0,0,0,0
+1972,Summer,GUA,Guatemala,11,0,0,0,0,0,0,0,0,0,0
+1972,Winter,BUL,Bulgaria,12,0,0,0,0,0,0,0,0,0,0
+1972,Summer,ECU,Ecuador,4,0,0,0,0,0,0,0,0,0,0
+1976,Summer,USA,USA,554,70,164,58,36,62,30,19,8,28,17
+1976,Summer,NOR,Norway,79,2,6,4,0,2,4,0,0,0,0
+1976,Summer,HUN,Hungary,288,14,55,6,35,13,4,14,1,2,21
+1976,Summer,GRE,Greece,40,0,0,0,0,0,0,0,0,0,0
+1976,Summer,ISR,Israel,34,0,0,0,0,0,0,0,0,0,0
+1976,Summer,BAR,Barbados,17,0,0,0,0,0,0,0,0,0,0
+1976,Summer,BER,Bermuda,20,0,1,0,1,0,0,1,0,0,0
+1980,Summer,DOM,Dominican Republic,7,0,0,0,0,0,0,0,0,0,0
+1980,Summer,IND,India,78,16,16,0,0,16,0,0,0,0,0
+1980,Winter,SUI,Switzerland,73,2,9,4,3,2,4,1,0,0,2
+1980,Summer,NCA,Nicaragua,6,0,0,0,0,0,0,0,0,0,0
+1980,Winter,MGL,Mongolia,10,0,0,0,0,0,0,0,0,0,0
+1980,Summer,ISL,Iceland,12,0,0,0,0,0,0,0,0,0,0
+1984,Summer,POR,Portugal,48,1,3,0,2,1,0,1,0,0,1
+1984,Summer,JOR,Jordan,15,0,0,0,0,0,0,0,0,0,0
+1984,Summer,,,14,0,0,0,0,0,0,0,0,0,0
+1984,Winter,LIB,Lebanon,8,0,0,0,0,0,0,0,0,0,0
+1984,Summer,MON,Monaco,8,0,0,0,0,0,0,0,0,0,0
+1984,Summer,KUW,Kuwait,31,0,0,0,0,0,0,0,0,0,0
+1984,Summer,CAF,Central African Republic,3,0,0,0,0,0,0,0,0,0,0
+1988,Winter,KOR,South Korea,56,0,0,0,0,0,0,0,0,0,0
+1988,Summer,THA,Thailand,15,0,1,0,1,0,0,1,0,0,0
+1988,Summer,TGA,Tonga,7,0,0,0,0,0,0,0,0,0,0
+1988,Summer,SUD,Sudan,8,0,0,0,0,0,0,0,0,0,0
+1988,Winter,ROU,Romania,25,0,0,0,0,0,0,0,0,0,0
+1988,Summer,SOM,Somalia,5,0,0,0,0,0,0,0,0,0,0
+1988,Summer,PNG,Papua New Guinea,15,0,0,0,0,0,0,0,0,0,0
+1988,Summer,MON,Monaco,9,0,0,0,0,0,0,0,0,0,0
+1988,Summer,VIN,Saint Vincent,6,0,0,0,0,0,0,0,0,0,0
+1988,Summer,BAH,Bahamas,18,0,0,0,0,0,0,0,0,0,0
+1988,Summer,CRC,Costa Rica,33,0,1,1,0,0,0,0,0,1,0
+1988,Summer,COL,Colombia,57,0,1,0,1,0,0,1,0,0,0
+1988,Summer,MAS,Malaysia,17,0,0,0,0,0,0,0,0,0,0
+1988,Summer,ECU,Ecuador,15,0,0,0,0,0,0,0,0,0,0
+1988,Summer,TOG,Togo,6,0,0,0,0,0,0,0,0,0,0
+1988,Winter,CHI,Chile,16,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ISV,"Virgin Islands, US",34,0,0,0,0,0,0,0,0,0,0
+1992,Summer,SUR,Suriname,9,0,1,0,1,0,0,1,0,0,0
+1992,Summer,CYP,Cyprus,19,0,0,0,0,0,0,0,0,0,0
+1992,Summer,MOZ,Mozambique,7,0,0,0,0,0,0,0,0,0,0
+1992,Summer,TUN,Tunisia,15,0,0,0,0,0,0,0,0,0,0
+1992,Winter,NED,Netherlands,40,1,4,1,2,1,1,2,0,0,0
+1992,Summer,VAN,Vanuatu,8,0,0,0,0,0,0,0,0,0,0
+1992,Winter,CRO,Croatia,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,MRI,Mauritius,22,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BIH,Bosnia and Herzegovina,13,0,0,0,0,0,0,0,0,0,0
+1992,Summer,LES,Lesotho,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,KSA,Saudi Arabia,17,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BRN,Bahrain,15,0,0,0,0,0,0,0,0,0,0
+1992,Summer,SWZ,Swaziland,10,0,0,0,0,0,0,0,0,0,0
+1994,Winter,CHN,China,43,0,3,1,2,0,0,0,0,1,2
+1994,Winter,AUS,Australia,47,0,4,0,4,0,0,4,0,0,0
+1994,Winter,DEN,Denmark,9,0,0,0,0,0,0,0,0,0,0
+1996,Summer,POR,Portugal,131,1,3,0,2,0,0,2,1,0,0
+1996,Summer,ITA,Italy,460,19,71,24,28,14,17,23,5,7,5
+1996,Summer,NGR,Nigeria,84,17,24,4,3,16,0,1,1,4,2
+1996,Summer,BRU,Brunei,1,0,0,0,0,0,0,0,0,0,0
+1996,Summer,MAD,Madagascar,14,0,0,0,0,0,0,0,0,0,0
+1996,Summer,TTO,Trinidad,16,0,2,0,2,0,0,2,0,0,0
+1996,Summer,CYP,Cyprus,24,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GAM,Gambia,12,0,0,0,0,0,0,0,0,0,0
+1998,Winter,IRL,Ireland,10,0,0,0,0,0,0,0,0,0,0
+1998,Winter,HUN,Hungary,24,0,0,0,0,0,0,0,0,0,0
+1998,Winter,PRK,North Korea,17,0,0,0,0,0,0,0,0,0,0
+1998,Winter,EST,Estonia,48,0,0,0,0,0,0,0,0,0,0
+2000,Summer,CZE,Czech Republic,162,2,9,3,4,1,3,4,1,0,0
+2000,Summer,DEN,Denmark,124,18,25,3,4,3,2,4,15,1,0
+2000,Summer,NOR,Norway,115,20,43,4,19,2,2,4,18,2,15
+2000,Summer,UKR,Ukraine,368,3,35,20,12,1,15,6,2,5,6
+2000,Summer,CRO,Croatia,108,1,10,0,9,1,0,9,0,0,0
+2000,Summer,MAR,Morocco,55,0,5,1,4,0,1,3,0,0,1
+2000,Summer,PER,Peru,22,0,0,0,0,0,0,0,0,0,0
+2000,Summer,AZE,Azerbaijan,32,2,3,0,1,1,0,1,1,0,0
+2000,Summer,IRL,Ireland,76,0,1,1,0,0,0,0,0,1,0
+2000,Summer,INA,Indonesia,54,2,8,4,2,2,2,0,0,2,2
+2000,Summer,GUA,Guatemala,18,0,0,0,0,0,0,0,0,0,0
+2000,Summer,SEN,Senegal,32,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ZAM,Zambia,8,0,0,0,0,0,0,0,0,0,0
+2000,Summer,AHO,Curacao,8,0,0,0,0,0,0,0,0,0,0
+2000,Summer,MDV,Maldives,4,0,0,0,0,0,0,0,0,0,0
+2002,Winter,ARM,Armenia,17,0,0,0,0,0,0,0,0,0,0
+2002,Winter,TUR,Turkey,5,0,0,0,0,0,0,0,0,0,0
+2002,Winter,CHN,China,113,2,16,5,9,0,1,6,2,4,3
+2002,Winter,BLR,Belarus,123,0,1,0,1,0,0,1,0,0,0
+2002,Winter,TTO,Trinidad,3,0,0,0,0,0,0,0,0,0,0
+2002,Winter,MEX,Mexico,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,MON,Monaco,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,MAR,Morocco,57,2,3,1,0,2,0,0,0,1,0
+2004,Summer,ITA,Italy,474,24,104,41,39,10,31,37,14,10,2
+2004,Summer,SWZ,Swaziland,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SLE,Sierra Leone,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BEL,Belgium,70,1,3,0,2,0,0,1,1,0,1
+2004,Summer,OMA,Oman,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,PUR,Puerto Rico,52,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SMR,San Marino,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CHA,Chad,1,0,0,0,0,0,0,0,0,0,0
+2004,Summer,FIJ,Fiji,9,0,0,0,0,0,0,0,0,0,0
+2006,Winter,AND,Andorra,10,0,0,0,0,0,0,0,0,0,0
+2006,Winter,CZE,Czech Republic,170,1,27,2,24,0,1,24,1,1,0
+2006,Winter,SVK,Slovakia,114,0,1,1,0,0,1,0,0,0,0
+2006,Winter,BUL,Bulgaria,44,0,1,1,0,0,0,0,0,1,0
+2006,Winter,MAD,Madagascar,2,0,0,0,0,0,0,0,0,0,0
+2006,Winter,LAT,Latvia,92,0,1,0,1,0,0,1,0,0,0
+2008,Summer,ESP,Spain,355,7,70,47,16,7,35,15,0,12,1
+2008,Summer,GRN,Grenada,9,0,0,0,0,0,0,0,0,0,0
+2008,Summer,SWE,Sweden,169,0,7,5,2,0,4,2,0,1,0
+2008,Summer,SLE,Sierra Leone,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ISL,Iceland,31,0,14,14,0,0,14,0,0,0,0
+2008,Summer,ETH,Ethiopia,29,4,7,1,2,2,1,1,2,0,1
+2008,Summer,CUB,Cuba,171,2,47,34,11,2,28,8,0,6,3
+2008,Summer,LAO,Laos,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,PLE,Palestine,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,GBR,UK,420,31,81,25,25,22,17,13,9,8,12
+2008,Summer,ITA,Italy,459,8,42,14,20,4,11,13,4,3,7
+2008,Summer,GEQ,Equatorial Guinea,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,UKR,Ukraine,327,10,31,5,16,4,3,9,6,2,7
+2008,Summer,BDI,Burundi,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,SAM,Samoa,7,0,0,0,0,0,0,0,0,0,0
+2010,Winter,IRL,Ireland,7,0,0,0,0,0,0,0,0,0,0
+2010,Winter,NOR,Norway,190,16,39,14,9,9,12,8,7,2,1
+2010,Winter,LAT,Latvia,81,0,3,3,0,0,3,0,0,0,0
+2010,Winter,PRK,North Korea,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,LES,Lesotho,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,GRE,Greece,115,0,3,0,3,0,0,1,0,0,2
+2012,Summer,CUB,Cuba,118,5,14,3,6,4,1,6,1,2,0
+2012,Summer,NED,Netherlands,222,21,69,29,19,2,22,3,19,7,16
+2012,Summer,BRN,Bahrain,14,0,1,0,1,0,0,0,0,0,1
+2012,Summer,ANT,Antigua,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,FRA,France,426,30,82,30,22,26,15,10,4,15,12
+2012,Summer,MAW,Malawi,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,LBR,Liberia,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,IOA,Individual Olympic Athletes,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,SUD,Sudan,6,0,0,0,0,0,0,0,0,0,0
+2014,Winter,KOR,South Korea,130,7,14,5,2,0,3,0,7,2,2
+2014,Winter,POL,Poland,149,4,11,4,3,3,0,3,1,4,0
+2014,Winter,TUR,Turkey,11,0,0,0,0,0,0,0,0,0,0
+2014,Winter,ROU,Romania,40,0,0,0,0,0,0,0,0,0,0
+2014,Winter,MEX,Mexico,1,0,0,0,0,0,0,0,0,0,0
+2014,Winter,MKD,Macedonia,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ARG,Argentina,232,21,22,1,0,19,1,0,2,0,0
+2016,Summer,HUN,Hungary,204,12,22,3,7,1,2,5,11,1,2
+2016,Summer,FIJ,Fiji,53,13,13,0,0,13,0,0,0,0,0
+2016,Summer,TUR,Turkey,119,1,8,3,4,1,3,3,0,0,1
+2016,Summer,UKR,Ukraine,272,2,15,8,5,2,4,3,0,4,2
+2016,Summer,VIN,Saint Vincent,4,0,0,0,0,0,0,0,0,0,0
+2016,Summer,PUR,Puerto Rico,41,1,1,0,0,0,0,0,1,0,0
+2016,Summer,LIE,Liechtenstein,3,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ARU,Aruba,7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,STP,Sao Tome and Principe,3,0,0,0,0,0,0,0,0,0,0
+2016,Summer,LUX,Luxembourg,15,0,0,0,0,0,0,0,0,0,0
+2016,Summer,BIH,Bosnia and Herzegovina,11,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MKD,Macedonia,6,0,0,0,0,0,0,0,0,0,0
+1900,Summer,NOR,Norway,29,0,9,6,3,0,6,3,0,0,0
+1900,Summer,HUN,Hungary,34,1,5,2,2,1,2,2,0,0,0
+1908,Summer,GBR,UK,972,147,368,131,90,142,127,86,5,4,4
+1920,Summer,NZL,New Zealand,6,0,1,0,1,0,0,1,0,0,0
+1924,Summer,FIN,Finland,253,24,52,13,15,24,13,15,0,0,0
+1924,Summer,HAI,Haiti,16,0,5,0,5,0,0,5,0,0,0
+1924,Summer,TCH,Czech Republic,242,1,10,4,5,1,4,5,0,0,0
+1928,Summer,CAN,Canada,113,7,33,5,21,2,4,20,5,1,1
+1928,Winter,GER,Germany,51,0,5,0,5,0,0,5,0,0,0
+1928,Summer,ESP,Spain,106,3,3,0,0,3,0,0,0,0,0
+1928,Winter,ROU,Romania,10,0,0,0,0,0,0,0,0,0,0
+1932,Summer,DEN,Denmark,94,0,11,7,4,0,7,3,0,0,1
+1932,Summer,URU,Uruguay,6,0,1,0,1,0,0,1,0,0,0
+1932,Winter,AUT,Austria,12,1,2,1,0,1,0,0,0,1,0
+1932,Summer,PER,Peru,3,0,0,0,0,0,0,0,0,0,0
+1932,Summer,BEL,Belgium,69,0,1,0,1,0,0,1,0,0,0
+1936,Summer,GER,Germany,581,93,224,70,61,83,61,56,10,9,5
+1936,Summer,FIN,Finland,186,8,27,6,13,8,6,13,0,0,0
+1936,Winter,SUI,Switzerland,39,4,10,6,0,4,6,0,0,0,0
+1936,Summer,AUS,Australia,39,0,1,0,1,0,0,1,0,0,0
+1936,Winter,TUR,Turkey,10,0,0,0,0,0,0,0,0,0,0
+1948,Winter,NOR,Norway,75,4,13,3,6,4,3,6,0,0,0
+1948,Winter,ROU,Romania,14,0,0,0,0,0,0,0,0,0,0
+1948,Summer,MYA,Myanmar,5,0,0,0,0,0,0,0,0,0,0
+1952,Summer,MEX,Mexico,85,0,1,1,0,0,1,0,0,0,0
+1952,Summer,JPN,Japan,133,1,12,9,2,1,9,2,0,0,0
+1952,Summer,HKG,China,10,0,0,0,0,0,0,0,0,0,0
+1952,Summer,BEL,Belgium,184,5,8,3,0,5,3,0,0,0,0
+1952,Winter,AUS,Australia,19,0,0,0,0,0,0,0,0,0,0
+1952,Winter,GRE,Greece,6,0,0,0,0,0,0,0,0,0,0
+1952,Summer,THA,Thailand,15,0,0,0,0,0,0,0,0,0,0
+1952,Winter,NED,Netherlands,23,0,3,3,0,0,3,0,0,0,0
+1952,Summer,JAM,Jamaica,16,5,8,3,0,5,3,0,0,0,0
+1956,Winter,FRA,France,52,0,0,0,0,0,0,0,0,0,0
+1956,Summer,IRI,Iran,17,2,5,2,1,2,2,1,0,0,0
+1956,Summer,CAN,Canada,150,5,19,9,5,5,9,4,0,0,1
+1956,Summer,DEN,Denmark,51,1,6,4,1,1,3,0,0,1,1
+1956,Summer,HUN,Hungary,197,30,64,20,14,21,12,13,9,8,1
+1956,Summer,BUL,Bulgaria,82,1,18,3,14,1,3,14,0,0,0
+1956,Winter,YUG,Serbia,36,0,0,0,0,0,0,0,0,0,0
+1956,Winter,BUL,Bulgaria,15,0,0,0,0,0,0,0,0,0,0
+1956,Summer,LBR,Liberia,11,0,0,0,0,0,0,0,0,0,0
+1960,Summer,HAI,Haiti,1,0,0,0,0,0,0,0,0,0,0
+1960,Summer,PUR,Puerto Rico,29,0,0,0,0,0,0,0,0,0,0
+1960,Summer,POL,Poland,307,4,30,11,15,4,9,10,0,2,5
+1960,Winter,AUS,Australia,38,0,0,0,0,0,0,0,0,0,0
+1960,Summer,BEL,Belgium,150,0,4,2,2,0,2,2,0,0,0
+1960,Summer,NOR,Norway,50,2,2,0,0,2,0,0,0,0,0
+1964,Summer,ALG,Algeria,7,0,0,0,0,0,0,0,0,0,0
+1964,Summer,CAM,Cambodia,15,0,0,0,0,0,0,0,0,0,0
+1964,Winter,IND,India,1,0,0,0,0,0,0,0,0,0,0
+1964,Summer,IRQ,Iraq,19,0,0,0,0,0,0,0,0,0,0
+1964,Summer,LBR,Liberia,2,0,0,0,0,0,0,0,0,0,0
+1968,Winter,FRA,France,118,4,9,3,2,3,1,1,1,2,1
+1968,Summer,IRQ,Iraq,4,0,0,0,0,0,0,0,0,0,0
+1968,Summer,POL,Poland,296,5,37,2,30,4,2,17,1,0,13
+1968,Summer,SUI,Switzerland,155,0,13,3,10,0,3,9,0,0,1
+1968,Summer,AHO,Curacao,5,0,0,0,0,0,0,0,0,0,0
+1968,Summer,ROU,Romania,100,5,23,9,9,3,7,3,2,2,6
+1968,Winter,IRI,Iran,12,0,0,0,0,0,0,0,0,0,0
+1968,Summer,ISL,Iceland,16,0,0,0,0,0,0,0,0,0,0
+1968,Summer,FRG,Germany,778,30,103,36,37,25,25,26,5,11,11
+1968,Summer,TTO,Trinidad,25,0,0,0,0,0,0,0,0,0,0
+1968,Summer,MON,Monaco,2,0,0,0,0,0,0,0,0,0,0
+1968,Summer,CMR,Cameroon,5,0,1,1,0,0,1,0,0,0,0
+1968,Summer,TAN,Tanzania,5,0,0,0,0,0,0,0,0,0,0
+1968,Summer,HON,Honduras,6,0,0,0,0,0,0,0,0,0,0
+1972,Winter,POL,Poland,66,1,1,0,0,1,0,0,0,0,0
+1972,Winter,USA,USA,147,3,24,18,3,0,17,0,3,1,3
+1972,Summer,SWE,Sweden,186,4,22,10,8,3,9,5,1,1,3
+1972,Summer,POR,Portugal,41,0,0,0,0,0,0,0,0,0,0
+1972,Summer,TOG,Togo,7,0,0,0,0,0,0,0,0,0,0
+1972,Summer,MLT,Malta,5,0,0,0,0,0,0,0,0,0,0
+1972,Winter,MGL,Mongolia,8,0,0,0,0,0,0,0,0,0,0
+1972,Summer,NIG,Niger,4,0,1,0,1,0,0,1,0,0,0
+1972,Summer,COL,Colombia,75,0,3,1,2,0,1,2,0,0,0
+1972,Summer,CRC,Costa Rica,4,0,0,0,0,0,0,0,0,0,0
+1972,Summer,LIE,Liechtenstein,12,0,0,0,0,0,0,0,0,0,0
+1972,Summer,NGR,Nigeria,36,0,1,0,1,0,0,1,0,0,0
+1972,Summer,NCA,Nicaragua,10,0,0,0,0,0,0,0,0,0,0
+1976,Winter,BUL,Bulgaria,42,0,0,0,0,0,0,0,0,0,0
+1976,Winter,BEL,Belgium,11,0,0,0,0,0,0,0,0,0,0
+1976,Summer,PUR,Puerto Rico,112,0,1,0,1,0,0,1,0,0,0
+1976,Summer,HKG,China,50,0,0,0,0,0,0,0,0,0,0
+1976,Summer,BIZ,Belize,4,0,0,0,0,0,0,0,0,0,0
+1980,Summer,ROU,Romania,339,7,68,15,46,4,7,32,3,8,14
+1980,Summer,GRE,Greece,45,1,5,0,4,1,0,4,0,0,0
+1980,Summer,TCH,Czech Republic,317,17,51,18,16,17,1,16,0,17,0
+1980,Summer,SEN,Senegal,39,0,0,0,0,0,0,0,0,0,0
+1980,Summer,ANG,Angola,17,0,0,0,0,0,0,0,0,0,0
+1980,Summer,BEN,Benin,17,0,0,0,0,0,0,0,0,0,0
+1984,Summer,ITA,Italy,368,29,63,6,28,28,4,27,1,2,1
+1984,Summer,HKG,China,410,24,74,13,37,10,12,5,14,1,32
+1984,Summer,INA,Indonesia,23,0,0,0,0,0,0,0,0,0,0
+1984,Summer,BOL,Boliva,13,0,0,0,0,0,0,0,0,0,0
+1984,Summer,CGO,Republic of Congo,13,0,0,0,0,0,0,0,0,0,0
+1984,Summer,UAE,United Arab Emirates,11,0,0,0,0,0,0,0,0,0,0
+1984,Winter,MEX,Mexico,3,0,0,0,0,0,0,0,0,0,0
+1984,Summer,EGY,Egypt,148,0,1,1,0,0,1,0,0,0,0
+1984,Summer,SEN,Senegal,29,0,0,0,0,0,0,0,0,0,0
+1984,Summer,ECU,Ecuador,15,0,0,0,0,0,0,0,0,0,0
+1984,Summer,NOR,Norway,132,0,4,1,3,0,0,3,0,1,0
+1984,Summer,MLT,Malta,7,0,0,0,0,0,0,0,0,0,0
+1988,Winter,ARG,Argentina,45,0,0,0,0,0,0,0,0,0,0
+1988,Summer,USA,USA,715,87,207,66,54,58,45,37,29,21,17
+1988,Winter,FRA,France,115,1,2,0,1,1,0,1,0,0,0
+1988,Summer,CAN,Canada,503,4,23,5,14,1,5,4,3,0,10
+1988,Summer,BRA,Brazil,233,1,23,17,5,1,17,5,0,0,0
+1988,Summer,FIJ,Fiji,41,0,0,0,0,0,0,0,0,0,0
+1988,Summer,LAO,Laos,3,0,0,0,0,0,0,0,0,0,0
+1988,Summer,COK,Cook Islands,8,0,0,0,0,0,0,0,0,0,0
+1988,Summer,SUR,Suriname,10,1,1,0,0,1,0,0,0,0,0
+1988,Summer,TAN,Tanzania,10,0,0,0,0,0,0,0,0,0,0
+1988,Summer,ZAM,Zambia,33,0,0,0,0,0,0,0,0,0,0
+1992,Summer,CHN,China,460,18,82,45,19,5,12,9,13,33,10
+1992,Winter,ITA,Italy,180,4,21,9,8,2,8,4,2,1,4
+1992,Summer,NOR,Norway,114,2,23,20,1,1,6,1,1,14,0
+1992,Summer,SYR,Syria,9,0,0,0,0,0,0,0,0,0,0
+1992,Summer,JPN,Japan,392,3,47,8,36,2,4,31,1,4,5
+1992,Winter,EUN,Russia,214,35,59,10,14,26,5,1,9,5,13
+1992,Summer,OMA,Oman,5,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BER,Bermuda,29,0,0,0,0,0,0,0,0,0,0
+1992,Summer,POL,Poland,263,5,46,22,19,5,22,17,0,0,2
+1992,Summer,PRK,North Korea,123,4,10,0,6,4,0,3,0,0,3
+1992,Summer,JAM,Jamaica,51,0,4,3,1,0,1,0,0,2,1
+1992,Summer,PHI,Philippines,38,0,1,0,1,0,0,1,0,0,0
+1992,Winter,HON,Honduras,3,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ARU,Aruba,5,0,0,0,0,0,0,0,0,0,0
+1992,Summer,CIV,Ivory Coast,18,0,0,0,0,0,0,0,0,0,0
+1992,Winter,AND,Andorra,14,0,0,0,0,0,0,0,0,0,0
+1994,Winter,ARG,Argentina,20,0,0,0,0,0,0,0,0,0,0
+1994,Winter,EST,Estonia,67,0,0,0,0,0,0,0,0,0,0
+1994,Winter,ARM,Armenia,2,0,0,0,0,0,0,0,0,0,0
+1994,Winter,KAZ,Kazakhstan,71,1,3,2,0,1,2,0,0,0,0
+1994,Winter,BLR,Belarus,74,0,2,2,0,0,1,0,0,1,0
+1996,Summer,JAM,Jamaica,69,1,16,3,12,0,1,6,1,2,6
+1996,Summer,AFG,Afghanistan,2,0,0,0,0,0,0,0,0,0,0
+1996,Summer,MLT,Malta,10,0,0,0,0,0,0,0,0,0,0
+1996,Summer,UZB,Uzbekistan,95,0,2,1,1,0,1,1,0,0,0
+1996,Summer,ETH,Ethiopia,19,2,3,0,1,1,0,0,1,0,1
+1996,Summer,PUR,Puerto Rico,91,0,1,0,1,0,0,1,0,0,0
+1996,Summer,BHU,Bhutan,2,0,0,0,0,0,0,0,0,0,0
+1996,Summer,STP,Sao Tome and Principe,2,0,0,0,0,0,0,0,0,0,0
+1996,Summer,AZE,Azerbaijan,24,0,1,1,0,0,1,0,0,0,0
+1996,Summer,IRQ,Iraq,3,0,0,0,0,0,0,0,0,0,0
+1996,Summer,LES,Lesotho,11,0,0,0,0,0,0,0,0,0,0
+1996,Summer,BIH,Bosnia and Herzegovina,12,0,0,0,0,0,0,0,0,0,0
+1996,Summer,MEX,Mexico,111,0,1,0,1,0,0,1,0,0,0
+1996,Summer,ISL,Iceland,15,0,0,0,0,0,0,0,0,0,0
+1996,Summer,MDV,Maldives,9,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GBS,Guinea-Bissau,3,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GRN,Grenada,5,0,0,0,0,0,0,0,0,0,0
+1998,Winter,IRI,Iran,1,0,0,0,0,0,0,0,0,0,0
+1998,Winter,BER,Bermuda,1,0,0,0,0,0,0,0,0,0,0
+1998,Winter,RSA,South Africa,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,RUS,Russia,602,66,187,67,54,37,36,25,29,31,29
+2000,Summer,CPV,Cape Verde,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,LES,Lesotho,6,0,0,0,0,0,0,0,0,0,0
+2000,Summer,KSA,Saudi Arabia,23,0,2,1,1,0,1,1,0,0,0
+2000,Summer,BIZ,Belize,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ANG,Angola,30,0,0,0,0,0,0,0,0,0,0
+2000,Summer,BAH,Bahamas,39,6,11,0,5,0,0,5,6,0,0
+2000,Summer,SKN,Saint Kitts,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,LIB,Lebanon,6,0,0,0,0,0,0,0,0,0,0
+2000,Summer,AUT,Austria,114,3,4,1,0,3,0,0,0,1,0
+2000,Summer,PLW,Palau,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,MGL,Mongolia,23,0,0,0,0,0,0,0,0,0,0
+2000,Summer,GUY,Guyana,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,DOM,Dominican Republic,13,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ISL,Iceland,29,0,1,0,1,0,0,0,0,0,1
+2000,Summer,SLE,Sierra Leone,3,0,0,0,0,0,0,0,0,0,0
+2002,Winter,ISR,Israel,7,0,0,0,0,0,0,0,0,0,0
+2002,Winter,LIE,Liechtenstein,18,0,0,0,0,0,0,0,0,0,0
+2002,Winter,GRE,Greece,17,0,0,0,0,0,0,0,0,0,0
+2002,Winter,CHI,Chile,11,0,0,0,0,0,0,0,0,0,0
+2002,Winter,GBR,UK,70,5,6,0,1,0,0,0,5,0,1
+2002,Winter,BER,Bermuda,1,0,0,0,0,0,0,0,0,0,0
+2002,Winter,DEN,Denmark,11,0,0,0,0,0,0,0,0,0,0
+2004,Summer,INA,Indonesia,39,1,5,1,3,1,0,3,0,1,0
+2004,Summer,AFG,Afghanistan,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,LUX,Luxembourg,14,0,0,0,0,0,0,0,0,0,0
+2004,Summer,RWA,Rwanda,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,LBR,Liberia,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CYP,Cyprus,21,0,0,0,0,0,0,0,0,0,0
+2004,Summer,ARU,Aruba,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BEN,Benin,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,IVB,"Virgin Islands, British",1,0,0,0,0,0,0,0,0,0,0
+2004,Summer,FSM,Micronesia,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CHI,Chile,29,3,4,0,1,3,0,1,0,0,0
+2004,Summer,PHI,Philippines,21,0,0,0,0,0,0,0,0,0,0
+2004,Summer,DMA,Dominica,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,LIB,Lebanon,5,0,0,0,0,0,0,0,0,0,0
+2006,Winter,NED,Netherlands,63,3,13,2,8,1,1,7,2,1,1
+2006,Winter,GRE,Greece,8,0,0,0,0,0,0,0,0,0,0
+2006,Winter,ALB,Albania,3,0,0,0,0,0,0,0,0,0,0
+2006,Winter,ETH,Ethiopia,1,0,0,0,0,0,0,0,0,0,0
+2006,Winter,ISL,Iceland,12,0,0,0,0,0,0,0,0,0,0
+2006,Winter,NEP,Nepal,1,0,0,0,0,0,0,0,0,0,0
+2008,Summer,VIE,Vietnam,18,0,1,1,0,0,1,0,0,0,0
+2008,Summer,TUR,Turkey,71,1,7,3,3,1,0,3,0,3,0
+2008,Summer,TTO,Trinidad,35,5,6,1,0,5,1,0,0,0,0
+2008,Summer,BUL,Bulgaria,87,1,5,1,3,0,0,3,1,1,0
+2008,Summer,HKG,China,777,74,184,53,57,34,11,11,40,42,46
+2008,Summer,FIN,Finland,70,1,5,2,2,0,0,2,1,2,0
+2008,Summer,PAK,Pakistan,22,0,0,0,0,0,0,0,0,0,0
+2008,Summer,GAM,Gambia,3,0,0,0,0,0,0,0,0,0,0
+2010,Winter,MNE,Montenegro,2,0,0,0,0,0,0,0,0,0,0
+2010,Winter,ARM,Armenia,6,0,0,0,0,0,0,0,0,0,0
+2010,Winter,KGZ,Kyrgyzstan,3,0,0,0,0,0,0,0,0,0,0
+2010,Winter,LTU,Lithuania,13,0,0,0,0,0,0,0,0,0,0
+2010,Winter,AND,Andorra,20,0,0,0,0,0,0,0,0,0,0
+2012,Summer,TJK,Tajikistan,16,0,1,0,1,0,0,0,0,0,1
+2012,Summer,RUS,Russia,549,50,140,39,51,24,10,34,26,29,17
+2012,Summer,GUI,Guinea,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,NOR,Norway,69,15,17,1,1,1,1,1,14,0,0
+2012,Summer,USA,USA,689,145,248,57,46,42,27,19,103,30,27
+2012,Summer,JOR,Jordan,9,0,0,0,0,0,0,0,0,0,0
+2012,Summer,BHU,Bhutan,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,ZIM,Zimbabwe,9,0,0,0,0,0,0,0,0,0,0
+2012,Summer,COL,Colombia,120,1,8,3,4,0,2,2,1,1,2
+2012,Summer,NGR,Nigeria,58,0,0,0,0,0,0,0,0,0,0
+2012,Summer,EST,Estonia,36,0,2,1,1,0,1,1,0,0,0
+2012,Summer,NCA,Nicaragua,6,0,0,0,0,0,0,0,0,0,0
+2014,Winter,BEL,Belgium,11,0,0,0,0,0,0,0,0,0,0
+2014,Winter,EST,Estonia,66,0,0,0,0,0,0,0,0,0,0
+2014,Winter,THA,Thailand,3,0,0,0,0,0,0,0,0,0,0
+2014,Winter,MNE,Montenegro,3,0,0,0,0,0,0,0,0,0,0
+2014,Winter,DMA,Dominica,1,0,0,0,0,0,0,0,0,0,0
+2014,Winter,TGA,Tonga,1,0,0,0,0,0,0,0,0,0,0
+2016,Summer,IND,India,130,0,2,1,1,0,0,0,0,1,1
+2016,Summer,NED,Netherlands,329,9,47,25,13,2,3,11,7,22,2
+2016,Summer,VIE,Vietnam,28,1,2,1,0,1,1,0,0,0,0
+2016,Summer,COK,Cook Islands,9,0,0,0,0,0,0,0,0,0,0
+2016,Summer,BUL,Bulgaria,58,0,7,1,6,0,0,0,0,1,6
+2016,Summer,CYP,Cyprus,21,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ZAM,Zambia,7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ISV,"Virgin Islands, US",7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,SRI,Sri Lanka,10,0,0,0,0,0,0,0,0,0,0
+1896,Summer,USA,USA,27,11,20,7,2,11,7,2,0,0,0
+1896,Summer,GER,Germany,94,25,32,5,2,25,5,2,0,0,0
+1900,Summer,SUI,Switzerland,52,16,21,4,1,15,3,1,1,1,0
+1900,Summer,IND,India,5,0,2,2,0,0,2,0,0,0,0
+1900,Summer,AUS,Australia,6,3,6,0,3,3,0,3,0,0,0
+1908,Summer,FRA,France,319,12,40,5,23,12,5,23,0,0,0
+1908,Summer,USA,USA,219,34,65,16,15,34,16,15,0,0,0
+1912,Summer,ANZ,Australia,38,5,10,2,3,4,1,3,1,1,0
+1912,Summer,GER,Germany,312,11,53,19,23,10,14,23,1,5,0
+1912,Summer,DEN,Denmark,233,5,87,49,33,5,48,33,0,1,0
+1920,Summer,BRA,Brazil,38,1,7,1,5,1,1,5,0,0,0
+1920,Summer,ESP,Spain,111,0,23,23,0,0,23,0,0,0,0
+1924,Summer,LAT,Latvia,47,0,0,0,0,0,0,0,0,0,0
+1928,Winter,FIN,Finland,27,2,4,1,1,2,1,1,0,0,0
+1928,Summer,IRL,Ireland,44,1,1,0,0,1,0,0,0,0,0
+1928,Summer,FRA,France,422,12,50,24,14,11,24,14,1,0,0
+1928,Winter,USA,USA,45,6,14,6,2,6,6,1,0,0,1
+1928,Summer,GRE,Greece,47,0,0,0,0,0,0,0,0,0,0
+1932,Winter,SWE,Sweden,18,1,3,2,0,1,2,0,0,0,0
+1932,Summer,GER,Germany,202,10,43,26,7,10,25,6,0,1,1
+1932,Summer,HUN,Hungary,118,20,33,5,8,20,5,7,0,0,1
+1932,Summer,ARG,Argentina,47,3,4,1,0,3,1,0,0,0,0
+1932,Summer,GRE,Greece,16,0,0,0,0,0,0,0,0,0,0
+1932,Summer,CHN,China,2,0,0,0,0,0,0,0,0,0,0
+1932,Summer,ROU,Romania,2,0,0,0,0,0,0,0,0,0,0
+1936,Summer,CRC,Costa Rica,1,0,0,0,0,0,0,0,0,0,0
+1936,Summer,URU,Uruguay,40,0,0,0,0,0,0,0,0,0,0
+1936,Summer,EST,Estonia,36,2,7,2,3,2,2,3,0,0,0
+1936,Winter,GRE,Greece,2,0,0,0,0,0,0,0,0,0,0
+1936,Winter,NOR,Norway,47,7,18,8,3,6,8,2,1,0,1
+1936,Summer,TCH,Czech Republic,293,5,18,12,1,5,4,1,0,8,0
+1936,Summer,ROU,Romania,118,0,1,1,0,0,1,0,0,0,0
+1948,Summer,TUR,Turkey,87,6,12,4,2,6,4,2,0,0,0
+1948,Winter,FIN,Finland,45,1,9,6,2,1,6,2,0,0,0
+1948,Summer,CHI,Chile,72,0,0,0,0,0,0,0,0,0,0
+1948,Winter,ITA,Italy,81,1,1,0,0,1,0,0,0,0,0
+1948,Winter,LIE,Liechtenstein,16,0,0,0,0,0,0,0,0,0,0
+1952,Winter,SUI,Switzerland,76,0,6,0,6,0,0,6,0,0,0
+1952,Summer,PHI,Philippines,28,0,0,0,0,0,0,0,0,0,0
+1952,Summer,,,7,0,0,0,0,0,0,0,0,0,0
+1952,Summer,EGY,Egypt,196,0,1,0,1,0,0,1,0,0,0
+1956,Summer,URS,Russia,411,68,169,46,55,56,40,44,12,6,11
+1956,Summer,NZL,New Zealand,57,3,3,0,0,3,0,0,0,0,0
+1956,Winter,ITA,Italy,93,2,8,6,0,2,6,0,0,0,0
+1956,Summer,LUX,Luxembourg,27,0,0,0,0,0,0,0,0,0,0
+1956,Winter,NED,Netherlands,16,0,0,0,0,0,0,0,0,0,0
+1956,Summer,MAL,Malaysia,36,0,0,0,0,0,0,0,0,0,0
+1956,Summer,FIN,Finland,147,3,26,1,22,3,1,22,0,0,0
+1956,Summer,JAM,Jamaica,13,0,0,0,0,0,0,0,0,0,0
+1960,Summer,MLT,Malta,13,0,0,0,0,0,0,0,0,0,0
+1960,Summer,NED,Netherlands,160,0,3,1,2,0,0,1,0,1,1
+1960,Winter,ARG,Argentina,14,0,0,0,0,0,0,0,0,0,0
+1960,Winter,RSA,South Africa,4,0,0,0,0,0,0,0,0,0,0
+1960,Summer,FIN,Finland,219,1,6,1,4,1,1,4,0,0,0
+1960,Winter,NED,Netherlands,13,0,2,1,1,0,0,1,0,1,0
+1960,Summer,UGA,Uganda,16,0,0,0,0,0,0,0,0,0,0
+1960,Summer,MEX,Mexico,110,0,1,0,1,0,0,1,0,0,0
+1964,Winter,MGL,Mongolia,22,0,0,0,0,0,0,0,0,0,0
+1964,Winter,AUT,Austria,116,5,17,9,3,4,7,1,1,2,2
+1964,Summer,NZL,New Zealand,88,4,6,0,2,4,0,1,0,0,1
+1964,Winter,TCH,Czech Republic,69,0,17,0,17,0,0,17,0,0,0
+1964,Winter,BEL,Belgium,11,0,0,0,0,0,0,0,0,0,0
+1964,Summer,THA,Thailand,67,0,0,0,0,0,0,0,0,0,0
+1964,Winter,PRK,North Korea,20,0,1,1,0,0,0,0,0,1,0
+1964,Summer,CMR,Cameroon,2,0,0,0,0,0,0,0,0,0,0
+1964,Summer,BOL,Boliva,1,0,0,0,0,0,0,0,0,0,0
+1968,Summer,IRL,Ireland,57,0,0,0,0,0,0,0,0,0,0
+1968,Summer,AUS,Australia,224,5,51,35,11,3,28,9,2,7,2
+1968,Summer,SWE,Sweden,186,4,9,4,1,4,4,1,0,0,0
+1968,Summer,URS,Russia,471,65,192,63,64,39,57,48,26,6,16
+1968,Summer,CRC,Costa Rica,27,0,0,0,0,0,0,0,0,0,0
+1968,Summer,BUL,Bulgaria,189,2,26,21,3,2,21,3,0,0,0
+1968,Summer,BEL,Belgium,106,0,3,1,2,0,1,2,0,0,0
+1968,Winter,POL,Poland,52,0,0,0,0,0,0,0,0,0,0
+1968,Winter,KOR,South Korea,14,0,0,0,0,0,0,0,0,0,0
+1968,Summer,GUI,Guinea,15,0,0,0,0,0,0,0,0,0,0
+1972,Summer,GAB,Gabon,1,0,0,0,0,0,0,0,0,0,0
+1972,Summer,CAN,Canada,344,0,11,2,9,0,1,8,0,1,1
+1972,Summer,IRL,Ireland,84,0,0,0,0,0,0,0,0,0,0
+1972,Summer,HUN,Hungary,367,10,81,46,25,10,39,17,0,7,8
+1972,Summer,BEN,Benin,3,0,0,0,0,0,0,0,0,0,0
+1972,Summer,ESP,Spain,162,0,1,0,1,0,0,1,0,0,0
+1972,Summer,HKG,China,18,0,0,0,0,0,0,0,0,0,0
+1972,Summer,ISR,Israel,17,0,0,0,0,0,0,0,0,0,0
+1972,Summer,INA,Indonesia,7,0,0,0,0,0,0,0,0,0,0
+1972,Summer,SYR,Syria,5,0,0,0,0,0,0,0,0,0,0
+1972,Summer,KUW,Kuwait,4,0,0,0,0,0,0,0,0,0,0
+1976,Summer,BEL,Belgium,149,0,9,3,6,0,3,6,0,0,0
+1976,Winter,KOR,South Korea,9,0,0,0,0,0,0,0,0,0,0
+1976,Winter,USA,USA,151,3,11,3,5,1,1,2,2,2,3
+1976,Summer,MON,Monaco,10,0,0,0,0,0,0,0,0,0,0
+1976,Summer,NEP,Nepal,1,0,0,0,0,0,0,0,0,0,0
+1976,Winter,TCH,Czech Republic,90,0,19,19,0,0,19,0,0,0,0
+1976,Summer,LUX,Luxembourg,9,0,0,0,0,0,0,0,0,0,0
+1976,Winter,CHI,Chile,11,0,0,0,0,0,0,0,0,0,0
+1976,Summer,MAR,Morocco,9,0,0,0,0,0,0,0,0,0,0
+1976,Summer,FIJ,Fiji,5,0,0,0,0,0,0,0,0,0,0
+1980,Summer,MEX,Mexico,74,0,10,1,9,0,1,9,0,0,0
+1980,Summer,LIB,Lebanon,19,0,1,0,1,0,0,1,0,0,0
+1980,Summer,LBA,Libya,38,0,0,0,0,0,0,0,0,0,0
+1980,Summer,YUG,Serbia,180,13,57,27,17,13,13,5,0,14,12
+1980,Winter,BOL,Boliva,8,0,0,0,0,0,0,0,0,0,0
+1980,Winter,CAN,Canada,86,0,2,1,1,0,1,1,0,0,0
+1980,Summer,BUL,Bulgaria,397,8,90,44,38,8,25,21,0,19,17
+1980,Winter,ROU,Romania,42,0,0,0,0,0,0,0,0,0,0
+1980,Summer,IRQ,Iraq,44,0,0,0,0,0,0,0,0,0,0
+1980,Summer,MLT,Malta,12,0,0,0,0,0,0,0,0,0,0
+1980,Winter,ESP,Spain,15,0,0,0,0,0,0,0,0,0,0
+1980,Summer,NEP,Nepal,10,0,0,0,0,0,0,0,0,0,0
+1984,Summer,ESP,Spain,257,2,19,14,3,2,14,3,0,0,0
+1984,Summer,BRA,Brazil,197,1,36,33,2,1,33,2,0,0,0
+1984,Summer,PNG,Papua New Guinea,12,0,0,0,0,0,0,0,0,0,0
+1984,Summer,PAN,Panama,10,0,0,0,0,0,0,0,0,0,0
+1984,Winter,EGY,Egypt,3,0,0,0,0,0,0,0,0,0,0
+1984,Summer,GRN,Grenada,6,0,0,0,0,0,0,0,0,0,0
+1984,Summer,MRI,Mauritius,7,0,0,0,0,0,0,0,0,0,0
+1984,Winter,TUR,Turkey,11,0,0,0,0,0,0,0,0,0,0
+1984,Summer,MLI,Mali,5,0,0,0,0,0,0,0,0,0,0
+1988,Summer,AUS,Australia,339,18,35,6,11,1,5,8,17,1,3
+1988,Summer,SRI,Sri Lanka,9,0,0,0,0,0,0,0,0,0,0
+1988,Winter,TUR,Turkey,19,0,0,0,0,0,0,0,0,0,0
+1988,Winter,AUS,Australia,36,0,0,0,0,0,0,0,0,0,0
+1988,Summer,BUR,Burkina Faso,9,0,0,0,0,0,0,0,0,0,0
+1988,Summer,URU,Uruguay,18,0,0,0,0,0,0,0,0,0,0
+1988,Summer,LBA,Libya,7,0,0,0,0,0,0,0,0,0,0
+1988,Summer,GUM,Guam,26,0,0,0,0,0,0,0,0,0,0
+1988,Summer,PER,Peru,26,0,12,12,0,0,0,0,0,12,0
+1988,Summer,GEQ,Equatorial Guinea,7,0,0,0,0,0,0,0,0,0,0
+1988,Summer,AND,Andorra,4,0,0,0,0,0,0,0,0,0,0
+1988,Summer,LBR,Liberia,11,0,0,0,0,0,0,0,0,0,0
+1992,Summer,GRN,Grenada,5,0,0,0,0,0,0,0,0,0,0
+1992,Winter,ROU,Romania,62,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BAR,Barbados,22,0,0,0,0,0,0,0,0,0,0
+1992,Summer,SLO,Slovenia,47,0,6,0,6,0,0,6,0,0,0
+1992,Summer,ESP,Spain,537,48,69,19,2,29,15,1,19,4,1
+1992,Summer,YEM,Yemen,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,VIN,Saint Vincent,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,HUN,Hungary,351,14,45,23,8,6,20,6,8,3,2
+1992,Summer,GUY,Guyana,7,0,0,0,0,0,0,0,0,0,0
+1992,Summer,GRE,Greece,76,2,2,0,0,1,0,0,1,0,0
+1992,Summer,DEN,Denmark,144,3,14,2,9,3,2,9,0,0,0
+1992,Summer,KUW,Kuwait,37,0,0,0,0,0,0,0,0,0,0
+1992,Summer,TPE,Taiwan,38,0,20,20,0,0,20,0,0,0,0
+1992,Summer,GUI,Guinea,11,0,0,0,0,0,0,0,0,0,0
+1992,Winter,PUR,Puerto Rico,6,0,0,0,0,0,0,0,0,0,0
+1992,Summer,PAK,Pakistan,28,0,16,0,16,0,0,16,0,0,0
+1992,Summer,ARG,Argentina,111,0,2,0,2,0,0,2,0,0,0
+1992,Summer,PAR,Paraguay,31,0,0,0,0,0,0,0,0,0,0
+1992,Summer,NAM,Namibia,10,0,2,2,0,0,2,0,0,0,0
+1992,Summer,SMR,San Marino,20,0,0,0,0,0,0,0,0,0,0
+1992,Summer,TTO,Trinidad,13,0,0,0,0,0,0,0,0,0,0
+1992,Summer,UAE,United Arab Emirates,36,0,0,0,0,0,0,0,0,0,0
+1994,Winter,GBR,UK,51,0,3,0,3,0,0,2,0,0,1
+1994,Winter,MEX,Mexico,1,0,0,0,0,0,0,0,0,0,0
+1994,Winter,SWE,Sweden,151,23,24,1,0,22,0,0,1,1,0
+1994,Winter,GEO,Georgia,7,0,0,0,0,0,0,0,0,0,0
+1994,Winter,TPE,Taiwan,2,0,0,0,0,0,0,0,0,0,0
+1996,Summer,DEN,Denmark,145,21,23,1,1,5,1,0,16,0,1
+1996,Summer,KOR,South Korea,417,10,66,49,7,3,12,4,7,37,3
+1996,Summer,TUR,Turkey,61,4,6,1,1,4,1,1,0,0,0
+1996,Summer,EGY,Egypt,33,0,0,0,0,0,0,0,0,0,0
+1996,Summer,LBR,Liberia,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,COD,Democratic Republic of the Congo,14,0,0,0,0,0,0,0,0,0,0
+1996,Summer,JOR,Jordan,5,0,0,0,0,0,0,0,0,0,0
+1996,Summer,DJI,Djibouti,5,0,0,0,0,0,0,0,0,0,0
+1996,Summer,TKM,Turkmenistan,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,COL,Colombia,62,0,0,0,0,0,0,0,0,0,0
+1998,Winter,FRA,France,159,2,15,1,12,1,1,10,1,0,2
+1998,Winter,AUS,Australia,34,0,1,0,1,0,0,0,0,0,1
+1998,Winter,ISL,Iceland,12,0,0,0,0,0,0,0,0,0,0
+2000,Summer,USA,USA,764,130,242,61,51,68,29,21,62,32,30
+2000,Summer,RWA,Rwanda,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,POL,Poland,240,7,24,10,7,5,5,5,2,5,2
+2000,Summer,GUI,Guinea,6,0,0,0,0,0,0,0,0,0,0
+2000,Summer,TOG,Togo,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ERI,Eritrea,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,ESA,El Salvador,10,0,0,0,0,0,0,0,0,0,0
+2000,Summer,PHI,Philippines,22,0,0,0,0,0,0,0,0,0,0
+2000,Summer,GAM,Gambia,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,STP,Sao Tome and Principe,2,0,0,0,0,0,0,0,0,0,0
+2002,Winter,ISL,Iceland,12,0,0,0,0,0,0,0,0,0,0
+2002,Winter,CAN,Canada,215,52,74,7,15,29,6,2,23,1,13
+2002,Winter,RUS,Russia,240,6,38,5,27,3,2,22,3,3,5
+2002,Winter,LAT,Latvia,68,0,0,0,0,0,0,0,0,0,0
+2002,Winter,FIJ,Fiji,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,FRA,France,461,21,53,10,22,18,4,9,3,6,13
+2004,Summer,THA,Thailand,51,3,8,1,4,1,1,1,2,0,3
+2004,Summer,CHN,China,560,52,96,29,15,16,11,5,36,18,10
+2004,Summer,ERI,Eritrea,5,0,1,0,1,0,0,1,0,0,0
+2004,Summer,GUY,Guyana,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,JPN,Japan,414,21,93,20,52,12,7,35,9,13,17
+2004,Summer,CRO,Croatia,100,15,21,3,3,15,3,3,0,0,0
+2004,Summer,UAE,United Arab Emirates,5,1,1,0,0,1,0,0,0,0,0
+2004,Summer,GAB,Gabon,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,KSA,Saudi Arabia,16,0,0,0,0,0,0,0,0,0,0
+2006,Winter,SLO,Slovenia,96,0,0,0,0,0,0,0,0,0,0
+2006,Winter,ARG,Argentina,17,0,0,0,0,0,0,0,0,0,0
+2006,Winter,AUT,Austria,132,16,30,7,7,14,5,5,2,2,2
+2006,Winter,MON,Monaco,10,0,0,0,0,0,0,0,0,0,0
+2006,Winter,MKD,Macedonia,5,0,0,0,0,0,0,0,0,0,0
+2006,Winter,TUR,Turkey,17,0,0,0,0,0,0,0,0,0,0
+2008,Summer,AUS,Australia,570,31,149,42,76,9,20,35,22,22,41
+2008,Summer,NGR,Nigeria,89,0,23,16,7,0,16,1,0,0,6
+2008,Summer,IND,India,67,1,3,0,2,1,0,2,0,0,0
+2008,Summer,RSA,South Africa,179,0,1,1,0,0,1,0,0,0,0
+2008,Summer,HAI,Haiti,7,0,0,0,0,0,0,0,0,0,0
+2008,Summer,BOT,Botswana,11,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MRI,Mauritius,11,0,1,0,1,0,0,1,0,0,0
+2008,Summer,LTU,Lithuania,78,0,5,2,3,0,1,3,0,1,0
+2008,Summer,SOL,Solomon Islands,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,VIN,Saint Vincent,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,JOR,Jordan,7,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MDV,Maldives,4,0,0,0,0,0,0,0,0,0,0
+2010,Winter,SVK,Slovakia,107,1,3,1,1,0,0,1,1,1,0
+2010,Winter,FIN,Finland,146,0,47,1,46,0,1,22,0,0,24
+2010,Winter,ALB,Albania,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,ASA,American Samoa,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,GUM,Guam,8,0,0,0,0,0,0,0,0,0,0
+2012,Summer,JPN,Japan,399,7,84,44,33,3,18,10,4,26,23
+2012,Summer,SAM,Samoa,9,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MGL,Mongolia,32,0,5,2,3,0,2,2,0,0,1
+2012,Summer,KAZ,Kazakhstan,132,7,13,1,5,3,1,3,4,0,2
+2012,Summer,SMR,San Marino,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MTN,Mauritania,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MAD,Madagascar,7,0,0,0,0,0,0,0,0,0,0
+2012,Summer,SEN,Senegal,32,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MON,Monaco,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,ZAM,Zambia,7,0,0,0,0,0,0,0,0,0,0
+2012,Summer,TUV,NA,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,LAO,Laos,3,0,0,0,0,0,0,0,0,0,0
+2014,Winter,USA,USA,367,10,64,30,24,5,6,14,5,24,10
+2014,Winter,GRE,Greece,13,0,0,0,0,0,0,0,0,0,0
+2014,Winter,FIN,Finland,147,2,33,7,24,2,0,24,0,7,0
+2014,Winter,ESP,Spain,39,0,0,0,0,0,0,0,0,0,0
+2014,Winter,BIH,Bosnia and Herzegovina,14,0,0,0,0,0,0,0,0,0,0
+2014,Winter,IVB,"Virgin Islands, British",1,0,0,0,0,0,0,0,0,0,0
+2016,Summer,LTU,Lithuania,80,0,7,2,5,0,2,3,0,0,2
+2016,Summer,SUD,Sudan,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MAR,Morocco,52,0,1,0,1,0,0,1,0,0,0
+2016,Summer,HON,Honduras,23,0,0,0,0,0,0,0,0,0,0
+2016,Summer,YEM,Yemen,3,0,0,0,0,0,0,0,0,0,0
+2016,Summer,SUR,Suriname,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,IOA,Individual Olympic Athletes,9,1,2,0,1,1,0,1,0,0,0
+1984,Summer,JPN,Japan,365,10,49,8,31,10,8,16,0,0,15
+1984,Winter,LIE,Liechtenstein,19,0,2,0,2,0,0,1,0,0,1
+1984,Summer,SMR,San Marino,31,0,0,0,0,0,0,0,0,0,0
+1984,Summer,GRE,Greece,73,0,2,1,1,0,1,1,0,0,0
+1984,Summer,UGA,Uganda,30,0,0,0,0,0,0,0,0,0,0
+1984,Summer,PAK,Pakistan,33,16,16,0,0,16,0,0,0,0,0
+1984,Summer,LES,Lesotho,5,0,0,0,0,0,0,0,0,0,0
+1984,Summer,YAR,Yemen,3,0,0,0,0,0,0,0,0,0,0
+1984,Summer,CHA,Chad,3,0,0,0,0,0,0,0,0,0,0
+1984,Summer,BRN,Bahrain,14,0,0,0,0,0,0,0,0,0,0
+1988,Summer,CGO,Republic of Congo,10,0,0,0,0,0,0,0,0,0,0
+1988,Summer,PUR,Puerto Rico,56,0,0,0,0,0,0,0,0,0,0
+1988,Summer,CYP,Cyprus,11,0,0,0,0,0,0,0,0,0,0
+1988,Summer,GAB,Gabon,2,0,0,0,0,0,0,0,0,0,0
+1988,Winter,CAN,Canada,190,0,6,2,4,0,1,1,0,1,3
+1988,Summer,SWZ,Swaziland,15,0,0,0,0,0,0,0,0,0,0
+1988,Winter,MAR,Morocco,6,0,0,0,0,0,0,0,0,0,0
+1988,Summer,BOL,Boliva,12,0,0,0,0,0,0,0,0,0,0
+1988,Winter,CRC,Costa Rica,5,0,0,0,0,0,0,0,0,0,0
+1988,Summer,IND,India,55,0,0,0,0,0,0,0,0,0,0
+1988,Winter,TPE,Taiwan,22,0,0,0,0,0,0,0,0,0,0
+1988,Summer,MDV,Maldives,9,0,0,0,0,0,0,0,0,0,0
+1988,Summer,UAE,United Arab Emirates,36,0,0,0,0,0,0,0,0,0,0
+1992,Winter,ARG,Argentina,46,0,0,0,0,0,0,0,0,0,0
+1992,Summer,JOR,Jordan,5,0,0,0,0,0,0,0,0,0,0
+1992,Summer,NGR,Nigeria,72,0,11,7,4,0,7,0,0,0,4
+1992,Winter,NOR,Norway,156,9,24,10,5,9,6,4,0,4,1
+1992,Summer,NZL,New Zealand,175,1,15,9,5,0,6,4,1,3,1
+1992,Winter,IRL,Ireland,4,0,0,0,0,0,0,0,0,0,0
+1992,Summer,COD,Democratic Republic of the Congo,19,0,0,0,0,0,0,0,0,0,0
+1992,Winter,BRA,Brazil,16,0,0,0,0,0,0,0,0,0,0
+1992,Winter,FIN,Finland,114,6,13,1,6,5,0,6,1,1,0
+1992,Summer,GUM,Guam,45,0,0,0,0,0,0,0,0,0,0
+1992,Summer,POR,Portugal,115,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ANT,Antigua,18,0,0,0,0,0,0,0,0,0,0
+1992,Winter,TCH,Czech Republic,148,0,27,0,27,0,0,27,0,0,0
+1992,Winter,CHN,China,74,0,3,3,0,0,0,0,0,3,0
+1992,Summer,KEN,Kenya,55,2,8,4,2,2,4,2,0,0,0
+1992,Summer,MEX,Mexico,140,0,1,1,0,0,1,0,0,0,0
+1992,Winter,TPE,Taiwan,11,0,0,0,0,0,0,0,0,0,0
+1992,Winter,PRK,North Korea,36,0,1,0,1,0,0,0,0,0,1
+1992,Summer,PAN,Panama,7,0,0,0,0,0,0,0,0,0,0
+1992,Winter,LIE,Liechtenstein,18,0,0,0,0,0,0,0,0,0,0
+1992,Winter,AHO,Curacao,2,0,0,0,0,0,0,0,0,0,0
+1994,Winter,FIN,Finland,112,0,30,1,29,0,1,27,0,0,2
+1994,Winter,LUX,Luxembourg,5,0,0,0,0,0,0,0,0,0,0
+1994,Winter,CHI,Chile,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,FRA,France,453,21,51,10,20,11,7,14,10,3,6
+1996,Summer,KSA,Saudi Arabia,34,0,0,0,0,0,0,0,0,0,0
+1996,Summer,ROU,Romania,284,13,38,10,15,0,4,5,13,6,10
+1996,Summer,CRO,Croatia,117,16,28,12,0,16,12,0,0,0,0
+1996,Summer,DMA,Dominica,6,0,0,0,0,0,0,0,0,0,0
+1996,Summer,NCA,Nicaragua,28,0,0,0,0,0,0,0,0,0,0
+1996,Summer,LIB,Lebanon,1,0,0,0,0,0,0,0,0,0,0
+1996,Summer,HUN,Hungary,315,8,43,9,26,6,9,7,2,0,19
+1996,Summer,ARM,Armenia,38,1,2,1,0,1,1,0,0,0,0
+1996,Summer,QAT,Qatar,13,0,0,0,0,0,0,0,0,0,0
+1998,Winter,VEN,Venezuela,1,0,0,0,0,0,0,0,0,0,0
+1998,Winter,ITA,Italy,179,3,17,9,5,2,7,1,1,2,4
+1998,Winter,BUL,Bulgaria,34,1,1,0,0,0,0,0,1,0,0
+1998,Winter,TTO,Trinidad,2,0,0,0,0,0,0,0,0,0,0
+1998,Winter,MGL,Mongolia,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,LAT,Latvia,60,1,3,1,1,1,1,1,0,0,0
+2000,Summer,MKD,Macedonia,15,0,1,0,1,0,0,1,0,0,0
+2000,Summer,NGR,Nigeria,100,6,8,2,0,6,0,0,0,2,0
+2000,Summer,VIE,Vietnam,7,0,1,1,0,0,0,0,0,1,0
+2000,Summer,VAN,Vanuatu,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,UZB,Uzbekistan,85,1,4,1,2,1,1,2,0,0,0
+2000,Summer,PAK,Pakistan,27,0,0,0,0,0,0,0,0,0,0
+2000,Summer,MAD,Madagascar,13,0,0,0,0,0,0,0,0,0,0
+2000,Summer,VEN,Venezuela,65,0,0,0,0,0,0,0,0,0,0
+2000,Summer,MRI,Mauritius,26,0,0,0,0,0,0,0,0,0,0
+2000,Summer,IVB,"Virgin Islands, British",1,0,0,0,0,0,0,0,0,0,0
+2002,Winter,FRA,France,176,5,15,5,5,2,2,5,3,3,0
+2002,Winter,SUI,Switzerland,167,3,24,7,14,3,2,8,0,5,6
+2002,Winter,HUN,Hungary,46,0,0,0,0,0,0,0,0,0,0
+2002,Winter,THA,Thailand,2,0,0,0,0,0,0,0,0,0,0
+2002,Winter,RSA,South Africa,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,ESP,Spain,423,4,30,17,9,4,11,7,0,6,2
+2004,Summer,EGY,Egypt,104,1,5,1,3,1,1,3,0,0,0
+2004,Summer,KEN,Kenya,46,1,7,4,2,1,2,2,0,2,0
+2004,Summer,SKN,Saint Kitts,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,GRN,Grenada,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,NEP,Nepal,6,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SWE,Sweden,157,5,12,5,2,4,4,0,1,1,2
+2004,Summer,ECU,Ecuador,18,0,0,0,0,0,0,0,0,0,0
+2006,Winter,BLR,Belarus,70,0,1,1,0,0,1,0,0,0,0
+2006,Winter,VEN,Venezuela,1,0,0,0,0,0,0,0,0,0,0
+2006,Winter,NZL,New Zealand,18,0,0,0,0,0,0,0,0,0,0
+2006,Winter,ROU,Romania,53,0,0,0,0,0,0,0,0,0,0
+2006,Winter,PRK,North Korea,7,0,0,0,0,0,0,0,0,0,0
+1900,Summer,ITA,Italy,36,3,5,2,0,3,2,0,0,0,0
+1906,Summer,AUT,Austria,100,3,9,3,3,3,3,3,0,0,0
+1908,Summer,AUT,Austria,13,0,1,0,1,0,0,1,0,0,0
+1908,Summer,SUI,Switzerland,1,0,0,0,0,0,0,0,0,0,0
+1920,Summer,FRA,France,452,13,141,71,57,11,70,55,2,1,2
+1920,Summer,MON,Monaco,7,0,0,0,0,0,0,0,0,0,0
+1924,Summer,ITA,Italy,333,25,51,5,21,25,5,21,0,0,0
+1924,Summer,POL,Poland,100,0,5,4,1,0,4,1,0,0,0
+1924,Summer,NZL,New Zealand,6,0,1,0,1,0,0,1,0,0,0
+1924,Summer,PHI,Philippines,2,0,0,0,0,0,0,0,0,0,0
+1928,Summer,USA,USA,426,47,88,24,17,36,16,14,11,8,3
+1928,Winter,SUI,Switzerland,43,0,12,0,12,0,0,12,0,0,0
+1928,Summer,YUG,Serbia,86,1,12,1,10,1,1,10,0,0,0
+1928,Summer,AUT,Austria,113,3,5,0,2,3,0,2,0,0,0
+1928,Winter,GBR,UK,39,0,1,0,1,0,0,1,0,0,0
+1928,Summer,CHI,Chile,46,0,1,1,0,0,1,0,0,0,0
+1928,Summer,HUN,Hungary,219,10,21,11,0,10,11,0,0,0,0
+1932,Summer,IND,India,26,15,15,0,0,15,0,0,0,0,0
+1932,Summer,NED,Netherlands,80,2,13,10,1,2,5,1,0,5,0
+1932,Summer,COL,Colombia,2,0,0,0,0,0,0,0,0,0,0
+1936,Summer,USA,USA,487,51,96,29,16,44,27,8,7,2,8
+1936,Summer,SWE,Sweden,231,7,35,11,17,7,11,16,0,0,1
+1936,Summer,CAN,Canada,167,1,22,12,9,1,12,4,0,0,5
+1936,Winter,LUX,Luxembourg,5,0,0,0,0,0,0,0,0,0,0
+1936,Summer,RSA,South Africa,54,0,1,1,0,0,1,0,0,0,0
+1936,Winter,AUT,Austria,72,1,5,2,2,1,1,2,0,1,0
+1936,Summer,CHI,Chile,56,0,0,0,0,0,0,0,0,0,0
+1948,Summer,SUI,Switzerland,287,5,36,25,6,5,25,6,0,0,0
+1948,Summer,URU,Uruguay,79,0,3,1,2,0,1,2,0,0,0
+1948,Summer,BRA,Brazil,105,0,10,0,10,0,0,10,0,0,0
+1948,Summer,ARG,Argentina,295,3,11,7,1,3,6,1,0,1,0
+1952,Summer,SUI,Switzerland,251,2,33,19,12,2,19,12,0,0,0
+1952,Winter,USA,USA,96,4,30,25,1,2,23,1,2,2,0
+1952,Summer,NED,Netherlands,180,0,18,18,0,0,11,0,0,7,0
+1956,Winter,CHI,Chile,7,0,0,0,0,0,0,0,0,0,0
+1956,Summer,BRA,Brazil,63,1,1,0,0,1,0,0,0,0,0
+1956,Summer,ETH,Ethiopia,30,0,0,0,0,0,0,0,0,0,0
+1956,Summer,SWE,Sweden,186,14,34,14,6,14,8,5,0,6,1
+1956,Summer,GUY,Guyana,6,0,0,0,0,0,0,0,0,0,0
+1956,Summer,VEN,Venezuela,38,0,0,0,0,0,0,0,0,0,0
+1960,Summer,SWE,Sweden,258,2,7,2,3,2,1,3,0,1,0
+1960,Summer,GBR,UK,389,2,28,11,15,1,7,12,1,4,3
+1960,Winter,HUN,Hungary,4,0,0,0,0,0,0,0,0,0,0
+1960,Winter,GBR,UK,39,0,0,0,0,0,0,0,0,0,0
+1964,Summer,TUR,Turkey,25,2,6,3,1,2,3,1,0,0,0
+1964,Summer,UGA,Uganda,19,0,0,0,0,0,0,0,0,0,0
+1964,Winter,CAN,Canada,95,4,7,2,1,4,1,0,0,1,1
+1964,Winter,FIN,Finland,87,3,15,7,5,3,5,1,0,2,4
+1964,Summer,USA,USA,492,95,169,37,37,72,24,30,23,13,7
+1964,Winter,IRI,Iran,12,0,0,0,0,0,0,0,0,0,0
+1964,Summer,YUG,Serbia,123,2,15,11,2,2,11,2,0,0,0
+1964,Summer,ZAM,Zambia,15,0,0,0,0,0,0,0,0,0,0
+1964,Winter,ARG,Argentina,22,0,0,0,0,0,0,0,0,0,0
+1964,Summer,COL,Colombia,40,0,0,0,0,0,0,0,0,0,0
+1964,Summer,TAN,Tanzania,4,0,0,0,0,0,0,0,0,0,0
+1964,Summer,DOM,Dominican Republic,1,0,0,0,0,0,0,0,0,0,0
+1968,Summer,ITA,Italy,268,5,33,8,20,5,8,20,0,0,0
+1968,Summer,IRI,Iran,14,2,5,1,2,2,1,2,0,0,0
+1968,Summer,SLE,Sierra Leone,4,0,0,0,0,0,0,0,0,0,0
+1968,Summer,HKG,China,25,0,0,0,0,0,0,0,0,0,0
+1968,Summer,NGR,Nigeria,46,0,0,0,0,0,0,0,0,0,0
+1968,Summer,KUW,Kuwait,2,0,0,0,0,0,0,0,0,0,0
+1968,Summer,LIE,Liechtenstein,3,0,0,0,0,0,0,0,0,0,0
+1968,Summer,BOL,Boliva,4,0,0,0,0,0,0,0,0,0,0
+1968,Summer,GHA,Ghana,36,0,0,0,0,0,0,0,0,0,0
+1968,Summer,PAK,Pakistan,15,13,13,0,0,13,0,0,0,0,0
+1968,Winter,ESP,Spain,28,0,0,0,0,0,0,0,0,0,0
+1972,Summer,PRK,North Korea,83,1,15,1,13,1,1,2,0,0,11
+1972,Summer,NZL,New Zealand,112,9,14,4,1,9,4,1,0,0,0
+1972,Summer,TUN,Tunisia,37,0,1,1,0,0,1,0,0,0,0
+1972,Summer,IND,India,43,0,14,0,14,0,0,14,0,0,0
+1972,Summer,ISL,Iceland,30,0,0,0,0,0,0,0,0,0,0
+1972,Summer,IRI,Iran,56,0,3,2,1,0,2,1,0,0,0
+1972,Summer,KSA,Saudi Arabia,14,0,0,0,0,0,0,0,0,0,0
+1972,Summer,ESA,El Salvador,18,0,0,0,0,0,0,0,0,0,0
+1972,Summer,PHI,Philippines,79,0,0,0,0,0,0,0,0,0,0
+1972,Summer,ETH,Ethiopia,40,0,2,0,2,0,0,2,0,0,0
+1976,Summer,ESP,Spain,160,0,6,6,0,0,6,0,0,0,0
+1976,Winter,SUI,Switzerland,86,1,9,6,2,1,6,2,0,0,0
+1976,Winter,ITA,Italy,94,1,4,2,1,1,1,1,0,1,0
+1976,Summer,AUS,Australia,274,0,23,15,8,0,15,8,0,0,0
+1976,Summer,CAN,Canada,531,0,23,9,14,0,8,0,0,1,14
+1976,Winter,NED,Netherlands,23,1,6,2,3,1,1,3,0,1,0
+1976,Winter,LIB,Lebanon,1,0,0,0,0,0,0,0,0,0,0
+1976,Winter,YUG,Serbia,41,0,0,0,0,0,0,0,0,0,0
+1976,Summer,TTO,Trinidad,20,1,1,0,0,1,0,0,0,0,0
+1976,Summer,COL,Colombia,44,0,0,0,0,0,0,0,0,0,0
+1976,Winter,IRI,Iran,12,0,0,0,0,0,0,0,0,0,0
+1976,Summer,CAY,Cayman Islands,2,0,0,0,0,0,0,0,0,0,0
+1976,Winter,TPE,Taiwan,11,0,0,0,0,0,0,0,0,0,0
+1980,Winter,NZL,New Zealand,11,0,0,0,0,0,0,0,0,0,0
+1980,Summer,VEN,Venezuela,43,0,1,1,0,0,1,0,0,0,0
+1980,Winter,AND,Andorra,9,0,0,0,0,0,0,0,0,0,0
+1980,Summer,POL,Poland,418,3,50,25,22,3,22,19,0,3,3
+1980,Summer,MOZ,Mozambique,16,0,0,0,0,0,0,0,0,0,0
+1980,Summer,GUA,Guatemala,10,0,0,0,0,0,0,0,0,0,0
+1980,Summer,SUI,Switzerland,86,2,2,0,0,2,0,0,0,0,0
+1980,Summer,AND,Andorra,2,0,0,0,0,0,0,0,0,0,0
+1984,Summer,MAW,Malawi,23,0,0,0,0,0,0,0,0,0,0
+2008,Summer,JAM,Jamaica,66,5,14,3,6,2,0,0,3,3,6
+2008,Summer,GBS,Guinea-Bissau,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,VEN,Venezuela,126,0,1,0,1,0,0,0,0,0,1
+2008,Summer,GEO,Georgia,38,3,6,0,3,3,0,2,0,0,1
+2008,Summer,SMR,San Marino,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,SKN,Saint Kitts,6,0,0,0,0,0,0,0,0,0,0
+2008,Summer,IRL,Ireland,63,0,3,1,2,0,1,2,0,0,0
+2008,Summer,SRB,Serbia,97,0,15,1,14,0,1,14,0,0,0
+2008,Summer,JPN,Japan,457,23,51,15,13,4,13,7,19,2,6
+2008,Summer,CAN,Canada,449,11,35,13,11,10,9,7,1,4,4
+2008,Summer,TLS,Timor-Leste,1,0,0,0,0,0,0,0,0,0,0
+2008,Summer,LIE,Liechtenstein,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,COM,Comoros,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,DMA,Dominica,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,URU,Uruguay,13,0,0,0,0,0,0,0,0,0,0
+2008,Summer,SRI,Sri Lanka,9,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MLT,Malta,6,0,0,0,0,0,0,0,0,0,0
+2008,Summer,LBA,Libya,6,0,0,0,0,0,0,0,0,0,0
+2010,Winter,KOR,South Korea,84,6,18,10,2,4,9,0,2,1,2
+2012,Summer,SLO,Slovenia,78,1,5,1,3,0,1,3,1,0,0
+2012,Summer,IRI,Iran,57,4,12,5,3,4,5,3,0,0,0
+2012,Summer,RWA,Rwanda,7,0,0,0,0,0,0,0,0,0,0
+2012,Summer,HUN,Hungary,201,12,26,8,6,6,6,4,6,2,2
+2012,Summer,IVB,"Virgin Islands, British",2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,BOT,Botswana,4,0,1,1,0,0,1,0,0,0,0
+2012,Summer,CZE,Czech Republic,159,4,14,4,6,2,2,4,2,2,2
+2012,Summer,CHN,China,534,56,126,40,30,27,9,16,29,31,14
+2012,Summer,CAN,Canada,354,1,55,21,33,0,11,6,1,10,27
+2012,Summer,CGO,Republic of Congo,7,0,0,0,0,0,0,0,0,0,0
+2012,Summer,CHI,Chile,44,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MAR,Morocco,67,0,1,0,1,0,0,1,0,0,0
+2012,Summer,CYP,Cyprus,13,0,1,1,0,0,1,0,0,0,0
+2012,Summer,TKM,Turkmenistan,10,0,0,0,0,0,0,0,0,0,0
+2012,Summer,ISR,Israel,56,0,0,0,0,0,0,0,0,0,0
+2014,Winter,IND,India,2,0,0,0,0,0,0,0,0,0,0
+2014,Winter,LIB,Lebanon,3,0,0,0,0,0,0,0,0,0,0
+2014,Winter,KGZ,Kyrgyzstan,2,0,0,0,0,0,0,0,0,0,0
+2014,Winter,GEO,Georgia,7,0,0,0,0,0,0,0,0,0,0
+2014,Winter,BLR,Belarus,72,5,6,0,1,1,0,0,4,0,1
+2014,Winter,CYP,Cyprus,2,0,0,0,0,0,0,0,0,0,0
+2016,Summer,TJK,Tajikistan,7,1,1,0,0,1,0,0,0,0,0
+2016,Summer,KOR,South Korea,263,13,26,3,10,6,2,6,7,1,4
+2016,Summer,BEN,Benin,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,BLR,Belarus,142,1,12,4,7,1,2,2,0,2,5
+2016,Summer,ARM,Armenia,34,1,4,3,0,1,3,0,0,0,0
+2016,Summer,PHI,Philippines,13,0,1,1,0,0,0,0,0,1,0
+2016,Summer,BAN,Bangladesh,7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,SEN,Senegal,22,0,0,0,0,0,0,0,0,0,0
+1984,Winter,AUT,Austria,105,0,1,0,1,0,0,1,0,0,0
+1984,Summer,USA,USA,693,186,352,116,50,115,71,26,71,45,24
+1984,Summer,SWE,Sweden,254,3,34,18,13,0,14,10,3,4,3
+1984,Winter,PRK,North Korea,17,0,0,0,0,0,0,0,0,0,0
+1984,Summer,SAM,Samoa,9,0,0,0,0,0,0,0,0,0,0
+1984,Winter,SUI,Switzerland,79,2,8,2,4,1,1,4,1,1,0
+1984,Winter,JPN,Japan,75,0,1,1,0,0,1,0,0,0,0
+1984,Summer,MOZ,Mozambique,14,0,0,0,0,0,0,0,0,0,0
+1984,Winter,GBR,UK,78,2,2,0,0,1,0,0,1,0,0
+1984,Summer,LBR,Liberia,10,0,0,0,0,0,0,0,0,0,0
+1984,Summer,TUN,Tunisia,28,0,0,0,0,0,0,0,0,0,0
+1984,Winter,HUN,Hungary,16,0,0,0,0,0,0,0,0,0,0
+1988,Summer,CIV,Ivory Coast,29,0,0,0,0,0,0,0,0,0,0
+1988,Winter,LIE,Liechtenstein,36,0,1,0,1,0,0,1,0,0,0
+1988,Summer,SEN,Senegal,35,0,1,1,0,0,1,0,0,0,0
+1988,Summer,BER,Bermuda,14,0,0,0,0,0,0,0,0,0,0
+1988,Summer,NGR,Nigeria,86,0,0,0,0,0,0,0,0,0,0
+1988,Summer,YAR,Yemen,13,0,0,0,0,0,0,0,0,0,0
+1988,Summer,ISL,Iceland,42,0,0,0,0,0,0,0,0,0,0
+1988,Winter,IND,India,3,0,0,0,0,0,0,0,0,0,0
+1988,Summer,GUA,Guatemala,37,0,0,0,0,0,0,0,0,0,0
+1988,Summer,VAN,Vanuatu,6,0,0,0,0,0,0,0,0,0,0
+1988,Summer,NIG,Niger,6,0,0,0,0,0,0,0,0,0,0
+1992,Winter,AUT,Austria,121,9,29,10,10,6,7,8,3,3,2
+1992,Summer,GBR,UK,512,8,50,3,39,7,2,17,1,1,22
+1992,Winter,MAR,Morocco,23,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ECU,Ecuador,15,0,0,0,0,0,0,0,0,0,0
+1992,Winter,LAT,Latvia,38,0,0,0,0,0,0,0,0,0,0
+1992,Winter,ESP,Spain,45,0,1,0,1,0,0,0,0,0,1
+1992,Winter,USA,USA,234,5,14,7,2,0,1,1,5,6,1
+1992,Summer,MGL,Mongolia,38,0,2,0,2,0,0,1,0,0,1
+1992,Summer,BEL,Belgium,103,0,3,1,2,0,0,1,0,1,1
+1992,Winter,GER,Germany,193,14,38,17,7,10,10,2,4,7,5
+1992,Summer,PUR,Puerto Rico,101,0,1,0,1,0,0,1,0,0,0
+1992,Winter,MON,Monaco,8,0,0,0,0,0,0,0,0,0,0
+1992,Winter,MEX,Mexico,34,0,0,0,0,0,0,0,0,0,0
+1992,Winter,BEL,Belgium,7,0,0,0,0,0,0,0,0,0,0
+1992,Summer,ZAM,Zambia,11,0,0,0,0,0,0,0,0,0,0
+1994,Winter,MDA,Moldova,4,0,0,0,0,0,0,0,0,0,0
+1994,Winter,NZL,New Zealand,16,0,0,0,0,0,0,0,0,0,0
+1994,Winter,USA,USA,237,6,19,8,5,2,5,0,4,3,5
+1994,Winter,SVK,Slovakia,67,0,0,0,0,0,0,0,0,0,0
+1996,Summer,IRL,Ireland,99,3,4,0,1,0,0,0,3,0,1
+1996,Summer,LAO,Laos,5,0,0,0,0,0,0,0,0,0,0
+1996,Summer,SVK,Slovakia,98,1,3,1,1,1,1,1,0,0,0
+1996,Summer,LUX,Luxembourg,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,PAN,Panama,9,0,0,0,0,0,0,0,0,0,0
+1996,Summer,BOL,Boliva,9,0,0,0,0,0,0,0,0,0,0
+1996,Summer,BLR,Belarus,259,1,23,6,16,0,5,6,1,1,10
+1996,Summer,POL,Poland,207,7,22,8,7,6,7,3,1,1,4
+1996,Summer,SWZ,Swaziland,6,0,0,0,0,0,0,0,0,0,0
+1996,Summer,MLI,Mali,4,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GEQ,Equatorial Guinea,8,0,0,0,0,0,0,0,0,0,0
+1996,Summer,NED,Netherlands,290,38,73,9,26,38,3,3,0,6,23
+1996,Summer,THA,Thailand,58,1,2,0,1,1,0,1,0,0,0
+1998,Winter,LTU,Lithuania,18,0,0,0,0,0,0,0,0,0,0
+1998,Winter,KOR,South Korea,79,6,12,4,2,1,4,0,5,0,2
+1998,Winter,ARG,Argentina,6,0,0,0,0,0,0,0,0,0,0
+1998,Winter,LIE,Liechtenstein,19,0,0,0,0,0,0,0,0,0,0
+1998,Winter,TPE,Taiwan,9,0,0,0,0,0,0,0,0,0,0
+1998,Winter,CRO,Croatia,13,0,0,0,0,0,0,0,0,0,0
+1998,Winter,POL,Poland,79,0,0,0,0,0,0,0,0,0,0
+1998,Winter,AZE,Azerbaijan,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,GBR,UK,415,22,54,20,12,19,13,7,3,7,5
+2000,Summer,THA,Thailand,68,1,3,0,2,1,0,1,0,0,1
+2000,Summer,LTU,Lithuania,77,2,17,0,15,1,0,12,1,0,3
+2000,Summer,JPN,Japan,363,5,44,31,8,3,2,0,2,29,8
+2000,Summer,GRN,Grenada,3,0,0,0,0,0,0,0,0,0,0
+2000,Summer,MOZ,Mozambique,4,1,1,0,0,0,0,0,1,0,0
+2000,Summer,BER,Bermuda,7,0,0,0,0,0,0,0,0,0,0
+2000,Summer,BRN,Bahrain,4,0,0,0,0,0,0,0,0,0,0
+2002,Winter,POL,Poland,54,0,2,1,1,0,1,1,0,0,0
+2002,Winter,IRL,Ireland,9,0,0,0,0,0,0,0,0,0,0
+2002,Winter,EST,Estonia,51,1,3,1,1,1,1,1,0,0,0
+2002,Winter,JAM,Jamaica,2,0,0,0,0,0,0,0,0,0,0
+2002,Winter,TPE,Taiwan,6,0,0,0,0,0,0,0,0,0,0
+2002,Winter,IND,India,1,0,0,0,0,0,0,0,0,0,0
+2002,Winter,MON,Monaco,7,0,0,0,0,0,0,0,0,0,0
+2004,Summer,ANT,Antigua,5,0,0,0,0,0,0,0,0,0,0
+2004,Summer,MAS,Malaysia,38,0,0,0,0,0,0,0,0,0,0
+2004,Summer,KGZ,Kyrgyzstan,32,0,0,0,0,0,0,0,0,0,0
+2004,Summer,MDV,Maldives,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BAH,Bahamas,28,1,2,0,1,0,0,0,1,0,1
+2004,Summer,IND,India,81,0,1,1,0,0,1,0,0,0,0
+2004,Summer,BRU,Brunei,1,0,0,0,0,0,0,0,0,0,0
+2004,Summer,IRQ,Iraq,24,0,0,0,0,0,0,0,0,0,0
+2004,Summer,LIE,Liechtenstein,1,0,0,0,0,0,0,0,0,0,0
+2006,Winter,AUS,Australia,45,1,2,0,1,1,0,0,0,0,1
+2006,Winter,GEO,Georgia,4,0,0,0,0,0,0,0,0,0,0
+2006,Winter,LUX,Luxembourg,1,0,0,0,0,0,0,0,0,0,0
+2006,Winter,POR,Portugal,1,0,0,0,0,0,0,0,0,0,0
+1896,Summer,SWE,Sweden,5,0,0,0,0,0,0,0,0,0,0
+1900,Summer,USA,USA,135,30,63,16,17,29,15,14,1,1,3
+1900,Summer,GER,Germany,103,14,45,20,11,14,20,11,0,0,0
+1906,Summer,GER,Germany,157,14,30,10,6,14,10,6,0,0,0
+1906,Summer,BEL,Belgium,31,2,11,3,6,2,3,6,0,0,0
+1906,Summer,SUI,Switzerland,45,8,12,3,1,8,3,1,0,0,0
+1908,Summer,BEL,Belgium,99,1,33,24,8,1,24,8,0,0,0
+1908,Summer,HUN,Hungary,107,7,20,7,6,7,7,6,0,0,0
+1912,Summer,SWE,Sweden,714,103,190,62,25,102,60,24,1,2,1
+1912,Summer,BEL,Belgium,72,7,19,1,11,7,1,11,0,0,0
+1912,Summer,SRB,Serbia,2,0,0,0,0,0,0,0,0,0,0
+1920,Summer,YUG,Serbia,15,0,0,0,0,0,0,0,0,0,0
+1924,Summer,LUX,Luxembourg,122,1,2,1,0,1,1,0,0,0,0
+1924,Summer,ARG,Argentina,109,5,10,3,2,5,3,2,0,0,0
+1924,Summer,MON,Monaco,9,0,1,0,1,0,0,1,0,0,0
+1924,Summer,ESP,Spain,151,0,0,0,0,0,0,0,0,0,0
+1924,Winter,TCH,Czech Republic,31,0,0,0,0,0,0,0,0,0,0
+1924,Summer,CHI,Chile,18,0,0,0,0,0,0,0,0,0,0
+1928,Summer,NZL,New Zealand,13,1,1,0,0,1,0,0,0,0,0
+1928,Summer,MLT,Malta,9,0,0,0,0,0,0,0,0,0,0
+1928,Summer,PAN,Panama,2,0,0,0,0,0,0,0,0,0,0
+1932,Summer,FIN,Finland,66,5,29,8,16,5,8,16,0,0,0
+1932,Summer,AUT,Austria,33,1,5,1,3,0,1,3,1,0,0
+1932,Winter,ITA,Italy,20,0,0,0,0,0,0,0,0,0,0
+1936,Summer,PER,Peru,46,0,0,0,0,0,0,0,0,0,0
+1948,Summer,IRL,Ireland,83,0,1,0,1,0,0,0,0,0,1
+1948,Summer,IND,India,89,20,20,0,0,20,0,0,0,0,0
+1948,Summer,AUS,Australia,103,2,16,9,5,2,4,2,0,5,3
+1948,Summer,IRI,Iran,39,0,1,0,1,0,0,1,0,0,0
+1948,Winter,ISL,Iceland,8,0,0,0,0,0,0,0,0,0,0
+1952,Summer,POL,Poland,248,1,4,2,1,1,2,1,0,0,0
+1952,Winter,GER,Germany,77,8,12,2,2,7,0,0,1,2,2
+1952,Winter,ITA,Italy,52,1,2,0,1,1,0,0,0,0,1
+1952,Winter,BEL,Belgium,15,0,0,0,0,0,0,0,0,0,0
+1952,Summer,BAH,Bahamas,7,0,0,0,0,0,0,0,0,0,0
+1956,Summer,GBR,UK,283,8,46,16,22,6,11,20,2,5,2
+1956,Summer,NOR,Norway,29,1,3,0,2,1,0,2,0,0,0
+1956,Summer,FRA,France,227,7,33,13,13,7,13,12,0,0,1
+1956,Summer,JPN,Japan,222,4,24,15,5,4,15,5,0,0,0
+1956,Winter,LIE,Liechtenstein,14,0,0,0,0,0,0,0,0,0,0
+1956,Summer,THA,Thailand,40,0,0,0,0,0,0,0,0,0,0
+1956,Summer,YUG,Serbia,37,0,23,23,0,0,23,0,0,0,0
+1956,Winter,IRI,Iran,9,0,0,0,0,0,0,0,0,0,0
+1960,Summer,MAR,Morocco,111,0,1,1,0,0,1,0,0,0,0
+1960,Summer,DEN,Denmark,109,2,23,17,4,2,17,4,0,0,0
+1960,Winter,ITA,Italy,58,0,1,0,1,0,0,0,0,0,1
+1960,Winter,LIE,Liechtenstein,9,0,0,0,0,0,0,0,0,0,0
+1960,Summer,JPN,Japan,278,9,31,10,12,9,10,11,0,0,1
+1960,Winter,GER,Germany,110,4,9,4,1,2,2,0,2,2,1
+1960,Summer,SUD,Sudan,13,0,0,0,0,0,0,0,0,0,0
+1964,Summer,BRA,Brazil,65,0,12,0,12,0,0,12,0,0,0
+1964,Summer,CIV,Ivory Coast,10,0,0,0,0,0,0,0,0,0,0
+1964,Summer,HUN,Hungary,319,42,56,7,7,36,5,6,6,2,1
+1964,Winter,GRE,Greece,7,0,0,0,0,0,0,0,0,0,0
+1964,Winter,GBR,UK,65,2,2,0,0,2,0,0,0,0,0
+1964,Summer,NIG,Niger,1,0,0,0,0,0,0,0,0,0,0
+1964,Summer,VNM,Vietnam,23,0,0,0,0,0,0,0,0,0,0
+1964,Winter,SUI,Switzerland,104,0,0,0,0,0,0,0,0,0,0
+1964,Winter,POL,Poland,86,0,0,0,0,0,0,0,0,0,0
+1964,Summer,MYA,Myanmar,12,0,0,0,0,0,0,0,0,0,0
+1968,Summer,GUA,Guatemala,67,0,0,0,0,0,0,0,0,0,0
+1968,Summer,TPE,Taiwan,93,0,1,0,1,0,0,0,0,0,1
+1968,Summer,MLI,Mali,2,0,0,0,0,0,0,0,0,0,0
+1968,Summer,COL,Colombia,70,0,0,0,0,0,0,0,0,0,0
+1968,Summer,YUG,Serbia,130,13,29,14,2,12,13,2,1,1,0
+1968,Summer,LUX,Luxembourg,7,0,0,0,0,0,0,0,0,0,0
+1968,Winter,GRE,Greece,8,0,0,0,0,0,0,0,0,0,0
+1968,Summer,SEN,Senegal,24,0,0,0,0,0,0,0,0,0,0
+1968,Summer,AUT,Austria,59,0,5,2,3,0,1,2,0,1,1
+1968,Summer,TCH,Czech Republic,203,7,29,7,15,1,0,15,6,7,0
+1968,Summer,NCA,Nicaragua,16,0,0,0,0,0,0,0,0,0,0
+1968,Summer,LBA,Libya,1,0,0,0,0,0,0,0,0,0,0
+1968,Summer,PAR,Paraguay,1,0,0,0,0,0,0,0,0,0,0
+1968,Summer,GRE,Greece,44,0,1,0,1,0,0,1,0,0,0
+1968,Summer,MAS,Malaysia,35,0,0,0,0,0,0,0,0,0,0
+1972,Winter,NOR,Norway,114,2,17,8,7,2,8,4,0,0,3
+1972,Summer,DEN,Denmark,155,1,1,0,0,1,0,0,0,0,0
+1972,Summer,MAR,Morocco,39,0,0,0,0,0,0,0,0,0,0
+1972,Winter,NZL,New Zealand,6,0,0,0,0,0,0,0,0,0,0
+1972,Winter,CAN,Canada,85,0,1,1,0,0,0,0,0,1,0
+1972,Summer,THA,Thailand,37,0,0,0,0,0,0,0,0,0,0
+1976,Summer,LIB,Lebanon,4,0,0,0,0,0,0,0,0,0,0
+1976,Summer,URS,Russia,574,114,286,95,77,69,59,54,45,36,23
+1976,Summer,HAI,Haiti,14,0,0,0,0,0,0,0,0,0,0
+1976,Summer,ANT,Antigua,17,0,0,0,0,0,0,0,0,0,0
+1976,Winter,AUS,Australia,19,0,0,0,0,0,0,0,0,0,0
+1976,Summer,LIE,Liechtenstein,9,0,0,0,0,0,0,0,0,0,0
+1980,Winter,JPN,Japan,80,0,1,1,0,0,1,0,0,0,0
+1980,Summer,DEN,Denmark,60,4,8,2,2,4,2,1,0,0,1
+1980,Winter,NOR,Norway,100,1,15,5,9,0,5,5,1,0,4
+1980,Summer,ESP,Spain,211,2,24,19,3,2,19,3,0,0,0
+1980,Summer,GUY,Guyana,10,0,1,0,1,0,0,1,0,0,0
+1980,Winter,KOR,South Korea,24,0,0,0,0,0,0,0,0,0,0
+1980,Summer,ZAM,Zambia,43,0,0,0,0,0,0,0,0,0,0
+1980,Summer,LES,Lesotho,7,0,0,0,0,0,0,0,0,0,0
+2008,Summer,POR,Portugal,87,1,2,1,0,1,0,0,0,1,0
+2008,Summer,GRE,Greece,176,0,7,3,4,0,3,0,0,0,4
+2008,Summer,MAW,Malawi,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ZAM,Zambia,8,0,0,0,0,0,0,0,0,0,0
+2008,Summer,CAF,Central African Republic,3,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MHL,Marshall Islands,5,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MYA,Myanmar,7,0,0,0,0,0,0,0,0,0,0
+2008,Summer,KSA,Saudi Arabia,18,0,0,0,0,0,0,0,0,0,0
+2010,Winter,CYP,Cyprus,4,0,0,0,0,0,0,0,0,0,0
+2010,Winter,RUS,Russia,279,6,25,5,14,2,3,11,4,2,3
+2010,Winter,MAR,Morocco,2,0,0,0,0,0,0,0,0,0,0
+2010,Winter,MEX,Mexico,2,0,0,0,0,0,0,0,0,0,0
+2010,Winter,IRI,Iran,7,0,0,0,0,0,0,0,0,0,0
+2010,Winter,TPE,Taiwan,1,0,0,0,0,0,0,0,0,0,0
+2010,Winter,SEN,Senegal,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,PAK,Pakistan,21,0,0,0,0,0,0,0,0,0,0
+2012,Summer,NZL,New Zealand,204,9,27,3,15,5,2,11,4,1,4
+2012,Summer,SRI,Sri Lanka,8,0,0,0,0,0,0,0,0,0,0
+2012,Summer,BIH,Bosnia and Herzegovina,8,0,0,0,0,0,0,0,0,0,0
+2012,Summer,CPV,Cape Verde,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MEX,Mexico,119,16,24,5,3,16,2,0,0,3,3
+2012,Summer,BEN,Benin,5,0,0,0,0,0,0,0,0,0,0
+2012,Summer,INA,Indonesia,22,0,2,1,1,0,1,1,0,0,0
+2012,Summer,HON,Honduras,25,0,0,0,0,0,0,0,0,0,0
+2012,Summer,ESA,El Salvador,11,0,0,0,0,0,0,0,0,0,0
+2014,Winter,SWE,Sweden,148,8,51,32,11,4,26,8,4,6,3
+2014,Winter,CHN,China,110,3,12,4,5,0,2,5,3,2,0
+2014,Winter,ISV,"Virgin Islands, US",2,0,0,0,0,0,0,0,0,0,0
+2014,Winter,JPN,Japan,171,1,11,4,6,1,3,5,0,1,1
+2014,Winter,NEP,Nepal,1,0,0,0,0,0,0,0,0,0,0
+2014,Winter,ISR,Israel,6,0,0,0,0,0,0,0,0,0,0
+2014,Winter,AUS,Australia,84,0,3,2,1,0,1,0,0,1,1
+2016,Summer,DEN,Denmark,143,15,41,10,16,14,6,7,1,4,9
+2016,Summer,POL,Poland,289,3,16,3,10,0,1,2,3,2,8
+2016,Summer,CHN,China,546,46,113,30,37,16,7,15,30,23,22
+2016,Summer,DJI,Djibouti,8,0,0,0,0,0,0,0,0,0,0
+2016,Summer,KEN,Kenya,80,6,13,6,1,3,3,0,3,3,1
+2016,Summer,NCA,Nicaragua,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,SVK,Slovakia,63,3,8,5,0,3,5,0,0,0,0
+2016,Summer,SUI,Switzerland,152,6,11,3,2,6,0,0,0,3,2
+2016,Summer,PNG,Papua New Guinea,8,0,0,0,0,0,0,0,0,0,0
+2016,Summer,TUN,Tunisia,65,0,3,0,3,0,0,1,0,0,2
+2016,Summer,LCA,Saint Lucia,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,NIG,Niger,6,0,1,1,0,0,1,0,0,0,0
+2016,Summer,TOG,Togo,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ECU,Ecuador,40,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ESA,El Salvador,10,0,0,0,0,0,0,0,0,0,0
+1896,Summer,DEN,Denmark,15,1,6,2,3,1,2,3,0,0,0
+1896,Summer,SUI,Switzerland,8,1,3,2,0,1,2,0,0,0,0
+1900,Summer,IRI,Iran,1,0,0,0,0,0,0,0,0,0,0
+1904,Summer,GRE,Greece,17,1,2,0,1,1,0,1,0,0,0
+1904,Summer,GBR,UK,6,1,2,1,0,1,1,0,0,0,0
+1906,Summer,DEN,Denmark,68,14,34,19,1,14,19,1,0,0,0
+1906,Summer,FIN,Finland,18,2,4,1,1,2,1,1,0,0,0
+1908,Summer,GRE,Greece,49,0,4,3,1,0,3,1,0,0,0
+1908,Summer,BOH,Czech Republic,41,0,6,0,6,0,0,6,0,0,0
+1912,Summer,RSA,South Africa,56,5,7,2,0,5,2,0,0,0,0
+1912,Summer,GRE,Greece,77,1,2,0,1,1,0,1,0,0,0
+1912,Summer,RUS,Russia,266,0,14,5,9,0,5,9,0,0,0
+1920,Summer,EGY,Egypt,22,0,0,0,0,0,0,0,0,0,0
+1920,Summer,ARG,Argentina,1,0,0,0,0,0,0,0,0,0,0
+1924,Winter,NOR,Norway,36,4,17,7,6,4,7,6,0,0,0
+1924,Summer,AUS,Australia,60,3,10,5,2,3,5,2,0,0,0
+1924,Winter,YUG,Serbia,7,0,0,0,0,0,0,0,0,0,0
+1924,Summer,CUB,Cuba,13,0,0,0,0,0,0,0,0,0,0
+1924,Summer,RUS,Russia,3,0,0,0,0,0,0,0,0,0,0
+1924,Winter,POL,Poland,15,0,0,0,0,0,0,0,0,0,0
+1928,Summer,DEN,Denmark,122,6,15,5,4,6,5,4,0,0,0
+1928,Summer,POL,Poland,146,2,20,3,15,1,3,15,1,0,0
+1928,Summer,LAT,Latvia,24,0,0,0,0,0,0,0,0,0,0
+1928,Summer,ITA,Italy,273,24,72,22,26,24,10,26,0,12,0
+1928,Summer,IND,India,24,14,14,0,0,14,0,0,0,0,0
+1928,Winter,JPN,Japan,10,0,0,0,0,0,0,0,0,0,0
+1932,Winter,CAN,Canada,53,14,20,1,5,14,1,5,0,0,0
+1932,Winter,ROU,Romania,6,0,0,0,0,0,0,0,0,0,0
+1932,Winter,FRA,France,8,2,2,0,0,1,0,0,1,0,0
+1932,Summer,IRL,Ireland,18,2,2,0,0,2,0,0,0,0,0
+1936,Summer,ARG,Argentina,68,5,11,2,4,5,1,4,0,1,0
+1936,Winter,NED,Netherlands,19,0,0,0,0,0,0,0,0,0,0
+1936,Summer,MEX,Mexico,32,0,16,0,16,0,0,16,0,0,0
+1936,Winter,ROU,Romania,22,0,0,0,0,0,0,0,0,0,0
+1936,Winter,BEL,Belgium,37,0,0,0,0,0,0,0,0,0,0
+1936,Summer,AFG,Afghanistan,16,0,0,0,0,0,0,0,0,0,0
+1948,Summer,FRA,France,433,26,72,22,24,24,22,22,2,0,2
+1948,Summer,LIE,Liechtenstein,2,0,0,0,0,0,0,0,0,0,0
+1948,Summer,RSA,South Africa,43,2,6,2,2,2,2,2,0,0,0
+1948,Winter,AUT,Austria,84,1,8,3,4,0,1,1,1,2,3
+1948,Summer,ISL,Iceland,27,0,0,0,0,0,0,0,0,0,0
+1948,Summer,BER,Bermuda,28,0,0,0,0,0,0,0,0,0,0
+1948,Summer,GRE,Greece,97,0,0,0,0,0,0,0,0,0,0
+1948,Summer,SYR,Syria,1,0,0,0,0,0,0,0,0,0,0
+1948,Winter,TCH,Czech Republic,74,0,17,17,0,0,17,0,0,0,0
+1948,Summer,,,1,0,0,0,0,0,0,0,0,0,0
+1948,Summer,POR,Portugal,65,0,5,2,3,0,2,3,0,0,0
+1952,Winter,ISL,Iceland,24,0,0,0,0,0,0,0,0,0,0
+1952,Summer,GUA,Guatemala,35,0,0,0,0,0,0,0,0,0,0
+1952,Summer,GBR,UK,401,3,31,2,26,3,1,20,0,1,6
+1952,Summer,USA,USA,451,83,134,23,28,76,22,21,7,1,7
+1952,Summer,RSA,South Africa,109,2,14,8,4,0,7,4,2,1,0
+1952,Summer,IRL,Ireland,25,0,1,1,0,0,1,0,0,0,0
+1952,Summer,CUB,Cuba,57,0,0,0,0,0,0,0,0,0,0
+1956,Winter,ISL,Iceland,14,0,0,0,0,0,0,0,0,0,0
+1956,Summer,POR,Portugal,18,0,0,0,0,0,0,0,0,0,0
+1956,Summer,AFG,Afghanistan,12,0,0,0,0,0,0,0,0,0,0
+1960,Winter,TCH,Czech Republic,22,0,1,1,0,0,1,0,0,0,0
+1960,Summer,PER,Peru,33,0,0,0,0,0,0,0,0,0,0
+1960,Summer,ISR,Israel,46,0,0,0,0,0,0,0,0,0,0
+1960,Summer,TUN,Tunisia,56,0,0,0,0,0,0,0,0,0,0
+1960,Summer,CAN,Canada,140,0,9,9,0,0,9,0,0,0,0
+1960,Summer,GHA,Ghana,15,0,1,1,0,0,1,0,0,0,0
+1960,Summer,SRI,Sri Lanka,5,0,0,0,0,0,0,0,0,0,0
+1964,Summer,POR,Portugal,25,0,0,0,0,0,0,0,0,0,0
+1964,Summer,HKG,China,50,0,0,0,0,0,0,0,0,0,0
+1964,Winter,HUN,Hungary,42,0,0,0,0,0,0,0,0,0,0
+1964,Summer,ETH,Ethiopia,19,1,1,0,0,1,0,0,0,0,0
+1964,Winter,NED,Netherlands,12,1,2,1,0,0,1,0,1,0,0
+1964,Summer,ESP,Spain,67,0,0,0,0,0,0,0,0,0,0
+1964,Summer,URU,Uruguay,29,0,1,0,1,0,0,1,0,0,0
+1964,Summer,BUL,Bulgaria,116,3,10,5,2,3,5,2,0,0,0
+1964,Summer,TTO,Trinidad,18,0,6,1,5,0,1,5,0,0,0
+1964,Winter,ESP,Spain,12,0,0,0,0,0,0,0,0,0,0
+1968,Winter,AUT,Austria,112,3,15,8,4,2,8,3,1,0,1
+1968,Winter,NED,Netherlands,26,3,9,3,3,1,2,1,2,1,2
+1968,Winter,URS,Russia,121,26,37,6,5,24,3,1,2,3,4
+1968,Winter,HUN,Hungary,21,0,0,0,0,0,0,0,0,0,0
+1968,Summer,BRA,Brazil,89,0,4,1,3,0,1,3,0,0,0
+1968,Winter,YUG,Serbia,46,0,0,0,0,0,0,0,0,0,0
+1968,Summer,TUR,Turkey,30,2,2,0,0,2,0,0,0,0,0
+1968,Summer,ALG,Algeria,9,0,0,0,0,0,0,0,0,0,0
+1968,Summer,PHI,Philippines,89,0,0,0,0,0,0,0,0,0,0
+1968,Winter,AUS,Australia,7,0,0,0,0,0,0,0,0,0,0
+1972,Summer,AUS,Australia,266,11,20,7,2,6,4,0,5,3,2
+1972,Summer,TCH,Czech Republic,274,2,29,21,6,2,20,5,0,1,1
+1972,Summer,ROU,Romania,258,3,40,10,27,3,8,21,0,2,6
+1972,Winter,SUI,Switzerland,79,7,17,3,7,5,3,7,2,0,0
+1972,Winter,ROU,Romania,23,0,0,0,0,0,0,0,0,0,0
+1972,Summer,CHA,Chad,5,0,0,0,0,0,0,0,0,0,0
+1972,Summer,SMR,San Marino,7,0,0,0,0,0,0,0,0,0,0
+1972,Summer,BUR,Burkina Faso,1,0,0,0,0,0,0,0,0,0,0
+1972,Winter,AUS,Australia,12,0,0,0,0,0,0,0,0,0,0
+1972,Summer,GRE,Greece,66,0,2,2,0,0,2,0,0,0,0
+1972,Summer,ZAM,Zambia,12,0,0,0,0,0,0,0,0,0,0
+1972,Summer,FIJ,Fiji,4,0,0,0,0,0,0,0,0,0,0
+1972,Summer,MLI,Mali,3,0,0,0,0,0,0,0,0,0,0
+1976,Winter,JPN,Japan,87,0,0,0,0,0,0,0,0,0,0
+1976,Summer,FRG,Germany,859,123,273,76,74,68,37,56,55,39,18
+1976,Summer,EGY,Egypt,26,0,0,0,0,0,0,0,0,0,0
+1976,Summer,ISV,"Virgin Islands, US",26,0,0,0,0,0,0,0,0,0,0
+1976,Summer,SUR,Suriname,4,0,0,0,0,0,0,0,0,0,0
+1980,Summer,POR,Portugal,18,0,0,0,0,0,0,0,0,0,0
+1980,Winter,TCH,Czech Republic,74,0,1,0,1,0,0,0,0,0,1
+1980,Summer,LUX,Luxembourg,4,0,0,0,0,0,0,0,0,0,0
+1980,Summer,FRA,France,200,18,29,5,6,12,5,6,6,0,0
+1980,Winter,ITA,Italy,74,0,3,3,0,0,3,0,0,0,0
+1980,Summer,SMR,San Marino,16,0,0,0,0,0,0,0,0,0,0
+1984,Summer,DEN,Denmark,74,0,13,3,10,0,2,5,0,1,5
+1984,Summer,NZL,New Zealand,162,16,23,1,6,16,1,6,0,0,0
+1984,Winter,FRA,France,57,0,3,1,2,0,0,1,0,1,1
+1984,Summer,PUR,Puerto Rico,58,0,2,1,1,0,1,1,0,0,0
+1984,Summer,ROU,Romania,193,40,106,31,35,8,12,28,32,19,7
+1984,Summer,YUG,Serbia,154,47,87,5,35,32,5,35,15,0,0
+1984,Summer,SEY,Seychelles,15,0,0,0,0,0,0,0,0,0,0
+1984,Summer,GBR,UK,509,9,71,20,42,8,14,32,1,6,10
+1984,Summer,BEL,Belgium,86,1,5,2,2,1,2,0,0,0,2
+1984,Summer,NED,Netherlands,185,20,41,7,14,1,0,1,19,7,13
+1984,Summer,GAM,Gambia,16,0,0,0,0,0,0,0,0,0,0
+1984,Summer,BER,Bermuda,13,0,0,0,0,0,0,0,0,0,0
+1984,Summer,NGR,Nigeria,36,0,5,1,4,0,1,4,0,0,0
+1984,Winter,CHN,China,70,0,0,0,0,0,0,0,0,0,0
+1984,Summer,CHI,Chile,64,0,0,0,0,0,0,0,0,0,0
+1984,Winter,MAR,Morocco,7,0,0,0,0,0,0,0,0,0,0
+1984,Summer,MAS,Malaysia,27,0,0,0,0,0,0,0,0,0,0
+1984,Winter,CAN,Canada,91,2,4,1,1,2,1,1,0,0,0
+1984,Summer,ISV,"Virgin Islands, US",52,0,0,0,0,0,0,0,0,0,0
+1984,Winter,CRC,Costa Rica,7,0,0,0,0,0,0,0,0,0,0
+1988,Summer,HUN,Hungary,315,20,44,9,15,19,4,10,1,5,5
+1988,Summer,VIE,Vietnam,12,0,0,0,0,0,0,0,0,0,0
+1988,Summer,ZIM,Zimbabwe,47,0,0,0,0,0,0,0,0,0,0
+1988,Winter,SWE,Sweden,126,7,30,0,23,7,0,23,0,0,0
+1988,Summer,MGL,Mongolia,32,0,1,0,1,0,0,1,0,0,0
+1988,Winter,JPN,Japan,113,0,1,0,1,0,0,1,0,0,0
+1988,Winter,ITA,Italy,105,2,8,1,5,2,1,5,0,0,0
+1988,Winter,NED,Netherlands,25,3,7,2,2,0,2,2,3,0,0
+1988,Summer,CHI,Chile,23,0,1,1,0,0,1,0,0,0,0
+1988,Summer,SYR,Syria,13,0,0,0,0,0,0,0,0,0,0
+1988,Summer,ANG,Angola,33,0,0,0,0,0,0,0,0,0,0
+1988,Summer,UGA,Uganda,30,0,0,0,0,0,0,0,0,0,0
+1988,Summer,RWA,Rwanda,8,0,0,0,0,0,0,0,0,0,0
+1988,Summer,FIN,Finland,101,1,4,1,2,1,1,2,0,0,0
+1988,Summer,ASA,American Samoa,6,0,0,0,0,0,0,0,0,0,0
+1992,Summer,LAT,Latvia,40,0,3,2,1,0,2,1,0,0,0
+1992,Summer,NCA,Nicaragua,9,0,0,0,0,0,0,0,0,0,0
+1992,Winter,YUG,Serbia,60,0,0,0,0,0,0,0,0,0,0
+1992,Winter,MGL,Mongolia,11,0,0,0,0,0,0,0,0,0,0
+1992,Summer,CHA,Chad,7,0,0,0,0,0,0,0,0,0,0
+1992,Summer,CGO,Republic of Congo,10,0,0,0,0,0,0,0,0,0,0
+1994,Winter,SEN,Senegal,1,0,0,0,0,0,0,0,0,0,0
+1994,Winter,POL,Poland,59,0,0,0,0,0,0,0,0,0,0
+1994,Winter,LAT,Latvia,42,0,0,0,0,0,0,0,0,0,0
+1994,Winter,MON,Monaco,7,0,0,0,0,0,0,0,0,0,0
+1994,Winter,KGZ,Kyrgyzstan,2,0,0,0,0,0,0,0,0,0,0
+1996,Summer,USA,USA,839,159,259,48,52,59,32,41,100,16,11
+1996,Summer,PNG,Papua New Guinea,17,0,0,0,0,0,0,0,0,0,0
+1996,Summer,ALG,Algeria,47,2,3,0,1,2,0,1,0,0,0
+1996,Summer,VIN,Saint Vincent,12,0,0,0,0,0,0,0,0,0,0
+1996,Summer,CAY,Cayman Islands,9,0,0,0,0,0,0,0,0,0,0
+1996,Summer,URU,Uruguay,15,0,0,0,0,0,0,0,0,0,0
+1996,Summer,CIV,Ivory Coast,13,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GRE,Greece,180,4,8,4,0,4,3,0,0,1,0
+1996,Summer,SEN,Senegal,12,0,0,0,0,0,0,0,0,0,0
+1996,Summer,FIJ,Fiji,21,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GUY,Guyana,9,0,0,0,0,0,0,0,0,0,0
+1996,Summer,ISV,"Virgin Islands, US",14,0,0,0,0,0,0,0,0,0,0
+1996,Summer,MAR,Morocco,38,0,2,0,2,0,0,2,0,0,0
+1996,Summer,LAT,Latvia,55,0,1,1,0,0,1,0,0,0,0
+1996,Summer,MTN,Mauritania,4,0,0,0,0,0,0,0,0,0,0
+1996,Summer,SUD,Sudan,4,0,0,0,0,0,0,0,0,0,0
+1998,Winter,SWE,Sweden,146,0,7,2,5,0,1,0,0,1,5
+1998,Winter,ISV,"Virgin Islands, US",9,0,0,0,0,0,0,0,0,0,0
+1998,Winter,LUX,Luxembourg,1,0,0,0,0,0,0,0,0,0,0
+1998,Winter,DEN,Denmark,19,0,5,5,0,0,0,0,0,5,0
+1998,Winter,SCG,Serbia,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,TUR,Turkey,67,3,5,0,2,3,0,1,0,0,1
+2000,Summer,SMR,San Marino,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,SUR,Suriname,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,CMR,Cameroon,39,18,18,0,0,18,0,0,0,0,0
+2000,Summer,COM,Comoros,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,GEO,Georgia,47,0,6,0,6,0,0,6,0,0,0
+2000,Summer,UGA,Uganda,13,0,0,0,0,0,0,0,0,0,0
+2000,Summer,MLT,Malta,7,0,0,0,0,0,0,0,0,0,0
+2000,Summer,BAN,Bangladesh,6,0,0,0,0,0,0,0,0,0,0
+2000,Summer,CAY,Cayman Islands,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,MTN,Mauritania,2,0,0,0,0,0,0,0,0,0,0
+2002,Winter,NOR,Norway,166,23,41,11,7,21,2,5,2,9,2
+2002,Winter,GER,Germany,259,26,61,23,12,12,14,6,14,9,6
+2004,Summer,GUA,Guatemala,19,0,0,0,0,0,0,0,0,0,0
+2004,Summer,AUT,Austria,92,3,8,4,1,2,3,1,1,1,0
+2004,Summer,GBR,UK,360,17,57,25,15,12,15,8,5,10,7
+2004,Summer,PRK,North Korea,71,0,5,4,1,0,1,1,0,3,0
+2004,Summer,PLW,Palau,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CMR,Cameroon,19,1,1,0,0,0,0,0,1,0,0
+2004,Summer,SYR,Syria,6,0,1,0,1,0,0,1,0,0,0
+2004,Summer,LAT,Latvia,45,0,4,4,0,0,3,0,0,1,0
+2004,Summer,NAM,Namibia,10,0,0,0,0,0,0,0,0,0,0
+2004,Summer,NED,Netherlands,264,4,77,51,22,1,32,3,3,19,19
+2004,Summer,RSA,South Africa,128,4,10,3,3,4,2,3,0,1,0
+2004,Summer,BOL,Boliva,11,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CRC,Costa Rica,21,0,0,0,0,0,0,0,0,0,0
+2004,Summer,DOM,Dominican Republic,33,1,1,0,0,1,0,0,0,0,0
+2004,Summer,COL,Colombia,71,0,2,0,2,0,0,0,0,0,2
+2004,Summer,NOR,Norway,60,5,7,0,2,3,0,2,2,0,0
+2004,Summer,SLO,Slovenia,102,0,5,2,3,0,2,1,0,0,2
+2004,Summer,MKD,Macedonia,14,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BAR,Barbados,15,0,0,0,0,0,0,0,0,0,0
+2006,Winter,KOR,South Korea,85,14,19,3,2,7,2,2,7,1,0
+2006,Winter,EST,Estonia,63,3,3,0,0,1,0,0,2,0,0
+2006,Winter,POL,Poland,91,0,2,1,1,0,1,0,0,0,1
+2006,Winter,CAN,Canada,305,30,69,28,11,6,14,1,24,14,10
+2006,Winter,CRO,Croatia,46,1,3,2,0,0,1,0,1,1,0
+2006,Winter,LTU,Lithuania,14,0,0,0,0,0,0,0,0,0,0
+2006,Winter,SEN,Senegal,3,0,0,0,0,0,0,0,0,0,0
+2006,Winter,CRC,Costa Rica,1,0,0,0,0,0,0,0,0,0,0
+2006,Winter,LIB,Lebanon,7,0,0,0,0,0,0,0,0,0,0
+2006,Winter,LIE,Liechtenstein,12,0,0,0,0,0,0,0,0,0,0
+2008,Summer,CPV,Cape Verde,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ARU,Aruba,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,GUA,Guatemala,13,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ARM,Armenia,26,0,6,0,6,0,0,6,0,0,0
+2008,Summer,CHI,Chile,29,0,1,1,0,0,1,0,0,0,0
+2008,Summer,NRU,Nauru,1,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MNE,Montenegro,20,0,0,0,0,0,0,0,0,0,0
+2010,Winter,UZB,Uzbekistan,5,0,0,0,0,0,0,0,0,0,0
+2010,Winter,IND,India,3,0,0,0,0,0,0,0,0,0,0
+2010,Winter,GRE,Greece,12,0,0,0,0,0,0,0,0,0,0
+2010,Winter,MGL,Mongolia,2,0,0,0,0,0,0,0,0,0,0
+2010,Winter,CAN,Canada,308,67,90,15,8,40,1,5,27,14,3
+2010,Winter,BER,Bermuda,1,0,0,0,0,0,0,0,0,0,0
+2010,Winter,ARG,Argentina,20,0,0,0,0,0,0,0,0,0,0
+2012,Summer,TUR,Turkey,119,2,5,2,1,1,0,1,1,2,0
+2012,Summer,GEO,Georgia,36,1,7,3,3,1,3,3,0,0,0
+2012,Summer,SOL,Solomon Islands,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,IRL,Ireland,76,1,5,1,3,0,1,3,1,0,0
+2012,Summer,COM,Comoros,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,TPE,Taiwan,55,0,2,1,1,0,0,0,0,1,1
+2012,Summer,THA,Thailand,43,0,3,2,1,0,1,0,0,1,1
+2012,Summer,GRN,Grenada,8,1,1,0,0,1,0,0,0,0,0
+2012,Summer,PAN,Panama,8,0,0,0,0,0,0,0,0,0,0
+2012,Summer,SLE,Sierra Leone,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,PAR,Paraguay,10,0,0,0,0,0,0,0,0,0,0
+2012,Summer,STP,Sao Tome and Principe,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,ECU,Ecuador,36,0,0,0,0,0,0,0,0,0,0
+2012,Summer,IRQ,Iraq,8,0,0,0,0,0,0,0,0,0,0
+2012,Summer,YEM,Yemen,4,0,0,0,0,0,0,0,0,0,0
+2012,Summer,GHA,Ghana,7,0,0,0,0,0,0,0,0,0,0
+2012,Summer,EGY,Egypt,132,0,2,2,0,0,2,0,0,0,0
+2014,Winter,GER,Germany,271,15,36,12,9,11,9,2,4,3,7
+2014,Winter,ALB,Albania,2,0,0,0,0,0,0,0,0,0,0
+2014,Winter,SMR,San Marino,2,0,0,0,0,0,0,0,0,0,0
+2014,Winter,CAY,Cayman Islands,2,0,0,0,0,0,0,0,0,0,0
+2014,Winter,AND,Andorra,12,0,0,0,0,0,0,0,0,0,0
+2016,Summer,CRO,Croatia,93,7,24,15,2,5,15,1,2,0,1
+2016,Summer,PRK,North Korea,38,2,7,3,2,1,1,1,1,2,1
+2016,Summer,BEL,Belgium,138,2,21,17,2,1,17,1,1,0,1
+2016,Summer,FSM,Micronesia,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,GAM,Gambia,4,0,0,0,0,0,0,0,0,0,0
+2016,Summer,LES,Lesotho,9,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MRI,Mauritius,11,0,0,0,0,0,0,0,0,0,0
+2016,Summer,CAM,Cambodia,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,RWA,Rwanda,7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,BIZ,Belize,3,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ANG,Angola,26,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MAW,Malawi,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,GBS,Guinea-Bissau,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MHL,Marshall Islands,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,GUA,Guatemala,25,0,0,0,0,0,0,0,0,0,0
+1896,Summer,ITA,Italy,1,0,0,0,0,0,0,0,0,0,0
+1900,Summer,ARG,Argentina,1,0,0,0,0,0,0,0,0,0,0
+1904,Summer,AUT,Austria,7,2,4,1,1,2,1,1,0,0,0
+1906,Summer,USA,USA,81,12,24,6,6,12,6,6,0,0,0
+1908,Summer,GER,Germany,148,4,21,11,6,3,10,6,1,1,0
+1908,Summer,ANZ,Australia,48,15,19,2,2,15,2,2,0,0,0
+1912,Summer,FRA,France,232,10,26,11,5,9,11,4,1,0,1
+1912,Summer,BOH,Czech Republic,74,0,0,0,0,0,0,0,0,0,0
+1920,Summer,POR,Portugal,40,0,0,0,0,0,0,0,0,0,0
+1920,Summer,TCH,Czech Republic,182,0,10,0,10,0,0,9,0,0,1
+1924,Summer,IND,India,24,0,0,0,0,0,0,0,0,0,0
+1924,Summer,ROU,Romania,45,0,16,0,16,0,0,16,0,0,0
+1928,Summer,SWE,Sweden,139,7,37,8,22,7,8,19,0,0,3
+1928,Summer,ROU,Romania,33,0,0,0,0,0,0,0,0,0,0
+1928,Summer,LUX,Luxembourg,107,1,1,0,0,1,0,0,0,0,0
+1928,Summer,URU,Uruguay,17,17,17,0,0,17,0,0,0,0,0
+1932,Summer,POL,Poland,71,3,21,4,14,2,3,13,1,1,1
+1932,Summer,LAT,Latvia,13,0,1,1,0,0,1,0,0,0,0
+1932,Summer,BUL,Bulgaria,2,0,0,0,0,0,0,0,0,0,0
+1932,Summer,AUS,Australia,20,3,5,1,1,2,0,1,1,1,0
+1932,Summer,BRA,Brazil,67,0,0,0,0,0,0,0,0,0,0
+1932,Summer,GUA,Guatemala,1,0,0,0,0,0,0,0,0,0,0
+1936,Summer,GRE,Greece,64,0,0,0,0,0,0,0,0,0,0
+1936,Winter,AUS,Australia,3,0,0,0,0,0,0,0,0,0,0
+1948,Winter,SUI,Switzerland,99,4,28,5,19,3,4,19,1,1,0
+1948,Summer,AFG,Afghanistan,25,0,0,0,0,0,0,0,0,0,0
+1948,Summer,MEX,Mexico,149,4,9,1,4,4,1,4,0,0,0
+1948,Summer,KOR,South Korea,48,0,2,0,2,0,0,2,0,0,0
+1948,Summer,IRQ,Iraq,13,0,0,0,0,0,0,0,0,0,0
+1948,Winter,CHI,Chile,11,0,0,0,0,0,0,0,0,0,0
+1948,Summer,PAK,Pakistan,44,0,0,0,0,0,0,0,0,0,0
+1952,Summer,SWE,Sweden,355,23,70,24,23,15,24,23,8,0,0
+1952,Summer,AUS,Australia,140,7,20,2,11,4,2,10,3,0,1
+1952,Winter,POL,Poland,42,0,0,0,0,0,0,0,0,0,0
+1956,Winter,URS,Russia,81,26,37,5,6,25,1,5,1,4,1
+1956,Winter,SUI,Switzerland,80,6,10,2,2,4,1,2,2,1,0
+1956,Winter,NOR,Norway,77,2,4,1,1,2,1,1,0,0,0
+1956,Winter,LIB,Lebanon,8,0,0,0,0,0,0,0,0,0,0
+1956,Winter,AUS,Australia,17,0,0,0,0,0,0,0,0,0,0
+1956,Summer,COL,Colombia,47,0,0,0,0,0,0,0,0,0,0
+1956,Summer,HKG,China,4,0,0,0,0,0,0,0,0,0,0
+1960,Winter,FIN,Finland,74,5,13,3,5,5,3,1,0,0,4
+1960,Winter,KOR,South Korea,20,0,0,0,0,0,0,0,0,0,0
+1960,Summer,GUY,Guyana,6,0,0,0,0,0,0,0,0,0,0
+1960,Summer,ETH,Ethiopia,15,1,1,0,0,1,0,0,0,0,0
+1960,Summer,MON,Monaco,13,0,0,0,0,0,0,0,0,0,0
+1964,Summer,BEL,Belgium,74,2,3,0,1,2,0,1,0,0,0
+1964,Summer,IRL,Ireland,35,0,1,0,1,0,0,1,0,0,0
+1964,Summer,SWE,Sweden,175,3,15,4,8,3,4,8,0,0,0
+1964,Summer,ISR,Israel,13,0,0,0,0,0,0,0,0,0,0
+1964,Summer,IND,India,111,15,15,0,0,15,0,0,0,0,0
+1964,Winter,AUS,Australia,14,0,0,0,0,0,0,0,0,0,0
+1964,Summer,NGR,Nigeria,19,0,1,0,1,0,0,1,0,0,0
+1964,Winter,ISL,Iceland,10,0,0,0,0,0,0,0,0,0,0
+1968,Winter,FRG,Germany,222,4,16,5,7,4,3,5,0,2,2
+1968,Summer,ESA,El Salvador,104,0,0,0,0,0,0,0,0,0,0
+1968,Winter,DEN,Denmark,6,0,0,0,0,0,0,0,0,0,0
+1968,Summer,SUR,Suriname,1,0,0,0,0,0,0,0,0,0,0
+1972,Summer,FRG,Germany,1041,74,253,83,96,54,48,73,20,35,23
+1972,Summer,CUB,Cuba,201,3,22,1,18,3,1,13,0,0,5
+1972,Summer,JPN,Japan,293,29,56,19,8,28,7,8,1,12,0
+1972,Summer,LIB,Lebanon,36,0,1,1,0,0,1,0,0,0,0
+1972,Summer,HAI,Haiti,7,0,0,0,0,0,0,0,0,0,0
+1976,Summer,ITA,Italy,312,2,31,25,4,2,23,4,0,2,0
+1976,Winter,AUT,Austria,116,2,7,2,3,2,1,3,0,1,0
+1976,Summer,ROU,Romania,255,4,55,28,23,1,21,16,3,7,7
+1976,Summer,,,4,0,0,0,0,0,0,0,0,0,0
+1976,Summer,PHI,Philippines,22,0,0,0,0,0,0,0,0,0,0
+1976,Summer,BRA,Brazil,89,0,3,0,3,0,0,3,0,0,0
+1976,Summer,GUA,Guatemala,28,0,0,0,0,0,0,0,0,0,0
+1976,Summer,AND,Andorra,3,0,0,0,0,0,0,0,0,0,0
+1976,Summer,URU,Uruguay,15,0,0,0,0,0,0,0,0,0,0
+1980,Winter,HUN,Hungary,2,0,2,2,0,0,1,0,0,1,0
+1980,Winter,LIB,Lebanon,7,0,0,0,0,0,0,0,0,0,0
+1984,Winter,NOR,Norway,97,6,15,5,4,2,4,2,4,1,2
+1984,Summer,IRL,Ireland,55,0,1,1,0,0,1,0,0,0,0
+1984,Summer,BAH,Bahamas,31,0,0,0,0,0,0,0,0,0,0
+1984,Winter,POL,Poland,42,0,0,0,0,0,0,0,0,0,0
+1984,Summer,SWZ,Swaziland,11,0,0,0,0,0,0,0,0,0,0
+1988,Summer,MLI,Mali,8,0,0,0,0,0,0,0,0,0,0
+1988,Winter,MEX,Mexico,21,0,0,0,0,0,0,0,0,0,0
+1988,Winter,MGL,Mongolia,9,0,0,0,0,0,0,0,0,0,0
+1988,Winter,NOR,Norway,115,0,11,6,5,0,2,5,0,4,0
+1988,Summer,DOM,Dominican Republic,18,0,0,0,0,0,0,0,0,0,0
+1988,Summer,IRI,Iran,26,0,1,1,0,0,1,0,0,0,0
+1988,Summer,BRN,Bahrain,16,0,0,0,0,0,0,0,0,0,0
+1988,Summer,KSA,Saudi Arabia,13,0,0,0,0,0,0,0,0,0,0
+1988,Summer,BHU,Bhutan,6,0,0,0,0,0,0,0,0,0,0
+1988,Winter,PUR,Puerto Rico,17,0,0,0,0,0,0,0,0,0,0
+1988,Summer,LIE,Liechtenstein,16,0,0,0,0,0,0,0,0,0,0
+1992,Summer,CAF,Central African Republic,21,0,0,0,0,0,0,0,0,0,0
+1992,Summer,URU,Uruguay,18,0,0,0,0,0,0,0,0,0,0
+1992,Summer,NED,Netherlands,257,5,33,20,8,4,16,4,1,4,4
+1992,Winter,POL,Poland,98,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BAN,Bangladesh,9,0,0,0,0,0,0,0,0,0,0
+1992,Summer,SUI,Switzerland,171,1,1,0,0,1,0,0,0,0,0
+1992,Summer,AND,Andorra,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,SEY,Seychelles,21,0,0,0,0,0,0,0,0,0,0
+1992,Summer,MTN,Mauritania,6,0,0,0,0,0,0,0,0,0,0
+1992,Winter,LIB,Lebanon,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,SAM,Samoa,5,0,0,0,0,0,0,0,0,0,0
+1994,Winter,POR,Portugal,4,0,0,0,0,0,0,0,0,0,0
+1994,Winter,BEL,Belgium,8,0,0,0,0,0,0,0,0,0,0
+1994,Winter,NED,Netherlands,43,0,4,1,3,0,1,3,0,0,0
+1994,Winter,BER,Bermuda,1,0,0,0,0,0,0,0,0,0,0
+1994,Winter,LIE,Liechtenstein,25,0,0,0,0,0,0,0,0,0,0
+1996,Summer,TOG,Togo,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,CAN,Canada,408,8,50,30,12,6,8,5,2,22,7
+1996,Summer,HAI,Haiti,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,SEY,Seychelles,9,0,0,0,0,0,0,0,0,0,0
+1996,Summer,UKR,Ukraine,351,10,34,5,19,6,0,14,4,5,5
+1996,Summer,SCG,Serbia,79,1,26,12,13,0,12,12,1,0,1
+1996,Summer,BAR,Barbados,22,0,0,0,0,0,0,0,0,0,0
+1996,Summer,BAH,Bahamas,36,0,5,5,0,0,0,0,0,5,0
+1996,Summer,UGA,Uganda,12,0,1,0,1,0,0,1,0,0,0
+1996,Summer,MAS,Malaysia,43,0,3,2,1,0,2,1,0,0,0
+1996,Summer,COK,Cook Islands,3,0,0,0,0,0,0,0,0,0,0
+1996,Summer,IVB,"Virgin Islands, British",11,0,0,0,0,0,0,0,0,0,0
+1996,Summer,GUA,Guatemala,28,0,0,0,0,0,0,0,0,0,0
+1996,Summer,ARU,Aruba,3,0,0,0,0,0,0,0,0,0,0
+1996,Summer,RWA,Rwanda,4,0,0,0,0,0,0,0,0,0,0
+1998,Winter,MKD,Macedonia,3,0,0,0,0,0,0,0,0,0,0
+1998,Winter,CHI,Chile,6,0,0,0,0,0,0,0,0,0,0
+1998,Winter,AND,Andorra,7,0,0,0,0,0,0,0,0,0,0
+1998,Winter,GBR,UK,45,0,4,0,4,0,0,4,0,0,0
+1998,Winter,GER,Germany,217,22,44,12,10,11,4,4,11,8,6
+1998,Winter,ARM,Armenia,7,0,0,0,0,0,0,0,0,0,0
+1998,Winter,GEO,Georgia,6,0,0,0,0,0,0,0,0,0,0
+1998,Winter,BEL,Belgium,3,0,1,0,1,0,0,1,0,0,0
+1998,Winter,MON,Monaco,6,0,0,0,0,0,0,0,0,0,0
+2000,Summer,AND,Andorra,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,BLR,Belarus,231,3,22,8,11,0,1,8,3,7,3
+2000,Summer,ETH,Ethiopia,27,4,8,1,3,3,0,2,1,1,1
+2000,Summer,YEM,Yemen,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,COL,Colombia,54,1,1,0,0,0,0,0,1,0,0
+2000,Summer,GRE,Greece,175,4,18,6,8,4,3,1,0,3,7
+2000,Summer,CGO,Republic of Congo,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,FIN,Finland,88,3,5,1,1,3,1,1,0,0,0
+2000,Summer,GUM,Guam,7,0,0,0,0,0,0,0,0,0,0
+2002,Winter,CRO,Croatia,29,3,4,1,0,0,0,0,3,1,0
+2002,Winter,NED,Netherlands,49,3,8,5,0,3,3,0,0,2,0
+2002,Winter,ROU,Romania,41,0,0,0,0,0,0,0,0,0,0
+2002,Winter,MGL,Mongolia,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,GRE,Greece,499,8,31,18,5,4,2,4,4,16,1
+2004,Summer,NGR,Nigeria,79,0,8,0,8,0,0,8,0,0,0
+2004,Summer,MLI,Mali,21,0,0,0,0,0,0,0,0,0,0
+2004,Summer,ETH,Ethiopia,27,2,7,3,2,1,2,0,1,1,2
+2004,Summer,ARG,Argentina,179,28,49,0,21,28,0,2,0,0,19
+2004,Summer,POL,Poland,224,4,12,2,6,3,0,1,1,2,5
+2004,Summer,JOR,Jordan,8,0,0,0,0,0,0,0,0,0,0
+2004,Summer,USA,USA,726,117,263,75,71,52,33,32,65,42,39
+2004,Summer,GAM,Gambia,3,0,0,0,0,0,0,0,0,0,0
+2004,Summer,MYA,Myanmar,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,KUW,Kuwait,11,0,0,0,0,0,0,0,0,0,0
+2004,Summer,CAM,Cambodia,4,0,0,0,0,0,0,0,0,0,0
+2006,Winter,ISR,Israel,6,0,0,0,0,0,0,0,0,0,0
+2006,Winter,TPE,Taiwan,1,0,0,0,0,0,0,0,0,0,0
+2008,Summer,NEP,Nepal,8,0,0,0,0,0,0,0,0,0,0
+2008,Summer,THA,Thailand,53,2,4,2,0,1,1,0,1,1,0
+2008,Summer,ALG,Algeria,57,0,2,1,1,0,1,0,0,0,1
+2008,Summer,MEX,Mexico,103,2,4,0,2,1,0,0,1,0,2
+2008,Summer,DOM,Dominican Republic,27,1,2,1,0,1,1,0,0,0,0
+2008,Summer,EGY,Egypt,116,0,1,0,1,0,0,1,0,0,0
+2008,Summer,ALB,Albania,12,0,0,0,0,0,0,0,0,0,0
+2008,Summer,PRK,North Korea,66,2,6,1,3,0,0,1,2,1,2
+2008,Summer,BAN,Bangladesh,5,0,0,0,0,0,0,0,0,0,0
+2008,Summer,TUN,Tunisia,29,1,1,0,0,1,0,0,0,0,0
+2008,Summer,COK,Cook Islands,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,LES,Lesotho,5,0,0,0,0,0,0,0,0,0,0
+2008,Summer,GUI,Guinea,5,0,0,0,0,0,0,0,0,0,0
+2008,Summer,BHU,Bhutan,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,LUX,Luxembourg,19,0,0,0,0,0,0,0,0,0,0
+2008,Summer,FIJ,Fiji,6,0,0,0,0,0,0,0,0,0,0
+2010,Winter,NZL,New Zealand,22,0,0,0,0,0,0,0,0,0,0
+2010,Winter,GER,Germany,259,15,54,24,15,3,15,7,12,9,8
+2010,Winter,CAY,Cayman Islands,1,0,0,0,0,0,0,0,0,0,0
+2010,Winter,ISR,Israel,4,0,0,0,0,0,0,0,0,0,0
+2010,Winter,KAZ,Kazakhstan,100,0,1,1,0,0,0,0,0,1,0
+2012,Summer,SWZ,Swaziland,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,GBR,UK,684,48,126,30,48,31,18,27,17,12,21
+2012,Summer,BRA,Brazil,306,14,59,34,11,1,34,6,13,0,5
+2012,Summer,LAT,Latvia,50,1,3,0,2,1,0,2,0,0,0
+2012,Summer,ITA,Italy,382,16,68,22,30,10,21,21,6,1,9
+2012,Summer,BUL,Bulgaria,75,0,2,1,1,0,0,1,0,1,0
+2012,Summer,ALB,Albania,10,0,0,0,0,0,0,0,0,0,0
+2012,Summer,PNG,Papua New Guinea,8,0,0,0,0,0,0,0,0,0,0
+2012,Summer,MOZ,Mozambique,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,CMR,Cameroon,32,0,0,0,0,0,0,0,0,0,0
+2012,Summer,COK,Cook Islands,9,0,0,0,0,0,0,0,0,0,0
+2012,Summer,GEQ,Equatorial Guinea,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,TOG,Togo,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,TAN,Tanzania,6,0,0,0,0,0,0,0,0,0,0
+2012,Summer,TUN,Tunisia,87,1,3,1,1,1,0,1,0,1,0
+2012,Summer,SKN,Saint Kitts,7,0,0,0,0,0,0,0,0,0,0
+2012,Summer,SOM,Somalia,2,0,0,0,0,0,0,0,0,0,0
+2014,Winter,ARG,Argentina,20,0,0,0,0,0,0,0,0,0,0
+2014,Winter,JAM,Jamaica,2,0,0,0,0,0,0,0,0,0,0
+2014,Winter,LTU,Lithuania,20,0,0,0,0,0,0,0,0,0,0
+2014,Winter,LUX,Luxembourg,1,0,0,0,0,0,0,0,0,0,0
+2014,Winter,TJK,Tajikistan,1,0,0,0,0,0,0,0,0,0,0
+2016,Summer,CPV,Cape Verde,5,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ROU,Romania,121,4,16,2,10,0,2,1,4,0,9
+2016,Summer,GBR,UK,478,64,145,55,26,36,35,11,28,20,15
+2016,Summer,GRE,Greece,104,3,7,1,3,1,1,2,2,0,1
+2016,Summer,AZE,Azerbaijan,69,1,18,7,10,1,6,7,0,1,3
+2016,Summer,KGZ,Kyrgyzstan,19,0,0,0,0,0,0,0,0,0,0
+2016,Summer,HAI,Haiti,10,0,0,0,0,0,0,0,0,0,0
+2016,Summer,CIV,Ivory Coast,15,1,2,0,1,1,0,0,0,0,1
+2016,Summer,SYR,Syria,7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,CAN,Canada,405,4,69,4,61,1,1,8,3,3,53
+2016,Summer,MAS,Malaysia,42,0,8,7,1,0,4,1,0,3,0
+2016,Summer,ISL,Iceland,14,0,0,0,0,0,0,0,0,0,0
+2016,Summer,TGA,Tonga,7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,TLS,Timor-Leste,3,0,0,0,0,0,0,0,0,0,0
+2016,Summer,SWZ,Swaziland,2,0,0,0,0,0,0,0,0,0,0
+2016,Summer,ANT,Antigua,9,0,0,0,0,0,0,0,0,0,0
+2016,Summer,PAR,Paraguay,11,0,0,0,0,0,0,0,0,0,0
+2016,Summer,PAK,Pakistan,7,0,0,0,0,0,0,0,0,0,0
+2016,Summer,SOM,Somalia,2,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MTN,Mauritania,2,0,0,0,0,0,0,0,0,0,0
+2016,Summer,IRQ,Iraq,20,0,0,0,0,0,0,0,0,0,0
+2016,Summer,BHU,Bhutan,2,0,0,0,0,0,0,0,0,0,0
+1896,Summer,GBR,UK,25,3,9,3,3,3,3,3,0,0,0
+1900,Summer,PER,Peru,2,0,0,0,0,0,0,0,0,0,0
+1904,Summer,ITA,Italy,1,0,0,0,0,0,0,0,0,0,0
+1906,Summer,SWE,Sweden,95,2,21,5,14,2,5,14,0,0,0
+1906,Summer,TUR,Turkey,2,0,0,0,0,0,0,0,0,0,0
+1908,Summer,DEN,Denmark,107,0,17,14,3,0,14,3,0,0,0
+1912,Summer,UNK,NA,2,0,0,0,0,0,0,0,0,0,0
+1924,Summer,URU,Uruguay,40,14,14,0,0,14,0,0,0,0,0
+1924,Summer,CAN,Canada,83,0,20,19,1,0,19,1,0,0,0
+1924,Winter,HUN,Hungary,6,0,0,0,0,0,0,0,0,0,0
+1928,Winter,POL,Poland,28,0,0,0,0,0,0,0,0,0,0
+1928,Summer,EGY,Egypt,43,2,4,1,1,2,1,1,0,0,0
+1928,Winter,TCH,Czech Republic,28,0,1,0,1,0,0,1,0,0,0
+1932,Summer,USA,USA,743,81,189,47,61,64,40,57,17,7,4
+1936,Summer,LAT,Latvia,33,0,2,1,1,0,1,1,0,0,0
+1936,Summer,TUR,Turkey,62,1,2,0,1,1,0,1,0,0,0
+1936,Winter,HUN,Hungary,29,0,2,0,2,0,0,1,0,0,1
+1936,Winter,YUG,Serbia,24,0,0,0,0,0,0,0,0,0,0
+1936,Summer,BOL,Boliva,2,0,0,0,0,0,0,0,0,0,0
+1952,Summer,GER,Germany,458,0,40,14,26,0,9,24,0,5,2
+1952,Winter,NZL,New Zealand,6,0,0,0,0,0,0,0,0,0,0
+1952,Summer,VNM,Vietnam,13,0,0,0,0,0,0,0,0,0,0
+1952,Summer,TUR,Turkey,58,2,3,0,1,2,0,1,0,0,0
+1952,Summer,LIE,Liechtenstein,2,0,0,0,0,0,0,0,0,0,0
+1952,Summer,INA,Indonesia,3,0,0,0,0,0,0,0,0,0,0
+1952,Summer,VEN,Venezuela,63,0,1,0,1,0,0,1,0,0,0
+1952,Summer,KOR,South Korea,22,0,2,0,2,0,0,2,0,0,0
+1952,Summer,YUG,Serbia,194,4,24,20,0,4,20,0,0,0,0
+1952,Summer,MON,Monaco,10,0,0,0,0,0,0,0,0,0,0
+1952,Winter,ESP,Spain,11,0,0,0,0,0,0,0,0,0,0
+1956,Winter,TCH,Czech Republic,64,0,0,0,0,0,0,0,0,0,0
+1956,Summer,NGR,Nigeria,14,0,0,0,0,0,0,0,0,0,0
+1956,Summer,SUI,Switzerland,18,0,3,0,3,0,0,3,0,0,0
+1956,Winter,BOL,Boliva,2,0,0,0,0,0,0,0,0,0,0
+1956,Summer,PER,Peru,10,0,0,0,0,0,0,0,0,0,0
+1956,Winter,BEL,Belgium,6,0,0,0,0,0,0,0,0,0,0
+1960,Summer,NGR,Nigeria,15,0,0,0,0,0,0,0,0,0,0
+1960,Summer,AUS,Australia,280,11,46,24,11,10,11,10,1,13,1
+1960,Summer,UAR,Syria,123,0,2,1,1,0,1,1,0,0,0
+1960,Winter,TUR,Turkey,6,0,0,0,0,0,0,0,0,0,0
+1960,Summer,URU,Uruguay,42,0,0,0,0,0,0,0,0,0,0
+1960,Summer,BER,Bermuda,9,0,0,0,0,0,0,0,0,0,0
+1960,Summer,AHO,Curacao,5,0,0,0,0,0,0,0,0,0,0
+1964,Summer,AUT,Austria,82,0,0,0,0,0,0,0,0,0,0
+1964,Summer,GHA,Ghana,40,0,1,0,1,0,0,1,0,0,0
+1964,Winter,USA,USA,127,1,8,2,5,1,1,3,0,1,2
+1964,Winter,URS,Russia,107,30,47,8,9,20,4,5,10,4,4
+1964,Summer,POL,Poland,240,10,46,13,23,6,10,12,4,3,11
+1964,Summer,VEN,Venezuela,23,0,0,0,0,0,0,0,0,0,0
+1964,Winter,FRA,France,50,3,7,4,0,1,2,0,2,2,0
+1964,Summer,LIE,Liechtenstein,3,0,0,0,0,0,0,0,0,0,0
+1964,Winter,LIE,Liechtenstein,12,0,0,0,0,0,0,0,0,0,0
+1964,Winter,TUR,Turkey,12,0,0,0,0,0,0,0,0,0,0
+1968,Summer,JAM,Jamaica,35,0,1,1,0,0,1,0,0,0,0
+1968,Winter,ARG,Argentina,12,0,0,0,0,0,0,0,0,0,0
+1968,Summer,SYR,Syria,2,0,0,0,0,0,0,0,0,0,0
+1968,Summer,LIB,Lebanon,15,0,0,0,0,0,0,0,0,0,0
+1968,Summer,SMR,San Marino,4,0,0,0,0,0,0,0,0,0,0
+1972,Summer,MAW,Malawi,18,0,0,0,0,0,0,0,0,0,0
+1972,Summer,KOR,South Korea,43,0,1,1,0,0,1,0,0,0,0
+1972,Summer,GHA,Ghana,41,0,1,0,1,0,0,1,0,0,0
+1972,Summer,SRI,Sri Lanka,6,0,0,0,0,0,0,0,0,0,0
+1972,Winter,SWE,Sweden,101,1,4,1,2,1,1,2,0,0,0
+1972,Summer,,,12,0,0,0,0,0,0,0,0,0,0
+1972,Summer,VEN,Venezuela,33,0,0,0,0,0,0,0,0,0,0
+1972,Winter,GBR,UK,71,0,0,0,0,0,0,0,0,0,0
+1972,Summer,AHO,Curacao,2,0,0,0,0,0,0,0,0,0,0
+1972,Summer,URU,Uruguay,20,0,0,0,0,0,0,0,0,0,0
+1976,Summer,PER,Peru,14,0,0,0,0,0,0,0,0,0,0
+1976,Summer,FIN,Finland,108,4,6,2,0,4,2,0,0,0,0
+1976,Winter,TUR,Turkey,19,0,0,0,0,0,0,0,0,0,0
+1976,Summer,TUN,Tunisia,16,0,0,0,0,0,0,0,0,0,0
+1976,Winter,POL,Poland,93,0,0,0,0,0,0,0,0,0,0
+1976,Winter,FIN,Finland,79,5,16,10,1,4,5,1,1,5,0
+1976,Summer,CMR,Cameroon,4,0,0,0,0,0,0,0,0,0,0
+1976,Summer,ECU,Ecuador,8,0,0,0,0,0,0,0,0,0,0
+1976,Winter,ESP,Spain,11,0,0,0,0,0,0,0,0,0,0
+1980,Summer,IRL,Ireland,57,0,3,2,1,0,2,1,0,0,0
+1980,Summer,GBR,UK,328,5,47,18,24,5,13,16,0,5,8
+1980,Summer,ETH,Ethiopia,48,2,4,0,2,2,0,2,0,0,0
+1980,Summer,SYR,Syria,71,0,0,0,0,0,0,0,0,0,0
+1980,Winter,YUG,Serbia,27,0,0,0,0,0,0,0,0,0,0
+1980,Winter,ISL,Iceland,12,0,0,0,0,0,0,0,0,0,0
+1984,Summer,AUS,Australia,337,7,52,14,31,6,12,23,1,2,8
+1984,Winter,IVB,"Virgin Islands, British",2,0,0,0,0,0,0,0,0,0,0
+1984,Summer,PER,Peru,44,0,1,1,0,0,1,0,0,0,0
+1984,Summer,IRQ,Iraq,25,0,0,0,0,0,0,0,0,0,0
+1984,Summer,GUI,Guinea,1,0,0,0,0,0,0,0,0,0,0
+1984,Summer,GHA,Ghana,27,0,0,0,0,0,0,0,0,0,0
+1984,Summer,ARG,Argentina,115,0,0,0,0,0,0,0,0,0,0
+1984,Summer,ZAM,Zambia,18,0,1,0,1,0,0,1,0,0,0
+1984,Summer,QAT,Qatar,26,0,0,0,0,0,0,0,0,0,0
+1984,Summer,NEP,Nepal,10,0,0,0,0,0,0,0,0,0,0
+1988,Summer,ROU,Romania,172,8,58,34,16,2,10,1,6,24,15
+1988,Summer,ARG,Argentina,134,0,13,1,12,0,0,12,0,1,0
+1988,Summer,URS,Russia,647,134,300,67,99,101,57,54,33,10,45
+1988,Winter,AUT,Austria,153,3,12,5,4,1,5,4,2,0,0
+1988,Summer,MRI,Mauritius,11,0,0,0,0,0,0,0,0,0,0
+1988,Winter,BEL,Belgium,1,0,0,0,0,0,0,0,0,0,0
+1988,Winter,HUN,Hungary,7,0,0,0,0,0,0,0,0,0,0
+1988,Winter,BUL,Bulgaria,52,0,0,0,0,0,0,0,0,0,0
+1988,Summer,LIB,Lebanon,31,0,0,0,0,0,0,0,0,0,0
+1988,Summer,QAT,Qatar,13,0,0,0,0,0,0,0,0,0,0
+1988,Winter,NZL,New Zealand,19,0,0,0,0,0,0,0,0,0,0
+1988,Winter,ESP,Spain,29,0,0,0,0,0,0,0,0,0,0
+1988,Winter,AHO,Curacao,3,0,0,0,0,0,0,0,0,0,0
+1992,Summer,AUS,Australia,390,14,57,27,16,12,24,9,2,3,7
+1992,Winter,FRA,France,184,5,12,6,1,2,4,0,3,2,1
+1992,Winter,SUI,Switzerland,129,2,7,0,5,2,0,5,0,0,0
+1992,Winter,CAN,Canada,186,5,36,28,3,0,28,1,5,0,2
+1992,Winter,ALG,Algeria,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,MAS,Malaysia,30,0,2,0,2,0,0,2,0,0,0
+1992,Winter,BUL,Bulgaria,72,0,0,0,0,0,0,0,0,0,0
+1992,Summer,BUL,Bulgaria,236,3,17,7,7,3,4,5,0,3,2
+1992,Summer,PNG,Papua New Guinea,19,0,0,0,0,0,0,0,0,0,0
+1992,Summer,LUX,Luxembourg,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,RSA,South Africa,141,0,3,3,0,0,2,0,0,1,0
+1992,Summer,SUD,Sudan,7,0,0,0,0,0,0,0,0,0,0
+1992,Summer,UGA,Uganda,9,0,0,0,0,0,0,0,0,0,0
+1992,Summer,HAI,Haiti,8,0,0,0,0,0,0,0,0,0,0
+1992,Summer,IND,India,61,0,0,0,0,0,0,0,0,0,0
+1994,Winter,CAN,Canada,149,3,37,29,5,1,23,4,2,6,1
+1994,Winter,ESP,Spain,33,0,0,0,0,0,0,0,0,0,0
+1994,Winter,JPN,Japan,125,3,10,5,2,3,5,1,0,0,1
+1994,Winter,UKR,Ukraine,60,1,2,0,1,0,0,0,1,0,1
+1994,Winter,BRA,Brazil,1,0,0,0,0,0,0,0,0,0,0
+1996,Summer,MDA,Moldova,50,0,3,2,1,0,2,1,0,0,0
+1996,Summer,BUL,Bulgaria,181,3,21,12,6,2,5,5,1,7,1
+1996,Summer,LIE,Liechtenstein,2,0,0,0,0,0,0,0,0,0,0
+1996,Summer,RSA,South Africa,111,3,5,1,1,1,1,0,2,0,1
+1996,Summer,CPV,Cape Verde,3,0,0,0,0,0,0,0,0,0,0
+1996,Summer,DOM,Dominican Republic,16,0,0,0,0,0,0,0,0,0,0
+1996,Summer,TPE,Taiwan,107,0,1,1,0,0,0,0,0,1,0
+1996,Summer,SMR,San Marino,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,SYR,Syria,8,1,1,0,0,0,0,0,1,0,0
+1996,Summer,BEN,Benin,7,0,0,0,0,0,0,0,0,0,0
+1996,Summer,KUW,Kuwait,27,0,0,0,0,0,0,0,0,0,0
+1998,Winter,BLR,Belarus,107,0,2,0,2,0,0,2,0,0,0
+1998,Winter,SVK,Slovakia,64,0,0,0,0,0,0,0,0,0,0
+1998,Winter,MDA,Moldova,4,0,0,0,0,0,0,0,0,0,0
+1998,Winter,UZB,Uzbekistan,4,0,0,0,0,0,0,0,0,0,0
+1998,Winter,PUR,Puerto Rico,7,0,0,0,0,0,0,0,0,0,0
+2000,Summer,LUX,Luxembourg,9,0,0,0,0,0,0,0,0,0,0
+2000,Summer,KEN,Kenya,59,2,7,3,2,2,3,1,0,0,1
+2000,Summer,TTO,Trinidad,29,0,2,1,1,0,1,1,0,0,0
+2000,Summer,SOL,Solomon Islands,2,0,0,0,0,0,0,0,0,0,0
+2000,Summer,BOL,Boliva,5,0,0,0,0,0,0,0,0,0,0
+2000,Summer,VIN,Saint Vincent,4,0,0,0,0,0,0,0,0,0,0
+2000,Summer,URU,Uruguay,17,0,1,1,0,0,1,0,0,0,0
+2000,Summer,JOR,Jordan,8,0,0,0,0,0,0,0,0,0,0
+2000,Summer,LBA,Libya,3,0,0,0,0,0,0,0,0,0,0
+2002,Winter,ISV,"Virgin Islands, US",8,0,0,0,0,0,0,0,0,0,0
+2004,Summer,URU,Uruguay,18,0,0,0,0,0,0,0,0,0,0
+2004,Summer,AUS,Australia,601,49,157,77,31,31,45,19,18,32,12
+2004,Summer,ZIM,Zimbabwe,14,1,3,1,1,0,0,0,1,1,1
+2004,Summer,ZAM,Zambia,6,0,0,0,0,0,0,0,0,0,0
+2004,Summer,UKR,Ukraine,357,8,47,8,31,3,4,9,5,4,22
+2004,Summer,MRI,Mauritius,9,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BRA,Brazil,318,18,40,19,3,18,0,3,0,19,0
+2004,Summer,SOM,Somalia,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,SVK,Slovakia,84,3,10,2,5,2,2,5,1,0,0
+2004,Summer,CUB,Cuba,177,32,62,8,22,30,5,5,2,3,17
+2004,Summer,MAW,Malawi,4,0,0,0,0,0,0,0,0,0,0
+2004,Summer,LCA,Saint Lucia,2,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BER,Bermuda,10,0,0,0,0,0,0,0,0,0,0
+2004,Summer,BDI,Burundi,7,0,0,0,0,0,0,0,0,0,0
+2004,Summer,GEO,Georgia,39,2,4,2,0,2,2,0,0,0,0
+2006,Winter,UKR,Ukraine,109,0,3,0,3,0,0,1,0,0,2
+2006,Winter,IRL,Ireland,5,0,0,0,0,0,0,0,0,0,0
+2006,Winter,BIH,Bosnia and Herzegovina,9,0,0,0,0,0,0,0,0,0,0
+2006,Winter,MGL,Mongolia,2,0,0,0,0,0,0,0,0,0,0
+2006,Winter,KAZ,Kazakhstan,97,0,0,0,0,0,0,0,0,0,0
+2006,Winter,CYP,Cyprus,2,0,0,0,0,0,0,0,0,0,0
+2008,Summer,CZE,Czech Republic,158,3,7,4,0,1,3,0,2,1,0
+2008,Summer,USA,USA,763,127,317,110,80,69,29,57,58,81,23
+2008,Summer,PNG,Papua New Guinea,9,0,0,0,0,0,0,0,0,0,0
+2008,Summer,MAR,Morocco,49,0,2,1,1,0,1,0,0,0,1
+2008,Summer,SEN,Senegal,17,0,0,0,0,0,0,0,0,0,0
+2008,Summer,SUR,Suriname,4,0,0,0,0,0,0,0,0,0,0
+2008,Summer,SEY,Seychelles,10,0,0,0,0,0,0,0,0,0,0
+2008,Summer,CYP,Cyprus,18,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ERI,Eritrea,11,0,0,0,0,0,0,0,0,0,0
+2008,Summer,BAR,Barbados,10,0,0,0,0,0,0,0,0,0,0
+2008,Summer,ISR,Israel,60,0,1,0,1,0,0,1,0,0,0
+2010,Winter,USA,USA,341,12,97,63,22,10,37,12,2,26,10
+2010,Winter,BUL,Bulgaria,41,0,0,0,0,0,0,0,0,0,0
+2010,Winter,EST,Estonia,64,0,1,1,0,0,0,0,0,1,0
+2010,Winter,GBR,UK,78,1,1,0,0,0,0,0,1,0,0
+2010,Winter,NED,Netherlands,65,4,11,1,6,2,0,5,2,1,1
+2010,Winter,SUI,Switzerland,190,6,12,0,6,6,0,5,0,0,1
+2010,Winter,SLO,Slovenia,107,0,3,2,1,0,0,0,0,2,1
+2010,Winter,NEP,Nepal,1,0,0,0,0,0,0,0,0,0,0
+2010,Winter,PAK,Pakistan,1,0,0,0,0,0,0,0,0,0,0
+2010,Winter,MDA,Moldova,11,0,0,0,0,0,0,0,0,0,0
+2012,Summer,KOR,South Korea,312,18,61,13,30,11,9,26,7,4,4
+2012,Summer,KGZ,Kyrgyzstan,15,0,0,0,0,0,0,0,0,0,0
+2012,Summer,CHA,Chad,2,0,0,0,0,0,0,0,0,0,0
+2012,Summer,AUS,Australia,514,18,114,37,59,9,13,27,9,24,32
+2012,Summer,ARG,Argentina,148,1,19,15,3,1,0,3,0,15,0
+2012,Summer,VEN,Venezuela,85,1,1,0,0,1,0,0,0,0,0
+2012,Summer,GAB,Gabon,21,0,1,1,0,0,1,0,0,0,0
+2012,Summer,ARM,Armenia,31,0,3,1,2,0,1,1,0,0,1
+2012,Summer,CRC,Costa Rica,11,0,0,0,0,0,0,0,0,0,0
+2012,Summer,OMA,Oman,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,BIZ,Belize,3,0,0,0,0,0,0,0,0,0,0
+2012,Summer,NIG,Niger,6,0,0,0,0,0,0,0,0,0,0
+2014,Winter,NOR,Norway,219,18,36,5,13,11,2,5,7,3,8
+2014,Winter,FRA,France,201,4,18,4,10,4,3,8,0,1,2
+2014,Winter,SLO,Slovenia,116,2,8,2,4,0,2,2,2,0,2
+2014,Winter,IRI,Iran,7,0,0,0,0,0,0,0,0,0,0
+2014,Winter,IOA,Individual Olympic Athletes,1,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MGL,Mongolia,46,0,2,1,1,0,0,1,0,1,0
+2016,Summer,TTO,Trinidad,43,0,1,0,1,0,0,1,0,0,0
+2016,Summer,CZE,Czech Republic,135,1,15,2,12,1,2,7,0,0,5
+2016,Summer,AUS,Australia,518,23,82,34,25,3,20,20,20,14,5
+2016,Summer,COL,Colombia,157,3,8,2,3,1,1,2,2,1,1
+2016,Summer,ITA,Italy,399,8,72,40,24,7,20,22,1,20,2
+2016,Summer,DOM,Dominican Republic,30,0,1,0,1,0,0,1,0,0,0
+2016,Summer,SRB,Serbia,127,14,54,27,13,14,14,0,0,13,13
+2016,Summer,RSA,South Africa,155,2,23,7,14,1,6,14,1,1,0
+2016,Summer,CUB,Cuba,143,5,11,2,4,5,1,3,0,1,1
+2016,Summer,KOS,Kosovo,8,1,1,0,0,0,0,0,1,0,0
+2016,Summer,SOL,Solomon Islands,3,0,0,0,0,0,0,0,0,0,0
+2016,Summer,MLI,Mali,6,0,0,0,0,0,0,0,0,0,0
+2016,Summer,AFG,Afghanistan,3,0,0,0,0,0,0,0,0,0,0
+2016,Summer,URU,Uruguay,17,0,0,0,0,0,0,0,0,0,0

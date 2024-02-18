@@ -1,0 +1,38 @@
+index,games,year,country,type,cost_per_event_mio_usd,cost_per_athlete_mio_usd,index,games,year,country,type,events,athletes,cost_billion_usd
+0,tokyo,1964,JPN,summer,1.7,0.1,0,tokyo,1964,JPN,summer,163,5152,0.282
+1,munich,1972,DEU,summer,5.2,0.1,1,munich,1972,DEU,summer,195,7234,1.009
+2,montreal,1976,CAN,summer,30.8,1,2,montreal,1976,CAN,summer,198,6048,6.093
+3,moscow,1980,URS,summer,31.2,1.2,3,moscow,1980,URS,summer,203,5179,6.331
+6,atlanta,1996,USA,summer,15.3,0.4,4,"los angeles",1984,USA,summer,221,6829,0.719
+4,"los angeles",1984,USA,summer,3.3,0.1,4,"los angeles",1984,USA,summer,221,6829,0.719
+5,barcelona,1992,ESP,summer,37.7,1,5,barcelona,1992,ESP,summer,257,9356,9.687
+6,atlanta,1996,USA,summer,15.3,0.4,6,atlanta,1996,USA,summer,271,10318,4.143
+4,"los angeles",1984,USA,summer,3.3,0.1,6,atlanta,1996,USA,summer,271,10318,4.143
+7,sydney,2000,AUS,summer,16.8,0.5,7,sydney,2000,AUS,summer,300,10651,5.026
+8,athens,2004,GRC,summer,9.8,0.3,8,athens,2004,GRC,summer,301,10625,2.942
+9,beijing,2008,CHN,summer,22.5,0.6,9,beijing,2008,CHN,summer,302,10942,6.81
+10,london,2012,GBR,summer,49.5,1.4,10,london,2012,GBR,summer,302,10568,14.957
+11,rio,2016,BRA,summer,14.9,0.4,11,rio,2016,BRA,summer,306,10500,4.557
+15,innsbruck,1976,AUT,winter,3.2,0.1,12,innsbruck,1964,AUT,winter,34,1091,0.022
+12,innsbruck,1964,AUT,winter,0.6,0.02,12,innsbruck,1964,AUT,winter,34,1091,0.022
+18,albertville,1992,FRA,winter,35,1.1,13,grenoble,1968,FRA,winter,35,1158,0.888
+13,grenoble,1968,FRA,winter,25.4,0.8,13,grenoble,1968,FRA,winter,35,1158,0.888
+20,nagano,1998,JPN,winter,32.7,1,14,sapporo,1972,JPN,winter,35,1006,0.117
+14,sapporo,1972,JPN,winter,3.4,0.1,14,sapporo,1972,JPN,winter,35,1006,0.117
+15,innsbruck,1976,AUT,winter,3.2,0.1,15,innsbruck,1976,AUT,winter,37,1123,0.118
+12,innsbruck,1964,AUT,winter,0.6,0.02,15,innsbruck,1976,AUT,winter,37,1123,0.118
+21,"salt lake city",2002,USA,winter,32.3,1.1,16,"lake placid",1980,USA,winter,38,1072,0.435
+16,"lake placid",1980,USA,winter,11.5,0.4,16,"lake placid",1980,USA,winter,38,1072,0.435
+23,vancouver,2010,CAN,winter,29.5,1,17,calgary,1988,CAN,winter,46,1432,1.109
+17,calgary,1988,CAN,winter,24.1,0.8,17,calgary,1988,CAN,winter,46,1432,1.109
+18,albertville,1992,FRA,winter,35,1.1,18,albertville,1992,FRA,winter,57,1801,1.997
+13,grenoble,1968,FRA,winter,25.4,0.8,18,albertville,1992,FRA,winter,57,1801,1.997
+19,lillehammer,1994,NOR,winter,36.5,1.3,19,lillehammer,1994,NOR,winter,61,1737,2.228
+20,nagano,1998,JPN,winter,32.7,1,20,nagano,1998,JPN,winter,68,2176,2.227
+14,sapporo,1972,JPN,winter,3.4,0.1,20,nagano,1998,JPN,winter,68,2176,2.227
+21,"salt lake city",2002,USA,winter,32.3,1.1,21,"salt lake city",2002,USA,winter,78,2399,2.52
+16,"lake placid",1980,USA,winter,11.5,0.4,21,"salt lake city",2002,USA,winter,78,2399,2.52
+22,torino,2006,ITA,winter,52,1.7,22,torino,2006,ITA,winter,84,2508,4.366
+23,vancouver,2010,CAN,winter,29.5,1,23,vancouver,2010,CAN,winter,86,2566,2.54
+17,calgary,1988,CAN,winter,24.1,0.8,23,vancouver,2010,CAN,winter,86,2566,2.54
+24,sochi,2014,RUS,winter,223.4,7.9,24,sochi,2014,RUS,winter,98,2780,21.89
