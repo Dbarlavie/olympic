@@ -4,7 +4,7 @@ The Olympic Games are global sports events where athletes from around the world 
 
 This project, 'Olympic Prestige,' aims to investigate the perceived benefits of hosting the Olympics. One hypothesis is that hosting countries may gain a homebase advantage, leading to increased medal counts for their athletes. Additionally, the extensive data available on Olympic athletes, dating back to 1896, allows for an examination of physical factors such as age, height, and weight to identify trends and changes in Olympic sports.
 
-# Data sources: 
+## Data sources: 
 Costs database - https://data.world/sports/olympics
 
 Olympic Athletes database - https://data.world/johndimm/olympic-medals-1896-to-2014-in-detail
@@ -12,6 +12,8 @@ Olympic Athletes database - https://data.world/johndimm/olympic-medals-1896-to-2
 Oxford's Said Business School Study - https://dx.doi.org/10.2139/ssrn.2804554
 
 
-Presentation link:
+## Presentation link:
 https://docs.google.com/presentation/d/1CPESXT-HilZzopMpjXpdZAfdavBT59S3AntgzG7g45s/edit?usp=sharing
+
+## Getting Started
 
